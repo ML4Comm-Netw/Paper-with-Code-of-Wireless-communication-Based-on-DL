@@ -19,6 +19,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AIF: An Artificial Intelligence Framework for Smart Wireless Network Management](http://ieeexplore.ieee.org/document/8119495/metrics) | [caogang](https://github.com/caogang)/[WlanDqn](https://github.com/caogang/WlanDqn) |
+| Deep-Learning-Power-Allocation-in-Massive-MIMO               | [lucasanguinetti / Deep-Learning-Power-Allocation-in-Massive-MIMO](https://github.com/lucasanguinetti/Deep-Learning-Power-Allocation-in-Massive-MIMO) |
 | DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications | [The DeepMIMO Dataset](http://deepmimo.net/)                 |
 | Fast Deep Learning for Automatic Modulation Classification   | [dl4amc](https://github.com/dl4amc)/[source](https://github.com/dl4amc/source) |
 | Deep Learning-Based Channel Estimation                       | [Mehran-Soltani](https://github.com/Mehran-Soltani)/[ChannelNet](https://github.com/Mehran-Soltani/ChannelNet) |
