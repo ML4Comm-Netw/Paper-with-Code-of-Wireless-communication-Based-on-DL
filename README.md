@@ -14,12 +14,12 @@ TODO
 - [ ] 传统通信论文代码列表
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
-更新：
-* [Security and Robustness of Deep Learning in Wireless Communication Systems](https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems)
-
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Deepcode: Feedback Codes via Deep Learning                   | https://github.com/hyejikim1/Deepcode<br>https://github.com/yihanjiang/feedback_code |
+| Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems | https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems |
+| [AIF: An Artificial Intelligence Framework for Smart Wireless Network Management](http://ieeexplore.ieee.org/document/8119495/metrics) | [caogang](https://github.com/caogang)/[WlanDqn](https://github.com/caogang/WlanDqn) |
 | [AIF: An Artificial Intelligence Framework for Smart Wireless Network Management](http://ieeexplore.ieee.org/document/8119495/metrics) | [caogang](https://github.com/caogang)/[WlanDqn](https://github.com/caogang/WlanDqn) |
 | Deep-Learning-Power-Allocation-in-Massive-MIMO               | [lucasanguinetti / Deep-Learning-Power-Allocation-in-Massive-MIMO](https://github.com/lucasanguinetti/Deep-Learning-Power-Allocation-in-Massive-MIMO) |
 | DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications | [The DeepMIMO Dataset](http://deepmimo.net/)                 |
