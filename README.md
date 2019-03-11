@@ -17,6 +17,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Deep Reinforcement Learning for Resource Allocation in V2V Communications|https://github.com/haoyye/ResourceAllocationReinforcementLearning|
 |RF-based Direction Finding of UAVs Using DNN|https://github.com/LahiruJayasinghe/DeepDOA|
 | Deepcode: Feedback Codes via Deep Learning                   | https://github.com/hyejikim1/Deepcode<br>https://github.com/yihanjiang/feedback_code |
 | Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems | https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems |
