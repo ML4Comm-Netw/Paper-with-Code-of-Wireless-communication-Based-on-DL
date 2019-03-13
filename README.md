@@ -64,7 +64,9 @@ TODO
 
 <br>贡献者：
 
-WxZhu:[Github](https://github.com/zhuwenxing)  [Email](wenxingzhu@shu.edu.cn)
+WxZhu:
+* [Github](https://github.com/zhuwenxing)  
+* Email:wenxingzhu@shu.edu.cn
 
 版本更新：
 
