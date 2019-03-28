@@ -63,6 +63,13 @@ TODO
 > for wireless communication systems.
 * [RF DATASETS FOR MACHINE LEARNING](https://www.deepsig.io/datasets)
 
+# 学者个人主页
+* [Ahmed Alkhateeb](http://www.aalkhateeb.net/index.html):Research Interests
+  - Millimeter Wave and Massive MIMO Communication
+  - Vehicular and Drone Communication Systems
+  - Applications of Machine Learning in Wireless Communication
+  - Building Mobile Communication Systems that Work in Reality!
+
 <br>贡献者：
 
 WxZhu:
