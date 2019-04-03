@@ -58,6 +58,11 @@ TODO
 | Implications of Decentralized Q-learning Resource Allocation in Wireless Networks | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
 | Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems | [haoyye/OFDM_DNN](https://github.com/haoyye/OFDM_DNN)        |
 
+# "通信+DL"论文（无代码）
+说明：论文主要来源于arxiv中[Signal Processing](https://arxiv.org/list/eess.SP/recent)和[Information Theory](https://arxiv.org/list/cs.IT/recent)
+* [Robust Data Detection for MIMO Systems with One-Bit ADCs: A Reinforcement Learning Approach](https://arxiv.org/pdf/1903.12546.pdf)
+* [Distributed Power Control for Large Energy Harvesting Networks: A Multi-Agent Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1904.00601.pdf)
+
 # 数据集
 * [An open online real modulated dataset](https://pan.baidu.com/s/1biDooH6E81Toxa2u4D3p2g):来自论文[Deep Learning for Signal Demodulation in Physical Layer Wireless Communications: Prototype Platform, Open Dataset, and Analytics](https://arxiv.org/pdf/1903.04297.pdf)。
 > To the best of our knowledge,this is the first open dataset of real modulated signals
