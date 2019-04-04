@@ -62,6 +62,8 @@ TODO
 说明：论文主要来源于arxiv中[Signal Processing](https://arxiv.org/list/eess.SP/recent)和[Information Theory](https://arxiv.org/list/cs.IT/recent)
 * [Robust Data Detection for MIMO Systems with One-Bit ADCs: A Reinforcement Learning Approach](https://arxiv.org/pdf/1903.12546.pdf)
 * [Distributed Power Control for Large Energy Harvesting Networks: A Multi-Agent Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1904.00601.pdf)
+* [Machine Learning for Wireless Communication Channel Modeling: An Overview](https://link.springer.com/article/10.1007/s11277-019-06275-4)
+* [Sum Spectral Efficiency Maximization in Massive MIMO Systems: Benefits from Deep Learning](https://arxiv.org/pdf/1903.08163.pdf)
 
 # 数据集
 * [An open online real modulated dataset](https://pan.baidu.com/s/1biDooH6E81Toxa2u4D3p2g):来自论文[Deep Learning for Signal Demodulation in Physical Layer Wireless Communications: Prototype Platform, Open Dataset, and Analytics](https://arxiv.org/pdf/1903.04297.pdf)。
