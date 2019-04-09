@@ -88,10 +88,11 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
 
 <br>贡献者：
 
-WxZhu:
-* [Github](https://github.com/zhuwenxing)  
-* Email:wenxingzhu@shu.edu.cn
+* WxZhu:
+  - [Github](https://github.com/zhuwenxing)  
+  - Email:wenxingzhu@shu.edu.cn
+* [LinTian](https://github.com/TianLin0509)
 
-版本更新：
+<br>版本更新：
 
 1. 第一版完成：2019-02-21
