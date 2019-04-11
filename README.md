@@ -82,6 +82,8 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
   - Vehicular and Drone Communication Systems
   - Applications of Machine Learning in Wireless Communication
   - Building Mobile Communication Systems that Work in Reality!
+* [Emil Björnson](https://ebjornson.com/research/):
+  He performs research on multi-antenna communications, Massive MIMO, radio resource allocation, energy-efficient communications, and network design. 
 # 有用的网页和材料
 * [机器学习和通信结合论文list](https://mlc.committees.comsoc.org/research-library/)
 
