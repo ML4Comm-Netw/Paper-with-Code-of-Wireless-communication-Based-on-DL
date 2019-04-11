@@ -14,7 +14,7 @@ TODO
 - [ ] 传统通信论文代码列表
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
-# 论文
+# 论文/Paper
 
 
 | Paper                                                        | Code                                                         |
@@ -59,14 +59,14 @@ TODO
 | Implications of Decentralized Q-learning Resource Allocation in Wireless Networks | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
 | Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems | [haoyye/OFDM_DNN](https://github.com/haoyye/OFDM_DNN)        |
 
-# "通信+DL"论文（无代码）
+# "通信+DL"论文（无代码/Paper List Without Code
 说明：论文主要来源于arxiv中[Signal Processing](https://arxiv.org/list/eess.SP/recent)和[Information Theory](https://arxiv.org/list/cs.IT/recent)
 * [Robust Data Detection for MIMO Systems with One-Bit ADCs: A Reinforcement Learning Approach](https://arxiv.org/pdf/1903.12546.pdf)
 * [Distributed Power Control for Large Energy Harvesting Networks: A Multi-Agent Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1904.00601.pdf)
 * [Machine Learning for Wireless Communication Channel Modeling: An Overview](https://link.springer.com/article/10.1007/s11277-019-06275-4)
 * [Sum Spectral Efficiency Maximization in Massive MIMO Systems: Benefits from Deep Learning](https://arxiv.org/pdf/1903.08163.pdf)
 
-# 数据集
+# 数据集/Database
 * [An open online real modulated dataset](https://pan.baidu.com/s/1biDooH6E81Toxa2u4D3p2g):来自论文[Deep Learning for Signal Demodulation in Physical Layer Wireless Communications: Prototype Platform, Open Dataset, and Analytics](https://arxiv.org/pdf/1903.04297.pdf)。
 > To the best of our knowledge,this is the first open dataset of real modulated signals
 > for wireless communication systems.
@@ -76,7 +76,7 @@ Methods for Physical Layer Visible Light
 Communications: Prototype Platform,
 Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8661606&tag=1)
 >The dataset is collected in real physical environment, and the channel suffers from many factors such as limited LED bandwidth, multi-reflection,spurious or continuous jamming, etc.
-# 学者个人主页
+# 学者个人主页/Researcher Homepage
 * [Ahmed Alkhateeb](http://www.aalkhateeb.net/index.html):Research Interests
   - Millimeter Wave and Massive MIMO Communication
   - Vehicular and Drone Communication Systems
@@ -84,17 +84,17 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
   - Building Mobile Communication Systems that Work in Reality!
 * [Emil Björnson](https://ebjornson.com/research/):
   He performs research on multi-antenna communications, Massive MIMO, radio resource allocation, energy-efficient communications, and network design. 
-# 有用的网页和材料
-* [机器学习和通信结合论文list](https://mlc.committees.comsoc.org/research-library/)
+# 有用的网页和材料/Useful Websites and Materials
+* [机器学习和通信结合论文列表/Research Library ](https://mlc.committees.comsoc.org/research-library/)
 
 
-<br>贡献者：
+<br>贡献者/Contributors：
 
 * WxZhu:
   - [Github](https://github.com/zhuwenxing)  
   - Email:wenxingzhu@shu.edu.cn
 * [LinTian](https://github.com/TianLin0509)
 
-<br>版本更新：
+<br>版本更新/Version Update：
 
-1. 第一版完成：2019-02-21
+1. 第一版完成/First Version：2019-02-21
