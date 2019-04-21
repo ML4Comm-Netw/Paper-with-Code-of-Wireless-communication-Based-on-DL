@@ -5,7 +5,9 @@ For English reader,please refer to [English Version](https://github.com/IIT-Lab/
 基于深度学习的通信论文这几年飞速增加，明显能感觉这些论文的作者更具开源精神。本项目专注于整理在通信中应用深度学习，并公开了相关源代码的论文。
 <br>
 个人关注的领域和精力有限，这个列表不会那么完整。如果你知道一些相关的开源论文，但不在此列表中，非常欢迎添加，为community贡献一份力量。欢迎交流^_^
-
+<br>
+温馨提示:watch相较于star更容易得到更新通知 。
+<br>
 TODO 
 
 - [ ] 按不同小方向分类
@@ -19,6 +21,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Power Allocation in Multi-Cell Networks Using Deep Reinforcement Learningg](https://ieeexplore.ieee.org/abstract/document/8690757)|[qfnet](https://github.com/kangcp/qfnet)|
 |Deep Learning in Downlink Coordinated Multipoint in New Radio Heterogeneous Networks|[DL-CoMP-Machine-Learning](https://github.com/farismismar/DL-CoMP-Machine-Learning)|
 |Deep Reinforcement Learning for Resource Allocation in V2V Communications|https://github.com/haoyye/ResourceAllocationReinforcementLearning|
 |RF-based Direction Finding of UAVs Using DNN|https://github.com/LahiruJayasinghe/DeepDOA|
