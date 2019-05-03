@@ -16,6 +16,8 @@ TODO
 - [ ] 传统通信论文代码列表
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
+
+
 # 论文/Paper
 
 
@@ -89,6 +91,7 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
   He performs research on multi-antenna communications, Massive MIMO, radio resource allocation, energy-efficient communications, and network design. 
 # 有用的网页和材料/Useful Websites and Materials
 * [机器学习和通信结合论文列表/Research Library ](https://mlc.committees.comsoc.org/research-library/)
+* [Best Readings in Machine Learning in Communications](https://www.comsoc.org/publications/best-readings/machine-learning-communications)
 
 
 <br>贡献者/Contributors：
