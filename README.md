@@ -23,6 +23,10 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
+|Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks|[DPPL](https://github.com/stochastic-geometry/DPPL)|
+|Learning Based Power Control for mmWave Massive MIMO against Jamming|[Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming](https://github.com/xiaozhch5/Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming)|
+|Sparsely Connected Neural Network for Massive MIMO Detection|[MIMO_Detection](https://github.com/NobleLee/MIMO_Detection)|
 |[Power Allocation in Multi-Cell Networks Using Deep Reinforcement Learningg](https://ieeexplore.ieee.org/abstract/document/8690757)|[qfnet](https://github.com/kangcp/qfnet)|
 |Deep Learning in Downlink Coordinated Multipoint in New Radio Heterogeneous Networks|[DL-CoMP-Machine-Learning](https://github.com/farismismar/DL-CoMP-Machine-Learning)|
 |Deep Reinforcement Learning for Resource Allocation in V2V Communications|https://github.com/haoyye/ResourceAllocationReinforcementLearning|
