@@ -6,7 +6,7 @@ For English reader,please refer to [English Version](https://github.com/IIT-Lab/
 <br>
 个人关注的领域和精力有限，这个列表不会那么完整。如果你知道一些相关的开源论文，但不在此列表中，非常欢迎添加，为community贡献一份力量。欢迎交流^_^
 <br>
-温馨提示:watch相较于star更容易得到更新通知 。
+**温馨提示:watch相较于star更容易得到更新通知 。**
 <br>
 TODO 
 
