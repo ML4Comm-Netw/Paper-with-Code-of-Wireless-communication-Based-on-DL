@@ -50,7 +50,7 @@ TODO
 | Deep MIMO Detection                                          | [neevsamuel](https://github.com/neevsamuel)/[DeepMIMODetection](https://github.com/neevsamuel/DeepMIMODetection) |
 | Learning to Detect                                           | [neevsamuel](https://github.com/neevsamuel)/[LearningToDetect](https://github.com/neevsamuel/LearningToDetect) |
 | An iterative BP-CNN architecture for channel decoding        | [liangfei-info](https://github.com/liangfei-info)/[Iterative-BP-CNN](https://github.com/liangfei-info/Iterative-BP-CNN) |
-| On Deep Learning-Based Channel Decoding                      | [gruberto/DL-ChannelDecoding](https://github.com/gruberto/DL-ChannelDecoding) |
+| On Deep Learning-Based Channel Decoding                      | [gruberto/DL-ChannelDecoding](https://github.com/gruberto/DL-ChannelDecoding) <br/>[Decoder-using-deep-learning](https://github.com/VivekRamalingamK/Decoder-using-deep-learning)|
 | DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls | [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
 | Deep Q-Learning for Self-Organizing Networks Fault Management and Radio Performance Improvement | [farismismar / Deep-Q-Learning-SON-Perf-Improvement](https://github.com/farismismar/Deep-Q-Learning-SON-Perf-Improvement) |
 | An Introduction to Deep Learning for the Physical Layer      | [yashcao / RTN-DL-for-physical-layer](https://github.com/yashcao/RTN-DL-for-physical-layer)<br />[musicbeer / Deep-Learning-for-the-Physical-Layer](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer)<br />[helloMRDJ / autoencoder-for-the-Physical-Layer](https://github.com/helloMRDJ/autoencoder-for-the-Physical-Layer) |
