@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|MIST: A Novel Training Strategy for Low-latencyScalable Neural Net Decoders|[MIST_CNN_Decoder](https://github.com/kryashashwi/MIST_CNN_Decoder)|
 |[Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)|[UL2DL](https://github.com/safarisadegh/UL2DL)|
 |Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
 |Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks|[DPPL](https://github.com/stochastic-geometry/DPPL)|
