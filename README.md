@@ -23,6 +23,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Learning Physical-Layer Communication with Quantized Feedback|[quantizedfeedback](https://github.com/henkwymeersch/quantizedfeedback)|
+|[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
 |Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
 |MIST: A Novel Training Strategy for Low-latencyScalable Neural Net Decoders|[MIST_CNN_Decoder](https://github.com/kryashashwi/MIST_CNN_Decoder)|
 |[Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)|[UL2DL](https://github.com/safarisadegh/UL2DL)|
