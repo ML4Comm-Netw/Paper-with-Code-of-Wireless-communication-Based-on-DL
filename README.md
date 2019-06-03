@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
 | Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells|[Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control)|
 |[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
 |[Deep Learning Models for Wireless Signal Classification With Distributed Low-Cost Spectrum Sensors](https://ieeexplore.ieee.org/abstract/document/8357902)|[modulation_classif](https://github.com/zeroXzero/modulation_classif)|
