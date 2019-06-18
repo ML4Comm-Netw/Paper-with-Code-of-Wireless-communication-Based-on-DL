@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding](https://arxiv.org/pdf/1906.04448.pdf)|[RLdecoding](https://github.com/fabriziocarpi/RLdecoding)|
 |[Adaptive Neural Signal Detection for Massive MIMO](https://arxiv.org/abs/1906.04610)|[mehrdadkhani/MMNet](https://github.com/mehrdadkhani/MMNet)|
 |[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
 | Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells|[Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control)|
