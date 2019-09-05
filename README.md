@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
 |[A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems](https://ieeexplore.ieee.org/document/8755977)|[Deepcom](https://github.com/ZhangKaiyao/Deepcom)|
 |[Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding](https://arxiv.org/pdf/1906.04448.pdf)|[RLdecoding](https://github.com/fabriziocarpi/RLdecoding)|
 |[Adaptive Neural Signal Detection for Massive MIMO](https://arxiv.org/abs/1906.04610)|[mehrdadkhani/MMNet](https://github.com/mehrdadkhani/MMNet)|
