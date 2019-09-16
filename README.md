@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Sequential Convolutional Recurrent Neural Networks for Fast Automatic Modulation Classification](https://arxiv.org/pdf/1909.03050.pdf)|[coming soon](https://github.com/kython)|
 |[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
 |[A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems](https://ieeexplore.ieee.org/document/8755977)|[Deepcom](https://github.com/ZhangKaiyao/Deepcom)|
 |[Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding](https://arxiv.org/pdf/1906.04448.pdf)|[RLdecoding](https://github.com/fabriziocarpi/RLdecoding)|
