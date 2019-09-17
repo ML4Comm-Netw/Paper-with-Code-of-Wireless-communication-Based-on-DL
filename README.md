@@ -108,6 +108,7 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
   - Building Mobile Communication Systems that Work in Reality!
 * [Emil Björnson](https://ebjornson.com/research/):
   He performs research on multi-antenna communications, Massive MIMO, radio resource allocation, energy-efficient communications, and network design. 
+* [Leo-Chu](https://github.com/Leo-Chu):His research interests are in the theoretical and algorithmic studies in random matrix theory, nonconvex optimization, deep learning, as well as their applications in wireless communications, bioengineering, and smart grid.
 # 有用的网页和材料/Useful Websites and Materials
 * [机器学习和通信结合论文列表/Research Library ](https://mlc.committees.comsoc.org/research-library/)
 * [Best Readings in Machine Learning in Communications](https://www.comsoc.org/publications/best-readings/machine-learning-communications)
