@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Low-Precision Neural Network Decoding of Polar Codes](https://ieeexplore.ieee.org/abstract/document/8815542)|[low-precision-nnd](https://github.com/IgWod/low-precision-nnd)|
 |[A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487.pdf)|[Globecom2019](https://github.com/yshenaw/Globecom2019)|
 |CNN-based Precoder and Combiner Design in mmWave MIMO Systems|[Deep_HybridBeamforming](https://github.com/meuseabe/Deep_HybridBeamforming)|
 |[Sequential Convolutional Recurrent Neural Networks for Fast Automatic Modulation Classification](https://arxiv.org/pdf/1909.03050.pdf)|[coming soon](https://github.com/kython)|
