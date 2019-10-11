@@ -25,7 +25,7 @@ TODO
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[Low-Precision Neural Network Decoding of Polar Codes](https://ieeexplore.ieee.org/abstract/document/8815542)|[low-precision-nnd](https://github.com/IgWod/low-precision-nnd)|
 |[A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487.pdf)|[Globecom2019](https://github.com/yshenaw/Globecom2019)|
-|CNN-based Precoder and Combiner Design in mmWave MIMO Systems|[Deep_HybridBeamforming](https://github.com/meuseabe/Deep_HybridBeamforming)|
+|[CNN-based Precoder and Combiner Design in mmWave MIMO Systems](https://ieeexplore.ieee.org/document/8710287)|[Deep_HybridBeamforming](https://github.com/meuseabe/Deep_HybridBeamforming)|
 |[Sequential Convolutional Recurrent Neural Networks for Fast Automatic Modulation Classification](https://arxiv.org/pdf/1909.03050.pdf)|[coming soon](https://github.com/kython)|
 |[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
 |[A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems](https://ieeexplore.ieee.org/document/8755977)|[Deepcom](https://github.com/ZhangKaiyao/Deepcom)|
