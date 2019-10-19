@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Towards Optimal Power Control via Ensembling Deep Neural Networks](https://arxiv.org/abs/1807.10025)|[PCNet-ePCNet](https://github.com/ShenGroup/PCNet-ePCNet)|
 |[Low-Precision Neural Network Decoding of Polar Codes](https://ieeexplore.ieee.org/abstract/document/8815542)|[low-precision-nnd](https://github.com/IgWod/low-precision-nnd)|
 |[A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487.pdf)|[Globecom2019](https://github.com/yshenaw/Globecom2019)|
 |[CNN-based Precoder and Combiner Design in mmWave MIMO Systems](https://ieeexplore.ieee.org/document/8710287)|[Deep_HybridBeamforming](https://github.com/meuseabe/Deep_HybridBeamforming)|
