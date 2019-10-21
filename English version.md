@@ -14,7 +14,7 @@ TODO
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications | [The DeepMIMO Dataset](http://deepmimo.net/)                 |
 | Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
-| Communication Algorithms via Deep Learning  | [yihanjiang](https://github.com/dl4amc)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
+| Communication Algorithms via Deep Learning  | [yihanjiang](https://github.com/yihanjiang)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
 | Fast Deep Learning for Automatic Modulation Classification   | [dl4amc](https://github.com/dl4amc)/[source](https://github.com/dl4amc/source) |
 | Deep Learning-Based Channel Estimation                       | [Mehran-Soltani](https://github.com/Mehran-Soltani)/[ChannelNet](https://github.com/Mehran-Soltani/ChannelNet) |
 | Transmit Power Control Using Deep Neural Network for Underlay Device-to-Device Communication | [seotaijiya](https://github.com/seotaijiya)/[TPC_D2D](https://github.com/seotaijiya/TPC_D2D) |
