@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf)|[ns3-gym](https://github.com/tkn-tub/ns3-gym)|
 | Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
 | Communication Algorithms via Deep Learning  | [yihanjiang](https://github.com/yihanjiang)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
 |[Towards Optimal Power Control via Ensembling Deep Neural Networks](https://arxiv.org/abs/1807.10025)|[PCNet-ePCNet](https://github.com/ShenGroup/PCNet-ePCNet)|
