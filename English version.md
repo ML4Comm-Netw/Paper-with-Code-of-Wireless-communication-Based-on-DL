@@ -13,6 +13,8 @@ TODO
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications | [The DeepMIMO Dataset](http://deepmimo.net/)                 |
+| Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
+| Communication Algorithms via Deep Learning  | [yihanjiang](https://github.com/yihanjiang)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
 | Fast Deep Learning for Automatic Modulation Classification   | [dl4amc](https://github.com/dl4amc)/[source](https://github.com/dl4amc/source) |
 | Deep Learning-Based Channel Estimation                       | [Mehran-Soltani](https://github.com/Mehran-Soltani)/[ChannelNet](https://github.com/Mehran-Soltani/ChannelNet) |
 | Transmit Power Control Using Deep Neural Network for Underlay Device-to-Device Communication | [seotaijiya](https://github.com/seotaijiya)/[TPC_D2D](https://github.com/seotaijiya/TPC_D2D) |
@@ -34,6 +36,7 @@ TODO
 | Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks | [zhongyuanzhao / dl_ofdm](https://github.com/zhongyuanzhao/dl_ofdm) |
 | Joint Transceiver Optimization for WirelessCommunication PHY with Convolutional NeuralNetwork | [hlz1992/RadioCNN](https://github.com/hlz1992/RadioCNN)      |
 | Deep Learning for Massive MIMO CSI Feedback                  | [sydney222 / Python_CsiNet](https://github.com/sydney222/Python_CsiNet) |
+| [Beamforming Design for Large-Scale Antenna Arrays Using Deep Learning](http://arxiv.org/abs/1904.03657) | [TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|
 | 5G MIMO Data for Machine Learning: Application to Beam-Selection using Deep Learning | [lasseufpa](https://github.com/lasseufpa)/[5gm-data](https://github.com/lasseufpa/5gm-data) |
 | Deep multi-user reinforcement learning for dynamic spectrum access in multichannel wireless networks | [shkrwnd](https://github.com/shkrwnd)/[Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access](https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access) |
 | DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) |
