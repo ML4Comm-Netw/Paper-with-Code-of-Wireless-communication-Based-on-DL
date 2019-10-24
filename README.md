@@ -23,6 +23,9 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder) *Not Yet*|
+|[Learning to Communicate in a Noisy Environment](https://arxiv.org/abs/1910.09630)|[echo](https://github.com/ml4wireless/echo)|
+|[Low-rank mmWave MIMO channel estimation in one-bit receivers](https://arxiv.org/abs/1910.09141)|[Low-rank-MIMO-channel-estimation-from-one-bit-measurements](https://github.com/nitinjmyers/Low-rank-MIMO-channel-estimation-from-one-bit-measurements)|
 |[Deep Learning for Massive MIMO with 1-Bit ADCs: When More Antennas Need Fewer Pilots](https://arxiv.org/abs/1910.06960)|[1-Bit-ADCs](https://github.com/YuZhang-GitHub/1-Bit-ADCs)|
 |[ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf)|[ns3-gym](https://github.com/tkn-tub/ns3-gym)|
 | Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
