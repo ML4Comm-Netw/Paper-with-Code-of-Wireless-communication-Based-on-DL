@@ -23,6 +23,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Learning for Direct Hybrid Precoding in Millimeter Wave Massive MIMO Systems](https://arxiv.org/abs/1905.13212)|[DL-hybrid-precoder](https://github.com/lxf8519/DL-hybrid-precoder)|
+|[Deep Learning-Based Detector for OFDM-IM](https://ieeexplore.ieee.org/document/8684894)|[DeepIM](https://github.com/ThienVanLuong/DeepIM)|
 |[Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder) *Not Yet*|
 |[Learning to Communicate in a Noisy Environment](https://arxiv.org/abs/1910.09630)|[echo](https://github.com/ml4wireless/echo)|
 |[Low-rank mmWave MIMO channel estimation in one-bit receivers](https://arxiv.org/abs/1910.09141)|[Low-rank-MIMO-channel-estimation-from-one-bit-measurements](https://github.com/nitinjmyers/Low-rank-MIMO-channel-estimation-from-one-bit-measurements)|
