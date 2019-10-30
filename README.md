@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets)|[UARA](https://github.com/LiuJieShane/UARA)|
 |[Deep Learning for Direct Hybrid Precoding in Millimeter Wave Massive MIMO Systems](https://arxiv.org/abs/1905.13212)|[DL-hybrid-precoder](https://github.com/lxf8519/DL-hybrid-precoder)|
 |[Deep Learning-Based Detector for OFDM-IM](https://ieeexplore.ieee.org/document/8684894)|[DeepIM](https://github.com/ThienVanLuong/DeepIM)|
 |[Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder) *Not Yet*|
