@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README* |
 |[Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/document/8665952)|[DLMA](https://github.com/YidingYu/DLMA)|
 |[Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets)|[UARA](https://github.com/LiuJieShane/UARA)|
 |[Deep Learning for Direct Hybrid Precoding in Millimeter Wave Massive MIMO Systems](https://arxiv.org/abs/1905.13212)|[DL-hybrid-precoder](https://github.com/lxf8519/DL-hybrid-precoder)|
