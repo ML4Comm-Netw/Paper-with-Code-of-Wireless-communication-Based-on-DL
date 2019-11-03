@@ -23,6 +23,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Learning for Channel Coding via Neural Mutual Information Estimation](https://ieeexplore.ieee.org/document/8815464)|[Wireless_encoding_with_MI_estimation](https://github.com/Fritschek/Wireless_encoding_with_MI_estimation)|
+|[Deep Learning for the Gaussian Wiretap Channel](https://ieeexplore.ieee.org/abstract/document/8761681)|[NN_GWTC](https://github.com/Fritschek/NN_GWTC)|
 |[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README* |
 |[Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/document/8665952)|[DLMA](https://github.com/YidingYu/DLMA)|
 |[Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets)|[UARA](https://github.com/LiuJieShane/UARA)|
