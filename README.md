@@ -23,47 +23,47 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|[Deep Learning for mmWave Beam and Blockage Prediction Using Sub-6GHz Channels](https://arxiv.org/abs/1910.02900)|[Sub6-Preds-mmWave](https://github.com/malrabeiah/Sub6-Preds-mmWave)|
-|[Deep Learning for Channel Coding via Neural Mutual Information Estimation](https://ieeexplore.ieee.org/document/8815464)|[Wireless_encoding_with_MI_estimation](https://github.com/Fritschek/Wireless_encoding_with_MI_estimation)|
-|[Deep Learning for the Gaussian Wiretap Channel](https://ieeexplore.ieee.org/abstract/document/8761681)|[NN_GWTC](https://github.com/Fritschek/NN_GWTC)|
-|[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README* |
-|[Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/document/8665952)|[DLMA](https://github.com/YidingYu/DLMA)|
-|[Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets)|[UARA](https://github.com/LiuJieShane/UARA)|
-|[Deep Learning for Direct Hybrid Precoding in Millimeter Wave Massive MIMO Systems](https://arxiv.org/abs/1905.13212)|[DL-hybrid-precoder](https://github.com/lxf8519/DL-hybrid-precoder)|
-|[Deep Learning-Based Detector for OFDM-IM](https://ieeexplore.ieee.org/document/8684894)|[DeepIM](https://github.com/ThienVanLuong/DeepIM)|
-|[Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder)|
-|[Learning to Communicate in a Noisy Environment](https://arxiv.org/abs/1910.09630)|[echo](https://github.com/ml4wireless/echo)|
-|[Low-rank mmWave MIMO channel estimation in one-bit receivers](https://arxiv.org/abs/1910.09141)|[Low-rank-MIMO-channel-estimation-from-one-bit-measurements](https://github.com/nitinjmyers/Low-rank-MIMO-channel-estimation-from-one-bit-measurements)|
-|[Deep Learning for Massive MIMO with 1-Bit ADCs: When More Antennas Need Fewer Pilots](https://arxiv.org/abs/1910.06960)|[1-Bit-ADCs](https://github.com/YuZhang-GitHub/1-Bit-ADCs)|
-|[ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf)|[ns3-gym](https://github.com/tkn-tub/ns3-gym)|
-| Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
-| Communication Algorithms via Deep Learning  | [yihanjiang](https://github.com/yihanjiang)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
-|[Towards Optimal Power Control via Ensembling Deep Neural Networks](https://arxiv.org/abs/1807.10025)|[PCNet-ePCNet](https://github.com/ShenGroup/PCNet-ePCNet)|
-|[Low-Precision Neural Network Decoding of Polar Codes](https://ieeexplore.ieee.org/abstract/document/8815542)|[low-precision-nnd](https://github.com/IgWod/low-precision-nnd)|
-|[A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487.pdf)|[Globecom2019](https://github.com/yshenaw/Globecom2019)|
-|[CNN-based Precoder and Combiner Design in mmWave MIMO Systems](https://ieeexplore.ieee.org/document/8710287)|[Deep_HybridBeamforming](https://github.com/meuseabe/Deep_HybridBeamforming)|
-|[Sequential Convolutional Recurrent Neural Networks for Fast Automatic Modulation Classification](https://arxiv.org/pdf/1909.03050.pdf)|[coming soon](https://github.com/kython)|
-|[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
-|[A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems](https://ieeexplore.ieee.org/document/8755977)|[Deepcom](https://github.com/ZhangKaiyao/Deepcom)|
-|[Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding](https://arxiv.org/pdf/1906.04448.pdf)|[RLdecoding](https://github.com/fabriziocarpi/RLdecoding)|
-|[Adaptive Neural Signal Detection for Massive MIMO](https://arxiv.org/abs/1906.04610)|[mehrdadkhani/MMNet](https://github.com/mehrdadkhani/MMNet)|
-|[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
-| Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells|[Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control)|
-|[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
-|[Deep Learning Models for Wireless Signal Classification With Distributed Low-Cost Spectrum Sensors](https://ieeexplore.ieee.org/abstract/document/8357902)|[modulation_classif](https://github.com/zeroXzero/modulation_classif)|
-|Learning Physical-Layer Communication with Quantized Feedback|[quantizedfeedback](https://github.com/henkwymeersch/quantizedfeedback)|
-|[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
-|Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
-|MIST: A Novel Training Strategy for Low-latencyScalable Neural Net Decoders|[MIST_CNN_Decoder](https://github.com/kryashashwi/MIST_CNN_Decoder)|
-|[Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)|[UL2DL](https://github.com/safarisadegh/UL2DL)|
-|Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
-|Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks|[DPPL](https://github.com/stochastic-geometry/DPPL)|
-|Learning Based Power Control for mmWave Massive MIMO against Jamming|[Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming](https://github.com/xiaozhch5/Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming)|
-|Sparsely Connected Neural Network for Massive MIMO Detection|[MIMO_Detection](https://github.com/NobleLee/MIMO_Detection)|
-|[Power Allocation in Multi-Cell Networks Using Deep Reinforcement Learningg](https://ieeexplore.ieee.org/abstract/document/8690757)|[qfnet](https://github.com/kangcp/qfnet)|
-|Deep Learning in Downlink Coordinated Multipoint in New Radio Heterogeneous Networks|[DL-CoMP-Machine-Learning](https://github.com/farismismar/DL-CoMP-Machine-Learning)|
-|Deep Reinforcement Learning for Resource Allocation in V2V Communications|https://github.com/haoyye/ResourceAllocationReinforcementLearning|
-|RF-based Direction Finding of UAVs Using DNN|https://github.com/LahiruJayasinghe/DeepDOA|
+| [Deep Learning for mmWave Beam and Blockage Prediction Using Sub-6GHz Channels](https://arxiv.org/abs/1910.02900) | [Sub6-Preds-mmWave](https://github.com/malrabeiah/Sub6-Preds-mmWave) |
+| [Deep Learning for Channel Coding via Neural Mutual Information Estimation](https://ieeexplore.ieee.org/document/8815464) | [Wireless_encoding_with_MI_estimation](https://github.com/Fritschek/Wireless_encoding_with_MI_estimation) |
+| [Deep Learning for the Gaussian Wiretap Channel](https://ieeexplore.ieee.org/abstract/document/8761681) | [NN_GWTC](https://github.com/Fritschek/NN_GWTC)              |
+| [Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322) | [CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README* |
+| [Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/document/8665952) | [DLMA](https://github.com/YidingYu/DLMA)                     |
+| [Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets) | [UARA](https://github.com/LiuJieShane/UARA)                  |
+| [Deep Learning for Direct Hybrid Precoding in Millimeter Wave Massive MIMO Systems](https://arxiv.org/abs/1905.13212) | [DL-hybrid-precoder](https://github.com/lxf8519/DL-hybrid-precoder) |
+| [Deep Learning-Based Detector for OFDM-IM](https://ieeexplore.ieee.org/document/8684894) | [DeepIM](https://github.com/ThienVanLuong/DeepIM)            |
+| [Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945) | [meta-autoencoder](https://github.com/kclip/meta-autoencoder) |
+| [Learning to Communicate in a Noisy Environment](https://arxiv.org/abs/1910.09630) | [echo](https://github.com/ml4wireless/echo)                  |
+| [Low-rank mmWave MIMO channel estimation in one-bit receivers](https://arxiv.org/abs/1910.09141) | [Low-rank-MIMO-channel-estimation-from-one-bit-measurements](https://github.com/nitinjmyers/Low-rank-MIMO-channel-estimation-from-one-bit-measurements) |
+| [Deep Learning for Massive MIMO with 1-Bit ADCs: When More Antennas Need Fewer Pilots](https://arxiv.org/abs/1910.06960) | [1-Bit-ADCs](https://github.com/YuZhang-GitHub/1-Bit-ADCs)   |
+| [ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf) | [ns3-gym](https://github.com/tkn-tub/ns3-gym)                |
+| Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
+| Communication Algorithms via Deep Learning                   | [yihanjiang](https://github.com/yihanjiang)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
+| [Towards Optimal Power Control via Ensembling Deep Neural Networks](https://arxiv.org/abs/1807.10025) | [PCNet-ePCNet](https://github.com/ShenGroup/PCNet-ePCNet)    |
+| [Low-Precision Neural Network Decoding of Polar Codes](https://ieeexplore.ieee.org/abstract/document/8815542) | [low-precision-nnd](https://github.com/IgWod/low-precision-nnd) |
+| [A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487.pdf) | [Globecom2019](https://github.com/yshenaw/Globecom2019)      |
+| [CNN-based Precoder and Combiner Design in mmWave MIMO Systems](https://ieeexplore.ieee.org/document/8710287) | [Deep_HybridBeamforming](https://github.com/meuseabe/Deep_HybridBeamforming) |
+| [Sequential Convolutional Recurrent Neural Networks for Fast Automatic Modulation Classification](https://arxiv.org/pdf/1909.03050.pdf) | [coming soon](https://github.com/kython)                     |
+| [An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf) | [docwza/sumolights](https://github.com/docwza/sumolights)    |
+| [A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems](https://ieeexplore.ieee.org/document/8755977) | [Deepcom](https://github.com/ZhangKaiyao/Deepcom)            |
+| [Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding](https://arxiv.org/pdf/1906.04448.pdf) | [RLdecoding](https://github.com/fabriziocarpi/RLdecoding)    |
+| [Adaptive Neural Signal Detection for Massive MIMO](https://arxiv.org/abs/1906.04610) | [mehrdadkhani/MMNet](https://github.com/mehrdadkhani/MMNet)  |
+| [Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773) | [DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL) |
+| Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells | [Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control) |
+| [Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910) | [MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X) |
+| [Deep Learning Models for Wireless Signal Classification With Distributed Low-Cost Spectrum Sensors](https://ieeexplore.ieee.org/abstract/document/8357902) | [modulation_classif](https://github.com/zeroXzero/modulation_classif) |
+| Learning Physical-Layer Communication with Quantized Feedback | [quantizedfeedback](https://github.com/henkwymeersch/quantizedfeedback) |
+| [Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533) | [DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization) |
+| Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks | [DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL) |
+| MIST: A Novel Training Strategy for Low-latencyScalable Neural Net Decoders | [MIST_CNN_Decoder](https://github.com/kryashashwi/MIST_CNN_Decoder) |
+| [Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518) | [UL2DL](https://github.com/safarisadegh/UL2DL)               |
+| Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency | [DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO) |
+| Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks | [DPPL](https://github.com/stochastic-geometry/DPPL)          |
+| Learning Based Power Control for mmWave Massive MIMO against Jamming | [Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming](https://github.com/xiaozhch5/Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming) |
+| Sparsely Connected Neural Network for Massive MIMO Detection | [MIMO_Detection](https://github.com/NobleLee/MIMO_Detection) |
+| [Power Allocation in Multi-Cell Networks Using Deep Reinforcement Learningg](https://ieeexplore.ieee.org/abstract/document/8690757) | [qfnet](https://github.com/kangcp/qfnet)                     |
+| Deep Learning in Downlink Coordinated Multipoint in New Radio Heterogeneous Networks | [DL-CoMP-Machine-Learning](https://github.com/farismismar/DL-CoMP-Machine-Learning) |
+| Deep Reinforcement Learning for Resource Allocation in V2V Communications | https://github.com/haoyye/ResourceAllocationReinforcementLearning |
+| RF-based Direction Finding of UAVs Using DNN                 | https://github.com/LahiruJayasinghe/DeepDOA                  |
 | Deepcode: Feedback Codes via Deep Learning                   | https://github.com/hyejikim1/Deepcode<br>https://github.com/yihanjiang/feedback_code |
 | Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems | https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems |
 | [AIF: An Artificial Intelligence Framework for Smart Wireless Network Management](http://ieeexplore.ieee.org/document/8119495/metrics) | [caogang](https://github.com/caogang)/[WlanDqn](https://github.com/caogang/WlanDqn) |
@@ -82,7 +82,7 @@ TODO
 | Deep MIMO Detection                                          | [neevsamuel](https://github.com/neevsamuel)/[DeepMIMODetection](https://github.com/neevsamuel/DeepMIMODetection) |
 | Learning to Detect                                           | [neevsamuel](https://github.com/neevsamuel)/[LearningToDetect](https://github.com/neevsamuel/LearningToDetect) |
 | An iterative BP-CNN architecture for channel decoding        | [liangfei-info](https://github.com/liangfei-info)/[Iterative-BP-CNN](https://github.com/liangfei-info/Iterative-BP-CNN) |
-| On Deep Learning-Based Channel Decoding                      | [gruberto/DL-ChannelDecoding](https://github.com/gruberto/DL-ChannelDecoding) <br/>[Decoder-using-deep-learning](https://github.com/VivekRamalingamK/Decoder-using-deep-learning)|
+| On Deep Learning-Based Channel Decoding                      | [gruberto/DL-ChannelDecoding](https://github.com/gruberto/DL-ChannelDecoding) <br/>[Decoder-using-deep-learning](https://github.com/VivekRamalingamK/Decoder-using-deep-learning) |
 | DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls | [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
 | Deep Q-Learning for Self-Organizing Networks Fault Management and Radio Performance Improvement | [farismismar / Deep-Q-Learning-SON-Perf-Improvement](https://github.com/farismismar/Deep-Q-Learning-SON-Perf-Improvement) |
 | An Introduction to Deep Learning for the Physical Layer      | [yashcao / RTN-DL-for-physical-layer](https://github.com/yashcao/RTN-DL-for-physical-layer)<br />[musicbeer / Deep-Learning-for-the-Physical-Layer](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer)<br />[helloMRDJ / autoencoder-for-the-Physical-Layer](https://github.com/helloMRDJ/autoencoder-for-the-Physical-Layer) |
@@ -90,7 +90,7 @@ TODO
 | Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks | [zhongyuanzhao / dl_ofdm](https://github.com/zhongyuanzhao/dl_ofdm) |
 | Joint Transceiver Optimization for WirelessCommunication PHY with Convolutional NeuralNetwork | [hlz1992/RadioCNN](https://github.com/hlz1992/RadioCNN)      |
 | Deep Learning for Massive MIMO CSI Feedback                  | [sydney222 / Python_CsiNet](https://github.com/sydney222/Python_CsiNet) |
-| [Beamforming Design for Large-Scale Antenna Arrays Using Deep Learning](http://arxiv.org/abs/1904.03657) | [TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|
+| [Beamforming Design for Large-Scale Antenna Arrays Using Deep Learning](http://arxiv.org/abs/1904.03657) | [TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL) |
 | 5G MIMO Data for Machine Learning: Application to Beam-Selection using Deep Learning | [lasseufpa](https://github.com/lasseufpa)/[5gm-data](https://github.com/lasseufpa/5gm-data) |
 | Deep multi-user reinforcement learning for dynamic spectrum access in multichannel wireless networks | [shkrwnd](https://github.com/shkrwnd)/[Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access](https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access) |
 | DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) |
@@ -99,6 +99,7 @@ TODO
 | Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
 | Learning to optimize: Training deep neural networks for wireless resource management | [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
 | Implications of Decentralized Q-learning Resource Allocation in Wireless Networks | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
+| [Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](<https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets>) | [LiuJieShanes/UARA](<https://github.com/LiuJieShane/UARA>)   |
 | Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems | [haoyye/OFDM_DNN](https://github.com/haoyye/OFDM_DNN)        |
 
 # "通信+DL"论文（无代码)/Paper List Without Code
