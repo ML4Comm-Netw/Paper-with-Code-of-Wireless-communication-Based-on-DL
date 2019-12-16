@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Learning the MMSE Channel Estimator](https://arxiv.org/pdf/1707.05674v3.pdf)|[learning-mmse-est](https://github.com/tum-msv/learning-mmse-est)|
 |[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
 |[Model-Aware Deep Architectures for One-Bit Compressive Variational Autoencoding](https://arxiv.org/abs/1911.12410)|[deep1bitVAE](https://github.com/skhobahi/deep1bitVAE) *Not Yet*|
 |[CSI-based Positioning in Massive MIMO systems using Convolutional Neural Networks](https://arxiv.org/abs/1911.11523)|[MaMIMO_CSI_with_CNN_positioning](https://github.com/sibrendebast/MaMIMO_CSI_with_CNN_positioning) *Not Yet*|
