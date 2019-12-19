@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Performance Evaluation of Channel Decoding With Deep Neural Networks](https://arxiv.org/pdf/1711.00727.pdf)|[deep-neural-network-decoder](https://github.com/levylv/deep-neural-network-decoder)|
 |[Learning the MMSE Channel Estimator](https://arxiv.org/pdf/1707.05674v3.pdf)|[learning-mmse-est](https://github.com/tum-msv/learning-mmse-est)|
 |[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
 |[Model-Aware Deep Architectures for One-Bit Compressive Variational Autoencoding](https://arxiv.org/abs/1911.12410)|[deep1bitVAE](https://github.com/skhobahi/deep1bitVAE) *Not Yet*|
