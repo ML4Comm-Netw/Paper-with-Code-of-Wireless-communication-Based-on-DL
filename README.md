@@ -23,6 +23,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Exploiting Bi-Directional Channel Reciprocity in Deep Learning for
+Low Rate Massive MIMO CSI Feedback](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8638509)|[Bi-Directional-Channel-Reciprocity](https://github.com/DLinWL/Bi-Directional-Channel-Reciprocity)|
 |[Performance Evaluation of Channel Decoding With Deep Neural Networks](https://arxiv.org/pdf/1711.00727.pdf)|[deep-neural-network-decoder](https://github.com/levylv/deep-neural-network-decoder)|
 |[Learning the MMSE Channel Estimator](https://arxiv.org/pdf/1707.05674v3.pdf)|[learning-mmse-est](https://github.com/tum-msv/learning-mmse-est)|
 |[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
