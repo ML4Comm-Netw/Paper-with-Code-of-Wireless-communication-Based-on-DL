@@ -23,8 +23,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|[Power Allocation in Multi-user Cellular Networks With Deep Q Learning Approach](https://arxiv.org/abs/1812.02979)|[PA_ICC](https://github.com/mengxiaomao/PA_ICC)|
-|[Power Allocation in Multi-User Cellular Networks: Deep Reinforcement Learning Approaches](https://arxiv.org/abs/1901.07159)|[PA_TWC](https://github.com/mengxiaomao/PA_TWC)|
+|[Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)|[FEDL](https://github.com/nhatminh/FEDL)|
+|[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464)|[OnDevAI](https://github.com/nhatminh/OnDevAI)|
 |[Deep learning based end-to-end wireless communication systems with conditional GAN as unknown channel](https://arxiv.org/pdf/1903.02551.pdf)|[End2End_GAN](https://github.com/haoyye/End2End_GAN)|
 |[Intelligent Resource Allocation in Wireless Communications Systems](https://ieeexplore.ieee.org/document/8961912)|[IRAWCS](https://github.com/seotaijiya/IRAWCS)|
 |[Spatio-Temporal Representation with Deep Recurrent Network in MIMO CSI Feedback](https://ieeexplore.ieee.org/document/8951228)|[ConvlstmCsiNet](https://github.com/Aries-LXY/ConvlstmCsiNet)|
