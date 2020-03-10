@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665)|[graph_comb_opt](https://github.com/Hanjun-Dai/graph_comb_opt.git)|
 |[Extending the RISC-V ISA for Efficient RNN-based 5G Radio Resource Management](https://arxiv.org/abs/2002.12877)|[RNNASIP](https://github.com/andrire/RNNASIP)|
 |[Power Allocation in Multi-user Cellular Networks With Deep Q Learning Approach](https://arxiv.org/abs/1812.02979)|[PA_ICC](https://github.com/mengxiaomao/PA_ICC)|
 |[Power Allocation in Multi-User Cellular Networks: Deep Reinforcement Learning Approaches](https://arxiv.org/abs/1901.07159)|[PA_TWC](https://github.com/mengxiaomao/PA_TWC)|
