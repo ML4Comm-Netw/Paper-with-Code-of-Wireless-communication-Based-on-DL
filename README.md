@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Decoder-in-the-Loop: Genetic Optimization-based LDPC Code Design](https://arxiv.org/abs/1903.03128)|[Genetic-Algorithm-based-LDPC-Code-Design](https://github.com/AhmedElkelesh/Genetic-Algorithm-based-LDPC-Code-Design)|
 |[MaMIMO CSI-based positioning using CNNs: Peeking inside the black box](https://arxiv.org/abs/2003.04581)|[inside-the-black-box](https://github.com/sibrendebast/inside-the-black-box)|
 |[Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665)|[graph_comb_opt](https://github.com/Hanjun-Dai/graph_comb_opt.git)|
 |[Extending the RISC-V ISA for Efficient RNN-based 5G Radio Resource Management](https://arxiv.org/abs/2002.12877)|[RNNASIP](https://github.com/andrire/RNNASIP)|
