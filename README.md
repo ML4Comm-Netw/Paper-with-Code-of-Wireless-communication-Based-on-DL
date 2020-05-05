@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Soft Interference Cancellation for MIMO Detection](https://ieeexplore.ieee.org/document/9054732)|[DeepSIC](https://github.com/nirshlezinger1/DeepSIC)|
 |[Reinforcement Learning Based Scheduling Algorithm for Optimizing Age of Information in Ultra Reliable Low Latency Networks](https://ieeexplore.ieee.org/document/8969641)|[AoI_RL](https://github.com/aelgabli/AoI_RL)|
 |[Decoder-in-the-Loop: Genetic Optimization-based LDPC Code Design](https://arxiv.org/abs/1903.03128)|[Genetic-Algorithm-based-LDPC-Code-Design](https://github.com/AhmedElkelesh/Genetic-Algorithm-based-LDPC-Code-Design)|
 |[MaMIMO CSI-based positioning using CNNs: Peeking inside the black box](https://arxiv.org/abs/2003.04581)|[inside-the-black-box](https://github.com/sibrendebast/inside-the-black-box)|
