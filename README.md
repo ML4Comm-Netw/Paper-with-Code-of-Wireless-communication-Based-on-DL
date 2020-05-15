@@ -23,6 +23,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Learned Conjugate Gradient Descent Network for Massive MIMO Detection](https://arxiv.org/abs/1906.03814)|[LcgNet](https://github.com/YiWei0129/LcgNet)|
+|[Trainable Projected Gradient Detector for Massive Overloaded MIMO Channels: Data-driven Tuning Approach](https://arxiv.org/abs/1812.10044)|[overloaded_MIMO](https://github.com/wadayama/overloaded_MIMO)|
 |[Deep Soft Interference Cancellation for MIMO Detection](https://ieeexplore.ieee.org/document/9054732)|[DeepSIC](https://github.com/nirshlezinger1/DeepSIC)|
 |[Reinforcement Learning Based Scheduling Algorithm for Optimizing Age of Information in Ultra Reliable Low Latency Networks](https://ieeexplore.ieee.org/document/8969641)|[AoI_RL](https://github.com/aelgabli/AoI_RL)|
 |[Decoder-in-the-Loop: Genetic Optimization-based LDPC Code Design](https://arxiv.org/abs/1903.03128)|[Genetic-Algorithm-based-LDPC-Code-Design](https://github.com/AhmedElkelesh/Genetic-Algorithm-based-LDPC-Code-Design)|
