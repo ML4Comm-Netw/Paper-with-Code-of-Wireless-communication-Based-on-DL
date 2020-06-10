@@ -23,6 +23,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|A Model-Driven Deep Learning Method for Normalized Min-Sum LDPC Decoding|[A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding](https://github.com/tjuxiaofeng/A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding)|
+|Complex-Valued Convolutions for Modulation Recognition using Deep Learning|[Complex_Convolutions](https://github.com/JakobKrzyston/Complex_Convolutions)|
 |[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136)|[LIS-DeepLearning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|
 |Wireless link adaptation - a hybrid data-driven and model-based approach|[LinkAdaptationCSI](https://github.com/lpkg/LinkAdaptationCSI)|
 |Deep unfolding of the weighted MMSE algorithm|[WMMSE-deep-unfolding](https://github.com/lpkg/WMMSE-deep-unfolding)|
