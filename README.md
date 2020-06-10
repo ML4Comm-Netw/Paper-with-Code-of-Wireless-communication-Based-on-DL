@@ -23,6 +23,10 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136)|[LIS-DeepLearning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|
+|Wireless link adaptation - a hybrid data-driven and model-based approach|[LinkAdaptationCSI](https://github.com/lpkg/LinkAdaptationCSI)|
+|Deep unfolding of the weighted MMSE algorithm|[WMMSE-deep-unfolding](https://github.com/lpkg/WMMSE-deep-unfolding)|
+|[Learn to Compress CSI and Allocate Resources in Vehicular Networks](https://arxiv.org/abs/1908.04685)|[Learn-CompressCSI-RA-V2X-Code](https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code)|
 |[Benchmarking End-to-end Learning of MIMO Physical-Layer Communication](https://arxiv.org/abs/2005.09718)|[DeepLearning_MIMO](https://github.com/JSChalmers/DeepLearning_MIMO)|
 |[Learned Conjugate Gradient Descent Network for Massive MIMO Detection](https://arxiv.org/abs/1906.03814)|[LcgNet](https://github.com/YiWei0129/LcgNet)|
 |[Trainable Projected Gradient Detector for Massive Overloaded MIMO Channels: Data-driven Tuning Approach](https://arxiv.org/abs/1812.10044)|[overloaded_MIMO](https://github.com/wadayama/overloaded_MIMO)|
