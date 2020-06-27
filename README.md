@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN](https://arxiv.org/abs/2006.11435)|[Channel_Estimation_cGAN](https://github.com/YudiDong/Channel_Estimation_cGAN)|
 |A Model-Driven Deep Learning Method for Normalized Min-Sum LDPC Decoding|[A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding](https://github.com/tjuxiaofeng/A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding)|
 |Complex-Valued Convolutions for Modulation Recognition using Deep Learning|[Complex_Convolutions](https://github.com/JakobKrzyston/Complex_Convolutions)|
 |[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136)|[LIS-DeepLearning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|
