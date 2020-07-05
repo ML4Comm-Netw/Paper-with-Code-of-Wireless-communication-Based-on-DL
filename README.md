@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Learning for SVD and Hybrid Beamforming](https://ieeexplore.ieee.org/abstract/document/9130130)|[DL_SVD_BF](https://www.dropbox.com/sh/v0gs7ba0qq5x168/AACyqRoCz5m3fhpF-azkbn3Qa?dl=0)|
 |[Neural Mutual Information Estimation for Channel Coding: State-of-the-Art Estimators, Analysis, and Performance Comparison](https://arxiv.org/abs/2006.16015)|[Reverse-Jensen_MI_estimation](https://github.com/Fritschek/Reverse-Jensen_MI_estimation)|
 |[Deep Transfer Learning Based Downlink Channel Prediction for FDD Massive MIMO Systems](https://arxiv.org/abs/1912.12265)|[Codes-for-Deep-Transfer-Learning-Based-Downlink-Channel-Prediction-for-FDD-Massive-MIMO-Systems](https://github.com/yangyuwenyang/Codes-for-Deep-Transfer-Learning-Based-Downlink-Channel-Prediction-for-FDD-Massive-MIMO-Systems)|
 |[Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN](https://arxiv.org/abs/2006.11435)|[Channel_Estimation_cGAN](https://github.com/YudiDong/Channel_Estimation_cGAN)|
