@@ -166,6 +166,7 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
 # 有用的网页和材料/Useful Websites and Materials
 * [机器学习和通信结合论文列表/Research Library ](https://mlc.committees.comsoc.org/research-library/)
 * [Best Readings in Machine Learning in Communications](https://www.comsoc.org/publications/best-readings/machine-learning-communications)
+* [Communication Systems, Linköping University, LIU](https://www.youtube.com/channel/UCOrjRoYJPqGiR1SZvU3xcYQ/videos)
 
 
 <br>贡献者/Contributors：
