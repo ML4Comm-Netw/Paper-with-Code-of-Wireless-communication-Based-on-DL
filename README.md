@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Learning for Direction of Arrival Estimation via Emulation of Large Antenna Arrays](https://arxiv.org/abs/2007.13824)|[DoA with DNN via Emulation of Antenna Arrays](https://gitlab.com/miriyugl/doa-with-dnn-via-emulation-of-antenna-arrays)|
 |[Acquiring Measurement Matrices via Deep Basis Persuit for Sparse Channel Estimation in mmWave Massive MIMO Systems](https://arxiv.org/abs/2007.05177)|[DeepBP-AE](https://github.com/Pengxia-Wu/DeepBP-AE)|
 |[Deep Learning for SVD and Hybrid Beamforming](https://ieeexplore.ieee.org/abstract/document/9130130)|[DL_SVD_BF](https://www.dropbox.com/sh/v0gs7ba0qq5x168/AACyqRoCz5m3fhpF-azkbn3Qa?dl=0)|
 |[Neural Mutual Information Estimation for Channel Coding: State-of-the-Art Estimators, Analysis, and Performance Comparison](https://arxiv.org/abs/2006.16015)|[Reverse-Jensen_MI_estimation](https://github.com/Fritschek/Reverse-Jensen_MI_estimation)|
