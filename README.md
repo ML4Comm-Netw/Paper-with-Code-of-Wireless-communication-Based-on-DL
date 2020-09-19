@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks](https://arxiv.org/abs/2009.06681)|[Power-Control-asilomar](https://github.com/sinannasir/Power-Control-asilomar)|
 |[Deep Learning for Direction of Arrival Estimation via Emulation of Large Antenna Arrays](https://arxiv.org/abs/2007.13824)|[DoA with DNN via Emulation of Antenna Arrays](https://gitlab.com/miriyugl/doa-with-dnn-via-emulation-of-antenna-arrays)|
 |[Acquiring Measurement Matrices via Deep Basis Persuit for Sparse Channel Estimation in mmWave Massive MIMO Systems](https://arxiv.org/abs/2007.05177)|[DeepBP-AE](https://github.com/Pengxia-Wu/DeepBP-AE)|
 |[Deep Learning for SVD and Hybrid Beamforming](https://ieeexplore.ieee.org/abstract/document/9130130)|[DL_SVD_BF](https://www.dropbox.com/sh/v0gs7ba0qq5x168/AACyqRoCz5m3fhpF-azkbn3Qa?dl=0)|
