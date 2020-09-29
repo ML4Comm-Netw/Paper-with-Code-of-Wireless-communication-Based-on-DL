@@ -23,6 +23,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation](https://arxiv.org/abs/2009.10812)|[Unrolled-WMMSE](https://github.com/ArCho48/Unrolled-WMMSE)|
 |[Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks](https://arxiv.org/abs/2009.06681)|[Power-Control-asilomar](https://github.com/sinannasir/Power-Control-asilomar)|
 |[Deep Learning for Direction of Arrival Estimation via Emulation of Large Antenna Arrays](https://arxiv.org/abs/2007.13824)|[DoA with DNN via Emulation of Antenna Arrays](https://gitlab.com/miriyugl/doa-with-dnn-via-emulation-of-antenna-arrays)|
 |[Acquiring Measurement Matrices via Deep Basis Persuit for Sparse Channel Estimation in mmWave Massive MIMO Systems](https://arxiv.org/abs/2007.05177)|[DeepBP-AE](https://github.com/Pengxia-Wu/DeepBP-AE)|
