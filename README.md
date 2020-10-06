@@ -24,6 +24,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Learning for Polar Codes over Flat Fading Channels](https://ieeexplore.ieee.org/document/8669025)|[polarOverFlatFading](https://github.com/ade-irawan/polarOverFlatFading)|
 |[Graph Neural Networks for Scalable Radio Resource Management: Architecture Design and Theoretical Analysis](https://arxiv.org/abs/2007.07632)|[GNN-Resource-Management](https://github.com/yshenaw/GNN-Resource-Management)|
 |Enhancing WiFi Multiple Access Performance with Federated Deep Reinforcement Learning|[FLDRL-in-Wireless-Communication](https://github.com/Mauriyin/FLDRL-in-Wireless-Communication)|
 |[Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation](https://arxiv.org/abs/2009.10812)|[Unrolled-WMMSE](https://github.com/ArCho48/Unrolled-WMMSE)|
