@@ -24,6 +24,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Learning for Beamspace Channel Estimation in Millimeter-Wave Massive MIMO Systems](https://ieeexplore.ieee.org/document/9207745)|[Simulation Codes](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|
 |[Deep Learning for Polar Codes over Flat Fading Channels](https://ieeexplore.ieee.org/document/8669025)|[polarOverFlatFading](https://github.com/ade-irawan/polarOverFlatFading)|
 |[Graph Neural Networks for Scalable Radio Resource Management: Architecture Design and Theoretical Analysis](https://arxiv.org/abs/2007.07632)|[GNN-Resource-Management](https://github.com/yshenaw/GNN-Resource-Management)|
 |Enhancing WiFi Multiple Access Performance with Federated Deep Reinforcement Learning|[FLDRL-in-Wireless-Communication](https://github.com/Mauriyin/FLDRL-in-Wireless-Communication)|
