@@ -24,6 +24,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Contrastive Self-Supervised Learning for Wireless Power Control](https://arxiv.org/abs/2010.11909)|[ContrastiveSSL_WirelessPowerControl](https://github.com/navid-naderi/ContrastiveSSL_WirelessPowerControl)|
 |[Graph Neural Network for Large-Scale Network Localization](https://arxiv.org/abs/2010.11653)|[GNN-For-localization](https://github.com/Yanzongzi/GNN-For-localization)|
 |[A Clustering Approach to Wireless Scheduling](https://ieeexplore.ieee.org/abstract/document/9154271)|[A_Clustering_Approach_to_Wireless_Scheduling](https://github.com/willtop/A_Clustering_Approach_to_Wireless_Scheduling)|
 |[Deep Channel Learning For Large Intelligent Surfaces Aided mm-Wave Massive MIMO Systems](https://arxiv.org/abs/2001.11085)|[deepChannelLearning4RIS](https://github.com/meuseabe/deepChannelLearning4RIS)|
