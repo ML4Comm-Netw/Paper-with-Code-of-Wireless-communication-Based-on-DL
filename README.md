@@ -17,7 +17,7 @@ TODO
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
 # 代码复现与交流群
-<img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/GC_11_2.jpg" width="400" alt="交流群" align=center>
+<img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/GC_11_10.jpg" width="400" alt="交流群" align=center>
 
 # 论文/Paper
 
