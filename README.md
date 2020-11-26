@@ -24,6 +24,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment(https://arxiv.org/abs/2011.07782)|[ICASSP2021]https://github.com/Haoran-S/ICASSP2021|
 |[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
 |[Iterative Algorithm Induced Deep-Unfolding Neural Networks: Precoding Design for Multiuser MIMO Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9246287)|[DeepUnfolding_WMMSE](https://github.com/hqyyqh888/DeepUnfolding_WMMSE)|
 |[Recursive CSI Quantization of Time-Correlated MIMO Channels by Deep Learning Classification](https://arxiv.org/abs/2009.13560)|[MultiStage-Grassmannian-DNN](https://github.com/StefanSchwarzTUW/MultiStage-Grassmannian-DNN)|
