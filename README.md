@@ -24,6 +24,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning]|[hats](https://github.com/skypitcher/hats)|
+|[A MIMO detector with deep learning in the presence of correlated interference]|[project_dcnnmld](https://github.com/skypitcher/project_dcnnmld)|
 |[Deep Learning Driven Non-Orthogonal Precoding for Millimeter Wave Communications](https://ieeexplore.ieee.org/document/9082619)|[Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications](https://github.com/JKLinUESTC/Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications)|
 |[Aggregated Network for Massive MIMO CSI Feedback](https://arxiv.org/abs/2101.06618)|[ACRNet](https://github.com/Kylin9511/ACRNet)|
 |[A Two-Fold Group Lasso Based Lightweight Deep Neural Network for Automatic Modulation Classification](https://ieeexplore.ieee.org/abstract/document/9145050)|[Group-Sparse-DNN-for-AMC](https://github.com/tjuxiaofeng/Group-Sparse-DNN-for-AMC)|
