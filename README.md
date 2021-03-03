@@ -24,6 +24,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks](https://ieeexplore.ieee.org/abstract/document/8771176/)|[DROO](https://github.com/revenol/DROO)|
+|[Multicell Power Control under Rate Constraints with Deep Learning](https://arxiv.org/abs/2012.03655)|[SRnet-and-SRNet-Heu-for-power-control](https://github.com/Leeyyhh/SRnet-and-SRNet-Heu-for-power-control)|
 |[Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
 |[A MIMO detector with deep learning in the presence of correlated interference](https://ieeexplore.ieee.org/abstract/document/8990045)|[project_dcnnmld](https://github.com/skypitcher/project_dcnnmld)|
 |[Deep Learning Driven Non-Orthogonal Precoding for Millimeter Wave Communications](https://ieeexplore.ieee.org/document/9082619)|[Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications](https://github.com/JKLinUESTC/Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications)|
@@ -170,6 +172,7 @@ TODO
 * [Sum Spectral Efficiency Maximization in Massive MIMO Systems: Benefits from Deep Learning](https://arxiv.org/pdf/1903.08163.pdf)
 
 # 数据集/Database
+* [RAYMOBTIME](https://www.lasse.ufpa.br/raymobtime/):Raymobtime is a methodology for collecting realistic datasets for simulating wireless communications. It uses ray-tracing and 3D scenarios with mobility and time evolution, for obtaining consistency over time, frequency and space. 
 * [MASSIVE MIMO CSI MEASUREMENTS](https://homes.esat.kuleuven.be/~sdebast/csi_measurements.html)
 * [SM-CsiNet+ and PM-CsiNet+](https://drive.google.com/drive/folders/1_lAMLk_5k1Z8zJQlTr5NRnSD6ACaNRtj?usp=sharing):来自论文[Convolutional Neural Network based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis](https://arxiv.org/pdf/1906.06007.pdf)
 * [An open online real modulated dataset](https://pan.baidu.com/s/1biDooH6E81Toxa2u4D3p2g):来自论文[Deep Learning for Signal Demodulation in Physical Layer Wireless Communications: Prototype Platform, Open Dataset, and Analytics](https://arxiv.org/pdf/1903.04297.pdf)。
