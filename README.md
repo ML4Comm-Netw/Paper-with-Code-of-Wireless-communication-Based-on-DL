@@ -4,7 +4,7 @@ For English reader,please refer to [English Version](https://github.com/IIT-Lab/
 <br>
 基于深度学习的通信论文这几年飞速增加，明显能感觉这些论文的作者更具开源精神。本项目专注于整理在通信中应用深度学习，并公开了相关源代码的论文。
 <br>
-个人关注的领域和精力有限，这个列表不会那么完整。如果你知道一些相关的开源论文，但不在此列表中，非常欢迎添加，为community贡献一份力量。欢迎交流^_^
+个人关注的领域和精力有限，这个列表不会那么完整。**如果你知道一些相关的开源论文，但不在此列表中，非常欢迎添加在issue当中**，为community贡献一份力量。欢迎交流^_^
 <br>
 **温馨提示:watch相较于star更容易得到更新通知 。**
 <br>
@@ -17,14 +17,30 @@ TODO
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
 # 代码复现与交流群
-<img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/QR10_23.jpg" width="400" alt="交流群" align=center>
+<img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/WeChatGroup.jpg" width="400" alt="交流群" align=center>
 
 # 论文/Paper
 
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|April.09.2021 [BottleNet++: An End-to-End Approach for Feature Compression in Device-Edge Co-Inference Systems](https://ieeexplore.ieee.org/abstract/document/9145068)|[BottleNetPlusPlus](https://github.com/shaojiawei07/BottleNetPlusPlus)|
+|[BottleNet++: An End-to-End Approach for Feature Compression in Device-Edge Co-Inference Systems](https://ieeexplore.ieee.org/abstract/document/9145068)|[BottleNetPlusPlus](https://github.com/shaojiawei07/BottleNetPlusPlus)|
+|[Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks](https://ieeexplore.ieee.org/abstract/document/8771176/)|[DROO](https://github.com/revenol/DROO)|
+|[Multicell Power Control under Rate Constraints with Deep Learning](https://arxiv.org/abs/2012.03655)|[SRnet-and-SRNet-Heu-for-power-control](https://github.com/Leeyyhh/SRnet-and-SRNet-Heu-for-power-control)|
+|[Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
+|[A MIMO detector with deep learning in the presence of correlated interference](https://ieeexplore.ieee.org/abstract/document/8990045)|[project_dcnnmld](https://github.com/skypitcher/project_dcnnmld)|
+|[Deep Learning Driven Non-Orthogonal Precoding for Millimeter Wave Communications](https://ieeexplore.ieee.org/document/9082619)|[Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications](https://github.com/JKLinUESTC/Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications)|
+|[Aggregated Network for Massive MIMO CSI Feedback](https://arxiv.org/abs/2101.06618)|[ACRNet](https://github.com/Kylin9511/ACRNet)|
+|[A Two-Fold Group Lasso Based Lightweight Deep Neural Network for Automatic Modulation Classification](https://ieeexplore.ieee.org/abstract/document/9145050)|[Group-Sparse-DNN-for-AMC](https://github.com/tjuxiaofeng/Group-Sparse-DNN-for-AMC)|
+|[Deep Reinforcement Learning for Distributed Dynamic MISO Downlink-Beamforming Coordination](https://ieeexplore.ieee.org/abstract/document/9123956)|[DRL_for_DDBC](https://github.com/JungangGe/DRL_for_DDBC)|
+|[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
+|[No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks](https://github.com/zhiguo-ding/CRNOMA_DDPG/blob/main/paper.pdf)|[CRNOMA_DDPG](https://github.com/zhiguo-ding/CRNOMA_DDPG)|
+|[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
+|[Deep energy autoencoder for noncoherent multicarrier MU-SIMO systems](https://ieeexplore.ieee.org/document/9036067)|[energy_autoencoder](https://github.com/ThienVanLuong/energy_autoencoder)|
+|[Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment](https://arxiv.org/abs/2011.07782)|[ICASSP2021](https://github.com/Haoran-S/ICASSP2021)|
+|[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[Iterative Algorithm Induced Deep-Unfolding Neural Networks: Precoding Design for Multiuser MIMO Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9246287)|[DeepUnfolding_WMMSE](https://github.com/hqyyqh888/DeepUnfolding_WMMSE)|
+|[Recursive CSI Quantization of Time-Correlated MIMO Channels by Deep Learning Classification](https://arxiv.org/abs/2009.13560)|[MultiStage-Grassmannian-DNN](https://github.com/StefanSchwarzTUW/MultiStage-Grassmannian-DNN)|
 |[Contrastive Self-Supervised Learning for Wireless Power Control](https://arxiv.org/abs/2010.11909)|[ContrastiveSSL_WirelessPowerControl](https://github.com/navid-naderi/ContrastiveSSL_WirelessPowerControl)|
 |[Graph Neural Network for Large-Scale Network Localization](https://arxiv.org/abs/2010.11653)|[GNN-For-localization](https://github.com/Yanzongzi/GNN-For-localization)|
 |[A Clustering Approach to Wireless Scheduling](https://ieeexplore.ieee.org/abstract/document/9154271)|[A_Clustering_Approach_to_Wireless_Scheduling](https://github.com/willtop/A_Clustering_Approach_to_Wireless_Scheduling)|
@@ -157,6 +173,7 @@ TODO
 * [Sum Spectral Efficiency Maximization in Massive MIMO Systems: Benefits from Deep Learning](https://arxiv.org/pdf/1903.08163.pdf)
 
 # 数据集/Database
+* [RAYMOBTIME](https://www.lasse.ufpa.br/raymobtime/):Raymobtime is a methodology for collecting realistic datasets for simulating wireless communications. It uses ray-tracing and 3D scenarios with mobility and time evolution, for obtaining consistency over time, frequency and space. 
 * [MASSIVE MIMO CSI MEASUREMENTS](https://homes.esat.kuleuven.be/~sdebast/csi_measurements.html)
 * [SM-CsiNet+ and PM-CsiNet+](https://drive.google.com/drive/folders/1_lAMLk_5k1Z8zJQlTr5NRnSD6ACaNRtj?usp=sharing):来自论文[Convolutional Neural Network based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis](https://arxiv.org/pdf/1906.06007.pdf)
 * [An open online real modulated dataset](https://pan.baidu.com/s/1biDooH6E81Toxa2u4D3p2g):来自论文[Deep Learning for Signal Demodulation in Physical Layer Wireless Communications: Prototype Platform, Open Dataset, and Analytics](https://arxiv.org/pdf/1903.04297.pdf)。
