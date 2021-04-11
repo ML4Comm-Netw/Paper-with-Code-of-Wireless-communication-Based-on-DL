@@ -4,7 +4,7 @@ For English reader,please refer to [English Version](https://github.com/IIT-Lab/
 <br>
 基于深度学习的通信论文这几年飞速增加，明显能感觉这些论文的作者更具开源精神。本项目专注于整理在通信中应用深度学习，并公开了相关源代码的论文。
 <br>
-个人关注的领域和精力有限，这个列表不会那么完整。如果你知道一些相关的开源论文，但不在此列表中，非常欢迎添加，为community贡献一份力量。欢迎交流^_^
+个人关注的领域和精力有限，这个列表不会那么完整。**如果你知道一些相关的开源论文，但不在此列表中，非常欢迎添加在issue当中**，为community贡献一份力量。欢迎交流^_^
 <br>
 **温馨提示:watch相较于star更容易得到更新通知 。**
 <br>
@@ -16,13 +16,89 @@ TODO
 - [ ] 传统通信论文代码列表
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
-
+# 代码复现与交流群
+<img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/WeChatGroup.jpg" width="400" alt="交流群" align=center>
 
 # 论文/Paper
 
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Fast Adaptive Task Offloading in Edge Computing based on Meta Reinforcement Learning](https://arxiv.org/abs/2008.02033)|[metarl-offloading](https://github.com/linkpark/metarl-offloading)|
+|[BottleNet++: An End-to-End Approach for Feature Compression in Device-Edge Co-Inference Systems](https://ieeexplore.ieee.org/abstract/document/9145068)|[BottleNetPlusPlus](https://github.com/shaojiawei07/BottleNetPlusPlus)|
+|[Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks](https://ieeexplore.ieee.org/abstract/document/8771176/)|[DROO](https://github.com/revenol/DROO)|
+|[Multicell Power Control under Rate Constraints with Deep Learning](https://arxiv.org/abs/2012.03655)|[SRnet-and-SRNet-Heu-for-power-control](https://github.com/Leeyyhh/SRnet-and-SRNet-Heu-for-power-control)|
+|[Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
+|[A MIMO detector with deep learning in the presence of correlated interference](https://ieeexplore.ieee.org/abstract/document/8990045)|[project_dcnnmld](https://github.com/skypitcher/project_dcnnmld)|
+|[Deep Learning Driven Non-Orthogonal Precoding for Millimeter Wave Communications](https://ieeexplore.ieee.org/document/9082619)|[Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications](https://github.com/JKLinUESTC/Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications)|
+|[Aggregated Network for Massive MIMO CSI Feedback](https://arxiv.org/abs/2101.06618)|[ACRNet](https://github.com/Kylin9511/ACRNet)|
+|[A Two-Fold Group Lasso Based Lightweight Deep Neural Network for Automatic Modulation Classification](https://ieeexplore.ieee.org/abstract/document/9145050)|[Group-Sparse-DNN-for-AMC](https://github.com/tjuxiaofeng/Group-Sparse-DNN-for-AMC)|
+|[Deep Reinforcement Learning for Distributed Dynamic MISO Downlink-Beamforming Coordination](https://ieeexplore.ieee.org/abstract/document/9123956)|[DRL_for_DDBC](https://github.com/JungangGe/DRL_for_DDBC)|
+|[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
+|[No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks](https://github.com/zhiguo-ding/CRNOMA_DDPG/blob/main/paper.pdf)|[CRNOMA_DDPG](https://github.com/zhiguo-ding/CRNOMA_DDPG)|
+|[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
+|[Deep energy autoencoder for noncoherent multicarrier MU-SIMO systems](https://ieeexplore.ieee.org/document/9036067)|[energy_autoencoder](https://github.com/ThienVanLuong/energy_autoencoder)|
+|[Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment](https://arxiv.org/abs/2011.07782)|[ICASSP2021](https://github.com/Haoran-S/ICASSP2021)|
+|[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[Iterative Algorithm Induced Deep-Unfolding Neural Networks: Precoding Design for Multiuser MIMO Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9246287)|[DeepUnfolding_WMMSE](https://github.com/hqyyqh888/DeepUnfolding_WMMSE)|
+|[Recursive CSI Quantization of Time-Correlated MIMO Channels by Deep Learning Classification](https://arxiv.org/abs/2009.13560)|[MultiStage-Grassmannian-DNN](https://github.com/StefanSchwarzTUW/MultiStage-Grassmannian-DNN)|
+|[Contrastive Self-Supervised Learning for Wireless Power Control](https://arxiv.org/abs/2010.11909)|[ContrastiveSSL_WirelessPowerControl](https://github.com/navid-naderi/ContrastiveSSL_WirelessPowerControl)|
+|[Graph Neural Network for Large-Scale Network Localization](https://arxiv.org/abs/2010.11653)|[GNN-For-localization](https://github.com/Yanzongzi/GNN-For-localization)|
+|[A Clustering Approach to Wireless Scheduling](https://ieeexplore.ieee.org/abstract/document/9154271)|[A_Clustering_Approach_to_Wireless_Scheduling](https://github.com/willtop/A_Clustering_Approach_to_Wireless_Scheduling)|
+|[Deep Channel Learning For Large Intelligent Surfaces Aided mm-Wave Massive MIMO Systems](https://arxiv.org/abs/2001.11085)|[deepChannelLearning4RIS](https://github.com/meuseabe/deepChannelLearning4RIS)|
+|[Generative Adversarial Estimation of Channel Covariance in Vehicular Millimeter Wave Systems](https://arxiv.org/abs/1808.02208)|[GAN-cov-matrix](https://github.com/lxf8519/GAN-cov-matrix)|
+|[Deep Learning for Beamspace Channel Estimation in Millimeter-Wave Massive MIMO Systems](https://ieeexplore.ieee.org/document/9207745)|[Simulation Codes](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|
+|[Deep Learning for Polar Codes over Flat Fading Channels](https://ieeexplore.ieee.org/document/8669025)|[polarOverFlatFading](https://github.com/ade-irawan/polarOverFlatFading)|
+|[Graph Neural Networks for Scalable Radio Resource Management: Architecture Design and Theoretical Analysis](https://arxiv.org/abs/2007.07632)|[GNN-Resource-Management](https://github.com/yshenaw/GNN-Resource-Management)|
+|Enhancing WiFi Multiple Access Performance with Federated Deep Reinforcement Learning|[FLDRL-in-Wireless-Communication](https://github.com/Mauriyin/FLDRL-in-Wireless-Communication)|
+|[Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation](https://arxiv.org/abs/2009.10812)|[Unrolled-WMMSE](https://github.com/ArCho48/Unrolled-WMMSE)|
+|[Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks](https://arxiv.org/abs/2009.06681)|[Power-Control-asilomar](https://github.com/sinannasir/Power-Control-asilomar)|
+|[Deep Learning for Direction of Arrival Estimation via Emulation of Large Antenna Arrays](https://arxiv.org/abs/2007.13824)|[DoA with DNN via Emulation of Antenna Arrays](https://gitlab.com/miriyugl/doa-with-dnn-via-emulation-of-antenna-arrays)|
+|[Acquiring Measurement Matrices via Deep Basis Persuit for Sparse Channel Estimation in mmWave Massive MIMO Systems](https://arxiv.org/abs/2007.05177)|[DeepBP-AE](https://github.com/Pengxia-Wu/DeepBP-AE)|
+|[Deep Learning for SVD and Hybrid Beamforming](https://ieeexplore.ieee.org/abstract/document/9130130)|[DL_SVD_BF](https://www.dropbox.com/sh/v0gs7ba0qq5x168/AACyqRoCz5m3fhpF-azkbn3Qa?dl=0)|
+|[Neural Mutual Information Estimation for Channel Coding: State-of-the-Art Estimators, Analysis, and Performance Comparison](https://arxiv.org/abs/2006.16015)|[Reverse-Jensen_MI_estimation](https://github.com/Fritschek/Reverse-Jensen_MI_estimation)|
+|[Deep Transfer Learning Based Downlink Channel Prediction for FDD Massive MIMO Systems](https://arxiv.org/abs/1912.12265)|[Codes-for-Deep-Transfer-Learning-Based-Downlink-Channel-Prediction-for-FDD-Massive-MIMO-Systems](https://github.com/yangyuwenyang/Codes-for-Deep-Transfer-Learning-Based-Downlink-Channel-Prediction-for-FDD-Massive-MIMO-Systems)|
+|[Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN](https://arxiv.org/abs/2006.11435)|[Channel_Estimation_cGAN](https://github.com/YudiDong/Channel_Estimation_cGAN)|
+|A Model-Driven Deep Learning Method for Normalized Min-Sum LDPC Decoding|[A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding](https://github.com/tjuxiaofeng/A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding)|
+|Complex-Valued Convolutions for Modulation Recognition using Deep Learning|[Complex_Convolutions](https://github.com/JakobKrzyston/Complex_Convolutions)|
+|[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136)|[LIS-DeepLearning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|
+|Wireless link adaptation - a hybrid data-driven and model-based approach|[LinkAdaptationCSI](https://github.com/lpkg/LinkAdaptationCSI)|
+|Deep unfolding of the weighted MMSE algorithm|[WMMSE-deep-unfolding](https://github.com/lpkg/WMMSE-deep-unfolding)|
+|[Learn to Compress CSI and Allocate Resources in Vehicular Networks](https://arxiv.org/abs/1908.04685)|[Learn-CompressCSI-RA-V2X-Code](https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code)|
+|[Benchmarking End-to-end Learning of MIMO Physical-Layer Communication](https://arxiv.org/abs/2005.09718)|[DeepLearning_MIMO](https://github.com/JSChalmers/DeepLearning_MIMO)|
+|[Learned Conjugate Gradient Descent Network for Massive MIMO Detection](https://arxiv.org/abs/1906.03814)|[LcgNet](https://github.com/YiWei0129/LcgNet)|
+|[Trainable Projected Gradient Detector for Massive Overloaded MIMO Channels: Data-driven Tuning Approach](https://arxiv.org/abs/1812.10044)|[overloaded_MIMO](https://github.com/wadayama/overloaded_MIMO)|
+|[Deep Soft Interference Cancellation for MIMO Detection](https://ieeexplore.ieee.org/document/9054732)|[DeepSIC](https://github.com/nirshlezinger1/DeepSIC)|
+|[Reinforcement Learning Based Scheduling Algorithm for Optimizing Age of Information in Ultra Reliable Low Latency Networks](https://ieeexplore.ieee.org/document/8969641)|[AoI_RL](https://github.com/aelgabli/AoI_RL)|
+|[Decoder-in-the-Loop: Genetic Optimization-based LDPC Code Design](https://arxiv.org/abs/1903.03128)|[Genetic-Algorithm-based-LDPC-Code-Design](https://github.com/AhmedElkelesh/Genetic-Algorithm-based-LDPC-Code-Design)|
+|[MaMIMO CSI-based positioning using CNNs: Peeking inside the black box](https://arxiv.org/abs/2003.04581)|[inside-the-black-box](https://github.com/sibrendebast/inside-the-black-box)|
+|[Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665)|[graph_comb_opt](https://github.com/Hanjun-Dai/graph_comb_opt.git)|
+|[Extending the RISC-V ISA for Efficient RNN-based 5G Radio Resource Management](https://arxiv.org/abs/2002.12877)|[RNNASIP](https://github.com/andrire/RNNASIP)|
+|[Power Allocation in Multi-user Cellular Networks With Deep Q Learning Approach](https://arxiv.org/abs/1812.02979)|[PA_ICC](https://github.com/mengxiaomao/PA_ICC)|
+|[Power Allocation in Multi-User Cellular Networks: Deep Reinforcement Learning Approaches](https://arxiv.org/abs/1901.07159)|[PA_TWC](https://github.com/mengxiaomao/PA_TWC)|
+|[Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)|[FEDL](https://github.com/nhatminh/FEDL)|
+|[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464)|[OnDevAI](https://github.com/nhatminh/OnDevAI)|
+|[Deep learning based end-to-end wireless communication systems with conditional GAN as unknown channel](https://arxiv.org/pdf/1903.02551.pdf)|[End2End_GAN](https://github.com/haoyye/End2End_GAN)|
+|[Intelligent Resource Allocation in Wireless Communications Systems](https://ieeexplore.ieee.org/document/8961912)|[IRAWCS](https://github.com/seotaijiya/IRAWCS)|
+|[Spatio-Temporal Representation with Deep Recurrent Network in MIMO CSI Feedback](https://ieeexplore.ieee.org/document/8951228)|[ConvlstmCsiNet](https://github.com/Aries-LXY/ConvlstmCsiNet)|
+|[Neural Network Aided SC Decoder for Polar Codes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8780605)|[1_NND](https://github.com/BruceGaoo/1_NND)|
+|[Exploiting Bi-Directional Channel Reciprocity in Deep Learning for Low Rate Massive MIMO CSI Feedback](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8638509)|[Bi-Directional-Channel-Reciprocity](https://github.com/DLinWL/Bi-Directional-Channel-Reciprocity)|
+|[Performance Evaluation of Channel Decoding With Deep Neural Networks](https://arxiv.org/pdf/1711.00727.pdf)|[deep-neural-network-decoder](https://github.com/levylv/deep-neural-network-decoder)|
+|[Learning the MMSE Channel Estimator](https://arxiv.org/pdf/1707.05674v3.pdf)|[learning-mmse-est](https://github.com/tum-msv/learning-mmse-est)|
+|[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
+|[Model-Aware Deep Architectures for One-Bit Compressive Variational Autoencoding](https://arxiv.org/abs/1911.12410)|[deep1bitVAE](https://github.com/skhobahi/deep1bitVAE) *Not Yet*|
+|[CSI-based Positioning in Massive MIMO systems using Convolutional Neural Networks](https://arxiv.org/abs/1911.11523)|[MaMIMO_CSI_with_CNN_positioning](https://github.com/sibrendebast/MaMIMO_CSI_with_CNN_positioning)|
+|[Deep Learning for mmWave Beam and Blockage Prediction Using Sub-6GHz Channels](https://arxiv.org/abs/1910.02900)|[Sub6-Preds-mmWave](https://github.com/malrabeiah/Sub6-Preds-mmWave)|
+|[Deep Learning for Channel Coding via Neural Mutual Information Estimation](https://ieeexplore.ieee.org/document/8815464)|[Wireless_encoding_with_MI_estimation](https://github.com/Fritschek/Wireless_encoding_with_MI_estimation)|
+|[Deep Learning for the Gaussian Wiretap Channel](https://ieeexplore.ieee.org/abstract/document/8761681)|[NN_GWTC](https://github.com/Fritschek/NN_GWTC)|
+|[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README* |
+|[Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/document/8665952)|[DLMA](https://github.com/YidingYu/DLMA)|
+|[Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets)|[UARA](https://github.com/LiuJieShane/UARA)|
+|[Deep Learning for Direct Hybrid Precoding in Millimeter Wave Massive MIMO Systems](https://arxiv.org/abs/1905.13212)|[DL-hybrid-precoder](https://github.com/lxf8519/DL-hybrid-precoder)|
+|[Deep Learning-Based Detector for OFDM-IM](https://ieeexplore.ieee.org/document/8684894)|[DeepIM](https://github.com/ThienVanLuong/DeepIM)|
+|[Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder)|
+|[Learning to Communicate in a Noisy Environment](https://arxiv.org/abs/1910.09630)|[echo](https://github.com/ml4wireless/echo)|
+|[Low-rank mmWave MIMO channel estimation in one-bit receivers](https://arxiv.org/abs/1910.09141)|[Low-rank-MIMO-channel-estimation-from-one-bit-measurements](https://github.com/nitinjmyers/Low-rank-MIMO-channel-estimation-from-one-bit-measurements)|
 |[Deep Learning for Massive MIMO with 1-Bit ADCs: When More Antennas Need Fewer Pilots](https://arxiv.org/abs/1910.06960)|[1-Bit-ADCs](https://github.com/YuZhang-GitHub/1-Bit-ADCs)|
 |[ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf)|[ns3-gym](https://github.com/tkn-tub/ns3-gym)|
 | Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
@@ -98,6 +174,8 @@ TODO
 * [Sum Spectral Efficiency Maximization in Massive MIMO Systems: Benefits from Deep Learning](https://arxiv.org/pdf/1903.08163.pdf)
 
 # 数据集/Database
+* [RAYMOBTIME](https://www.lasse.ufpa.br/raymobtime/):Raymobtime is a methodology for collecting realistic datasets for simulating wireless communications. It uses ray-tracing and 3D scenarios with mobility and time evolution, for obtaining consistency over time, frequency and space. 
+* [MASSIVE MIMO CSI MEASUREMENTS](https://homes.esat.kuleuven.be/~sdebast/csi_measurements.html)
 * [SM-CsiNet+ and PM-CsiNet+](https://drive.google.com/drive/folders/1_lAMLk_5k1Z8zJQlTr5NRnSD6ACaNRtj?usp=sharing):来自论文[Convolutional Neural Network based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis](https://arxiv.org/pdf/1906.06007.pdf)
 * [An open online real modulated dataset](https://pan.baidu.com/s/1biDooH6E81Toxa2u4D3p2g):来自论文[Deep Learning for Signal Demodulation in Physical Layer Wireless Communications: Prototype Platform, Open Dataset, and Analytics](https://arxiv.org/pdf/1903.04297.pdf)。
 > To the best of our knowledge,this is the first open dataset of real modulated signals
@@ -120,6 +198,7 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
 # 有用的网页和材料/Useful Websites and Materials
 * [机器学习和通信结合论文列表/Research Library ](https://mlc.committees.comsoc.org/research-library/)
 * [Best Readings in Machine Learning in Communications](https://www.comsoc.org/publications/best-readings/machine-learning-communications)
+* [Communication Systems, Linköping University, LIU](https://www.youtube.com/channel/UCOrjRoYJPqGiR1SZvU3xcYQ/videos)
 
 
 <br>贡献者/Contributors：
@@ -129,6 +208,9 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
   - Email:wenxingzhu@shu.edu.cn
 * [LinTian](https://github.com/TianLin0509)
 * [HongtaiChen](https://github.com/HongtaiChen)
+* [yihanjiang](https://github.com/yihanjiang)
+* wu huaming:
+  - Email:whming@tju.edu.cn
 
 <br>版本更新/Version Update：
 
