@@ -199,7 +199,7 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
 * [机器学习和通信结合论文列表/Research Library ](https://mlc.committees.comsoc.org/research-library/)
 * [Best Readings in Machine Learning in Communications](https://www.comsoc.org/publications/best-readings/machine-learning-communications)
 * [Communication Systems, Linköping University, LIU](https://www.youtube.com/channel/UCOrjRoYJPqGiR1SZvU3xcYQ/videos)
-
+* [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co):a list of papers that utilize machine learning technologies to solve combinatorial optimization problems.
 
 <br>贡献者/Contributors：
 
