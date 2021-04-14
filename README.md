@@ -22,51 +22,16 @@ TODO
 ## [Content](#content)
 | Item                                                         | Topic                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|1.|[[Machine/deep learning for physical layer optimization](#content)]|
+|1.|[Machine/deep learning for physical layer optimization](#content)|
+|2.|[Resource, power and network optimization using machine learning techniques](#content)|
+|3.|[Distributed learning algorithms over communication networks](#conetnt)|
+|4.|[Multiple access, scheduling, and routing using machine learning techniques](#content)|
+|5.|[Machine learning for network slicing, network virtualization, and software defined networking](#content)|
+|6.|[Machine learning for emerging communication systems and applications, e.g., edge computing, caching, smart cities, localization, and vehicular networks](#content)|
+|7.|[Secure machine learning over communication networks](#content)|
 
-<table>
-<tr><td colspan="2"><a href="#topics">2. Problems</a></td></tr> 
-<tr>
-	<td>&emsp;<a href=#machine/deep-learning-for-physical-layer-optimization>Machine/deep-learning-for-physical-layer-optimization</a></td>
-	<td>&emsp;<a href=#quadratic-assignment-problem>2.2 Quadratic Assignment Problem (QAP)</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#travelling-salesman-problem>2.3 Travelling Salesman Problem (TSP)</a></td>
-	<td>&emsp;<a href=#maximal-cut>2.4 Maximal Cut</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#vehicle-routing-problem>2.5 Vehicle Routing Problem (VRP)</a></td>
-	<td>&emsp;<a href=#computing-resource-allocation>2.6 Computing Resource Allocation</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#job-shop-scheduling>2.7 Job Shop Scheduling (JSP)</a></td>
-	<td>&emsp;<a href=#bin-packing-problem>2.8 Bin Packing Problem (BPP)</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#graph-edit-distance>2.9 Graph Edit Distance (GED)</a></td>
-	<td>&emsp;<a href=#graph-coloring>2.10 Graph Coloring</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#maximal-common-subgraph>2.11 Maximal Common Subgraph (MCS)</a></td>
-	<td>&emsp;<a href=#influence-maximization>2.12 Influence Maximization</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#maximal-independent-set>2.13 Maximal Independent Set (MIS)</a></td>
-	<td>&emsp;<a href=#mixed-integer-programming>2.14 Mixed Integer Programming</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#causal-discovery>2.15 Causal Discovery</a></td>
-	<td>&emsp;<a href=#game-theoretic-semantics>2.16 Game Theoretic Semantics</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#boolean-satisfiability>2.17 Boolean Satisfiability (SAT)</a></td>
-	<td>&emsp;<a href=#differentiable-optimization>2.18 Differentiable Optimization</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#car-dispatch>2.19 Car Dispatch</a></td>
-<td>&ensp;</td>
-</tr>
-</table>
+
+
 
 ## [Topics](#content)
 
@@ -153,7 +118,7 @@ TODO
 |[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
 
 
-### [2. Resource, power and network optimization using machine learning techniques](#content)
+### [Resource, power and network optimization using machine learning techniques](#content)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
@@ -193,7 +158,7 @@ TODO
 | [DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning](http://network.ee.tsinghua.edu.cn/niulab/wp-content/uploads/2018/10/deepnap_CCN.pdf) | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) | 
 |[No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks](https://arxiv.org/pdf/2104.06007.pdf)|[CRNOMA_DDPG](https://github.com/zhiguo-ding/CRNOMA_DDPG)|
 
-### [3. Distributed learning algorithms over communication networks](#conetnt)
+### [Distributed learning algorithms over communication networks](#conetnt)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
@@ -205,7 +170,7 @@ TODO
 |[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
 [A joint learning and communications framework for federated learning over wireless networks](https://arxiv.org/pdf/1909.07972.pdf)|[Wireless-FL](https://github.com/mzchen0/Wireless-FL)|
 
-### [4. Multiple access, scheduling, and routing using machine learning techniques](#content)
+### [Multiple access, scheduling, and routing using machine learning techniques](#content)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
@@ -218,13 +183,13 @@ TODO
 | A deep-reinforcement learning approach for software-defined networking routing optimization | [knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization) |
 | Spatial deep learning for wireless scheduling                | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
 
-### [5.Machine learning for network slicing, network virtualization, and software defined networking](#content)
+### [Machine learning for network slicing, network virtualization, and software defined networking](#content)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls](https://link.springer.com/chapter/10.1007/978-3-030-19945-6_10)| [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
 |[ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf)|[ns3-gym](https://github.com/tkn-tub/ns3-gym)|
 
-### [6. Machine learning for emerging communication systems and applications, such as drone systems, IoT, edge computing, caching, smart cities, localization, and vehicular networks](#content)
+### [Machine learning for emerging communication systems and applications, such as drone systems, IoT, edge computing, caching, smart cities, localization, and vehicular networks](#content)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
@@ -236,7 +201,7 @@ TODO
 |[Graph Neural Network for Large-Scale Network Localization](https://arxiv.org/abs/2010.11653)|[GNN-For-localization](https://github.com/Yanzongzi/GNN-For-localization)|
 |[Fast Adaptive Task Offloading in Edge Computing based on Meta Reinforcement Learning](https://arxiv.org/abs/2008.02033)|[metarl-offloading](https://github.com/linkpark/metarl-offloading)|
 
-### [7. Secure machine learning over communication networks](#content)
+### [Secure machine learning over communication networks](#content)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems](https://arxiv.org/abs/1902.08391)| https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems |
