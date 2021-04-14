@@ -32,7 +32,7 @@ TODO
 | [Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems](https://arxiv.org/pdf/1708.08514.pdf)| [haoyye/OFDM_DNN](https://github.com/haoyye/OFDM_DNN)        |
 | [Automatic Modulation Classification: A Deep Learning Enabled Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8454504) | [mengxiaomao](https://github.com/mengxiaomao)/[CNN_AMC](https://github.com/mengxiaomao/CNN_AMC) |
 | [Deep Architectures for Modulation Recognition](https://arxiv.org/pdf/1703.09197.pdf)              | [qieaaa / Deep-Architectures-for-Modulation-Recognition](https://github.com/qieaaa/Deep-Architectures-for-Modulation-Recognition) |
-| Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks(https://arxiv.org/pdf/1810.07181.pdf) | [zhongyuanzhao / dl_ofdm](https://github.com/zhongyuanzhao/dl_ofdm) |
+| [Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks](https://arxiv.org/pdf/1810.07181.pdf) | [zhongyuanzhao / dl_ofdm](https://github.com/zhongyuanzhao/dl_ofdm) |
 | [Joint Transceiver Optimization for Wireless Communication PHY with Convolutional NeuralNetwork](https://arxiv.org/abs/1808.03242) | [hlz1992/RadioCNN](https://github.com/hlz1992/RadioCNN)      |
 | [5G MIMO Data for Machine Learning: Application to Beam-Selection using Deep Learning](https://par.nsf.gov/servlets/purl/10112564)| [lasseufpa](https://github.com/lasseufpa)/[5gm-data](https://github.com/lasseufpa/5gm-data) |
 |[A Two-Fold Group Lasso Based Lightweight Deep Neural Network for Automatic Modulation Classification](https://ieeexplore.ieee.org/abstract/document/9145050)|[Group-Sparse-DNN-for-AMC](https://github.com/tjuxiaofeng/Group-Sparse-DNN-for-AMC)|
