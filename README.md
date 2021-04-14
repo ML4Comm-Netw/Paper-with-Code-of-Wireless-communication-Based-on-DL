@@ -39,7 +39,7 @@ TODO
 |[Recursive CSI Quantization of Time-Correlated MIMO Channels by Deep Learning Classification](https://arxiv.org/abs/2009.13560)|[MultiStage-Grassmannian-DNN](https://github.com/StefanSchwarzTUW/MultiStage-Grassmannian-DNN)|
 | Deep Learning for Massive MIMO CSI Feedback                  | [sydney222 / Python_CsiNet](https://github.com/sydney222/Python_CsiNet) |
 | [Beamforming Design for Large-Scale Antenna Arrays Using Deep Learning](http://arxiv.org/abs/1904.03657) | [TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|
-| [An Introduction to Deep Learning for the Physical Layer](https://arxiv.org/pdf/1702.00832.pdf)     | [yashcao / RTN-DL-for-physical-layer](https://github.com/yashcao/RTN-DL-for-physical-layer)<br />[musicbeer / Deep-Learning-for-the-Physical-Layer](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer)<br />[helloMRDJ / autoencoder-for-the-Physical-Layer]|
+| [An Introduction to Deep Learning for the Physical Layer](https://arxiv.org/pdf/1702.00832.pdf)     | [yashcao / RTN-DL-for-physical-layer](https://github.com/yashcao/RTN-DL-for-physical-layer)<br />[musicbeer / Deep-Learning-for-the-Physical-Layer](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer)<br />[helloMRDJ / autoencoder-for-the-Physical-Layer](https://github.com/helloMRDJ/autoencoder-for-the-Physical-Layer)|
 | Deep MIMO Detection                                          | [neevsamuel](https://github.com/neevsamuel)/[DeepMIMODetection](https://github.com/neevsamuel/DeepMIMODetection) |
 | Learning to Detect                                           | [neevsamuel](https://github.com/neevsamuel)/[LearningToDetect](https://github.com/neevsamuel/LearningToDetect) |
 | An iterative BP-CNN architecture for channel decoding        | [liangfei-info](https://github.com/liangfei-info)/[Iterative-BP-CNN](https://github.com/liangfei-info/Iterative-BP-CNN) |
@@ -99,7 +99,6 @@ TODO
 | Learning to optimize: Training deep neural networks for wireless resource management | [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
 | Implications of Decentralized Q-learning Resource Allocation in Wireless Networks | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
 | Deep Q-Learning for Self-Organizing Networks Fault Management and Radio Performance Improvement | [farismismar / Deep-Q-Learning-SON-Perf-Improvement](https://github.com/farismismar/Deep-Q-Learning-SON-Perf-Improvement) |
-(https://github.com/helloMRDJ/autoencoder-for-the-Physical-Layer) |
 | Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells | [farismismar / Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control) |
 | Deep Learning for Optimal Energy-Efficient Power Control in Wireless Interference Networks | [bmatthiesen / deep-EE-opt](https://github.com/bmatthiesen/deep-EE-opt) |
 | Actor-Critic-Based Resource Allocation for Multi-modal Optical Networks | [BoyuanYan / Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks](https://github.com/BoyuanYan/Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks)|
