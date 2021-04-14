@@ -154,8 +154,8 @@ TODO
 | A deep-reinforcement learning approach for software-defined networking routing optimization | [knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization) |
 | Spatial deep learning for wireless scheduling                | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
 
-### [5. Machine learning techniques for application/user behavior prediction and user experience modeling and optimization](#content)
-
+### [5.Machine learning for network slicing, network virtualization, and software defined networking](#content)
+| [DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls](https://link.springer.com/chapter/10.1007/978-3-030-19945-6_10)| [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
 
 
 
@@ -187,7 +187,7 @@ TODO
 |[Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)|[UL2DL](https://github.com/safarisadegh/UL2DL)|
 | Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems | https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems |
 | DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications | [The DeepMIMO Dataset](http://deepmimo.net/)                 |
-| DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls | [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
+
 
 
 
