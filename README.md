@@ -21,7 +21,7 @@ TODO
 
 ## [Subtopic](#content)
 
-### [Machine/deep learning for physical layer optimization](#content)
+### [1. Machine/deep learning for physical layer optimization](#content)
 
 
 | Paper                                                        | Code                                                         |
@@ -92,7 +92,7 @@ TODO
 |Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
 
 
-### [Resource, power and network optimization using machine learning techniques](#content)
+### [2. Resource, power and network optimization using machine learning techniques](#content)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
@@ -131,7 +131,9 @@ TODO
 |[Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment](https://arxiv.org/abs/2011.07782)|[ICASSP2021](https://github.com/Haoran-S/ICASSP2021)|
 | [DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning](http://network.ee.tsinghua.edu.cn/niulab/wp-content/uploads/2018/10/deepnap_CCN.pdf) | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) | 
 
-### [Distributed learning algorithms over communication networks](#conetnt)
+### [3. Distributed learning algorithms over communication networks](#conetnt)
+| Paper                                                        | Code                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
 |[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
 |[Deep Reinforcement Learning for Distributed Dynamic MISO Downlink-Beamforming Coordination](https://ieeexplore.ieee.org/abstract/document/9123956)|[DRL_for_DDBC](https://github.com/JungangGe/DRL_for_DDBC)|
@@ -140,6 +142,8 @@ TODO
 |[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464)|[OnDevAI](https://github.com/nhatminh/OnDevAI)|
 
 ### [Multiple access, scheduling, and routing using machine learning techniques](#content)
+| Paper                                                        | Code                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
 | Deep multi-user reinforcement learning for dynamic spectrum access in multichannel wireless networks | [shkrwnd](https://github.com/shkrwnd)/[Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access](https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access) |
 |Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
@@ -150,7 +154,7 @@ TODO
 | A deep-reinforcement learning approach for software-defined networking routing optimization | [knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization) |
 | Spatial deep learning for wireless scheduling                | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
 
-### [Machine learning techniques for application/user behavior prediction and user experience modeling and optimization](#content)
+### [4. Machine learning techniques for application/user behavior prediction and user experience modeling and optimization](#content)
 
 
 
