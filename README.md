@@ -23,10 +23,10 @@ TODO
 
 - [Topics](#topics)
   + [Machine/deep learning for physical layer optimization](#physical-layer-optimization)
-  + [Resource, power and network optimization using machine learning techniques](#resource-power-and-network-optimization)
+  + [Resource, power and network optimization using machine learning techniques](#resource-and-network-optimization)
   + [Distributed learning algorithms over communication networks](#distributed-learning-algorithms-over-communication-networks)
   + [Multiple access scheduling  and routing using machine learning techniques](#multiple-access-scheduling--and-routing-using-machine-learning-techniques)
-  + [Machine learning for network slicing network virtualization and software defined networking](#machine-learning-for-network-slicing-network-virtualization-and-software-defined-networking)
+  + [Machine learning for network slicing, network virtualization, and software-defined networking](#machine-learning-for-network-slicing--network-virtualization--and-software-defined-networking)
   + [Machine learning for emerging communication systems and applications (e.g., IoT, edge computing, caching, smart cities, vehicular networks, and localization](#machine-learning-for-emerging-communication-systems-and-applications)
   + [Secure machine learning over communication networks](#secure-machine-learning-over-communication-networks)
 
@@ -116,7 +116,7 @@ TODO
 |[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
 |[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
 
-### Resource power and network optimization 
+### Resource  and network optimization 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
@@ -181,7 +181,7 @@ TODO
 | A deep-reinforcement learning approach for software-defined networking routing optimization | [knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization) |
 | Spatial deep learning for wireless scheduling                | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
 
-### Machine learning for network slicing network virtualization and software defined networking
+### Machine learning for network slicing, network virtualization, and software-defined networking
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls](https://link.springer.com/chapter/10.1007/978-3-030-19945-6_10)| [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
