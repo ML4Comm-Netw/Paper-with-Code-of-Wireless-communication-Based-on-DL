@@ -45,13 +45,13 @@ TODO
 | [An iterative BP-CNN architecture for channel decoding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8259241)        | [liangfei-info](https://github.com/liangfei-info)/[Iterative-BP-CNN](https://github.com/liangfei-info/Iterative-BP-CNN) |
 | [On Deep Learning-Based Channel Decoding](https://arxiv.org/pdf/1701.07738.pdf)| [gruberto/DL-ChannelDecoding](https://github.com/gruberto/DL-ChannelDecoding) <br/>[Decoder-using-deep-learning](https://github.com/VivekRamalingamK/Decoder-using-deep-learning)|
 | [Deep learning-based channel estimation for beamspace mmWave massive MIMO systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8353153)| [hehengtao](https://github.com/hehengtao)/[LDAMP_based-Channel-estimation](https://github.com/hehengtao/LDAMP_based-Channel-estimation) |
-| Fast Deep Learning for Automatic Modulation Classification   | [dl4amc](https://github.com/dl4amc)/[source](https://github.com/dl4amc/source) |
+| [Fast Deep Learning for Automatic Modulation Classification](https://arxiv.org/pdf/1901.05850.pdf)   | [dl4amc](https://github.com/dl4amc)/[source](https://github.com/dl4amc/source) |
 | [Deep Learning-Based Channel Estimation](https://arxiv.org/pdf/1810.05893.pdf)| [Mehran-Soltani](https://github.com/Mehran-Soltani)/[ChannelNet](https://github.com/Mehran-Soltani/ChannelNet) |
 |[Sparsely Connected Neural Network for Massive MIMO Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8780959)|[MIMO_Detection](https://github.com/NobleLee/MIMO_Detection)|
-| Deepcode: Feedback Codes via Deep Learning                   | https://github.com/hyejikim1/Deepcode<br>https://github.com/yihanjiang/feedback_code |
+| [Deepcode: Feedback Codes via Deep Learning](https://arxiv.org/pdf/1807.00801.pdf)                | https://github.com/hyejikim1/Deepcode<br>https://github.com/yihanjiang/feedback_code |
 |[MIST: A Novel Training Strategy for Low-latency Scalable Neural Net Decoders](https://arxiv.org/pdf/1905.08990.pdf)|[MIST_CNN_Decoder](https://github.com/kryashashwi/MIST_CNN_Decoder)|
 |[Deep Learning Models for Wireless Signal Classification With Distributed Low-Cost Spectrum Sensors](https://ieeexplore.ieee.org/abstract/document/8357902)|[modulation_classif](https://github.com/zeroXzero/modulation_classif)|
-|Learning Physical-Layer Communication with Quantized Feedback|[quantizedfeedback](https://github.com/henkwymeersch/quantizedfeedback)|
+|[Learning Physical-Layer Communication with Quantized Feedback](https://arxiv.org/pdf/1904.09252.pdf)|[quantizedfeedback](https://github.com/henkwymeersch/quantizedfeedback)|
 |[Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding](https://arxiv.org/pdf/1906.04448.pdf)|[RLdecoding](https://github.com/fabriziocarpi/RLdecoding)|
 |[Adaptive Neural Signal Detection for Massive MIMO](https://arxiv.org/abs/1906.04610)|[mehrdadkhani/MMNet](https://github.com/mehrdadkhani/MMNet)|
 |[CNN-based Precoder and Combiner Design in mmWave MIMO Systems](https://ieeexplore.ieee.org/document/8710287)|[Deep_HybridBeamforming](https://github.com/meuseabe/Deep_HybridBeamforming)|
@@ -71,25 +71,25 @@ TODO
 |[Learned Conjugate Gradient Descent Network for Massive MIMO Detection](https://arxiv.org/abs/1906.03814)|[LcgNet](https://github.com/YiWei0129/LcgNet)|
 |[Trainable Projected Gradient Detector for Massive Overloaded MIMO Channels: Data-driven Tuning Approach](https://arxiv.org/abs/1812.10044)|[overloaded_MIMO](https://github.com/wadayama/overloaded_MIMO)|
 |[Deep Soft Interference Cancellation for MIMO Detection](https://ieeexplore.ieee.org/document/9054732)|[DeepSIC](https://github.com/nirshlezinger1/DeepSIC)|
-|Deep unfolding of the weighted MMSE algorithm|[WMMSE-deep-unfolding](https://github.com/lpkg/WMMSE-deep-unfolding)|
+|[Deep unfolding of the weighted MMSE algorithm](https://arxiv.org/pdf/2006.08448.pdf)|[WMMSE-deep-unfolding](https://github.com/lpkg/WMMSE-deep-unfolding)|
 |[Deep Learning for Direction of Arrival Estimation via Emulation of Large Antenna Arrays](https://arxiv.org/abs/2007.13824)|[DoA with DNN via Emulation of Antenna Arrays](https://gitlab.com/miriyugl/doa-with-dnn-via-emulation-of-antenna-arrays)|
 |[Acquiring Measurement Matrices via Deep Basis Persuit for Sparse Channel Estimation in mmWave Massive MIMO Systems](https://arxiv.org/abs/2007.05177)|[DeepBP-AE](https://github.com/Pengxia-Wu/DeepBP-AE)|
 |[Deep Learning for SVD and Hybrid Beamforming](https://ieeexplore.ieee.org/abstract/document/9130130)|[DL_SVD_BF](https://www.dropbox.com/sh/v0gs7ba0qq5x168/AACyqRoCz5m3fhpF-azkbn3Qa?dl=0)|
 |[Neural Mutual Information Estimation for Channel Coding: State-of-the-Art Estimators, Analysis, and Performance Comparison](https://arxiv.org/abs/2006.16015)|[Reverse-Jensen_MI_estimation](https://github.com/Fritschek/Reverse-Jensen_MI_estimation)|
 |[Deep Transfer Learning Based Downlink Channel Prediction for FDD Massive MIMO Systems](https://arxiv.org/abs/1912.12265)|[Codes-for-Deep-Transfer-Learning-Based-Downlink-Channel-Prediction-for-FDD-Massive-MIMO-Systems](https://github.com/yangyuwenyang/Codes-for-Deep-Transfer-Learning-Based-Downlink-Channel-Prediction-for-FDD-Massive-MIMO-Systems)|
 |[Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN](https://arxiv.org/abs/2006.11435)|[Channel_Estimation_cGAN](https://github.com/YudiDong/Channel_Estimation_cGAN)|
-|A Model-Driven Deep Learning Method for Normalized Min-Sum LDPC Decoding|[A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding](https://github.com/tjuxiaofeng/A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding)|
-|Complex-Valued Convolutions for Modulation Recognition using Deep Learning|[Complex_Convolutions](https://github.com/JakobKrzyston/Complex_Convolutions)|
+|[A Model-Driven Deep Learning Method for Normalized Min-Sum LDPC Decoding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9145237)|[A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding](https://github.com/tjuxiaofeng/A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding)|
+|[Complex-Valued Convolutions for Modulation Recognition using Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9145469)|[Complex_Convolutions](https://github.com/JakobKrzyston/Complex_Convolutions)|
 |[Generative Adversarial Estimation of Channel Covariance in Vehicular Millimeter Wave Systems](https://arxiv.org/abs/1808.02208)|[GAN-cov-matrix](https://github.com/lxf8519/GAN-cov-matrix)|
 |[Deep Learning for Beamspace Channel Estimation in Millimeter-Wave Massive MIMO Systems](https://ieeexplore.ieee.org/document/9207745)|[Simulation Codes](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|
 |[Deep Learning for Polar Codes over Flat Fading Channels](https://ieeexplore.ieee.org/document/8669025)|[polarOverFlatFading](https://github.com/ade-irawan/polarOverFlatFading)|
 |[Aggregated Network for Massive MIMO CSI Feedback](https://arxiv.org/abs/2101.06618)|[ACRNet](https://github.com/Kylin9511/ACRNet)|
-| Convolutional Radio Modulation Recognition Networks          | [chrisruk](https://github.com/chrisruk)/[cnn](https://github.com/chrisruk/cnn)<br />[qieaaa / Singal-CNN](https://github.com/qieaaa/Singal-CNN) |
-| Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
+| [Convolutional Radio Modulation Recognition Networks](https://arxiv.org/pdf/1602.04105.pdf)          | [chrisruk](https://github.com/chrisruk)/[cnn](https://github.com/chrisruk/cnn)<br />[qieaaa / Singal-CNN](https://github.com/qieaaa/Singal-CNN) |
+| [Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels](https://arxiv.org/pdf/1911.03038.pdf)  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
 |[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README* |
 |[Spatio-Temporal Representation with Deep Recurrent Network in MIMO CSI Feedback](https://ieeexplore.ieee.org/document/8951228)|[ConvlstmCsiNet](https://github.com/Aries-LXY/ConvlstmCsiNet)|
 |[Learn to Compress CSI and Allocate Resources in Vehicular Networks](https://arxiv.org/abs/1908.04685)|[Learn-CompressCSI-RA-V2X-Code](https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code)|
-|Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
+|[Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency](https://arxiv.org/pdf/1905.03761.pdf)|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
 |[Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)|[UL2DL](https://github.com/safarisadegh/UL2DL)|
 |[Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
 |[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136)|[LIS-DeepLearning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|
