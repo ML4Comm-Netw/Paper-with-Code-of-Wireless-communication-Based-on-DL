@@ -90,6 +90,18 @@ TODO
 |[Spatio-Temporal Representation with Deep Recurrent Network in MIMO CSI Feedback](https://ieeexplore.ieee.org/document/8951228)|[ConvlstmCsiNet](https://github.com/Aries-LXY/ConvlstmCsiNet)|
 |[Learn to Compress CSI and Allocate Resources in Vehicular Networks](https://arxiv.org/abs/1908.04685)|[Learn-CompressCSI-RA-V2X-Code](https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code)|
 |Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
+|[Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)|[UL2DL](https://github.com/safarisadegh/UL2DL)|
+|[Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
+|[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136)|[LIS-DeepLearning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|
+|[A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems](https://ieeexplore.ieee.org/document/8755977)|[Deepcom](https://github.com/ZhangKaiyao/Deepcom)|
+| [Communication Algorithms via Deep Learning](https://arxiv.org/abs/1805.09317) | [yihanjiang](https://github.com/yihanjiang)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
+|[Learning to Communicate in a Noisy Environment](https://arxiv.org/abs/1910.09630)|[echo](https://github.com/ml4wireless/echo)|
+|[Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder)|
+|[Deep energy autoencoder for noncoherent multicarrier MU-SIMO systems](https://ieeexplore.ieee.org/document/9036067)|[energy_autoencoder](https://github.com/ThienVanLuong/energy_autoencoder)|
+|[Deep Channel Learning For Large Intelligent Surfaces Aided mm-Wave Massive MIMO Systems](https://arxiv.org/abs/2001.11085)|[deepChannelLearning4RIS](https://github.com/meuseabe/deepChannelLearning4RIS)|
+|[Deep learning based end-to-end wireless communication systems with conditional GAN as unknown channel](https://arxiv.org/pdf/1903.02551.pdf)|[End2End_GAN](https://github.com/haoyye/End2End_GAN)|
+|[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
+|[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
 
 
 ### [2. Resource, power and network optimization using machine learning techniques](#content)
@@ -131,6 +143,8 @@ TODO
 |[Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment](https://arxiv.org/abs/2011.07782)|[ICASSP2021](https://github.com/Haoran-S/ICASSP2021)|
 | [DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning](http://network.ee.tsinghua.edu.cn/niulab/wp-content/uploads/2018/10/deepnap_CCN.pdf) | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) | 
 
+|[No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks](https://arxiv.org/pdf/2104.06007.pdf)|[CRNOMA_DDPG](https://github.com/zhiguo-ding/CRNOMA_DDPG)|
+
 ### [3. Distributed learning algorithms over communication networks](#conetnt)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -140,6 +154,7 @@ TODO
 | Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach | [swordest](https://github.com/swordest)/[mec_drl](https://github.com/swordest/mec_drl) |
 |[Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)|[FEDL](https://github.com/nhatminh/FEDL)|
 |[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464)|[OnDevAI](https://github.com/nhatminh/OnDevAI)|
+|[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
 
 ### [4. Multiple access, scheduling, and routing using machine learning techniques](#content)
 | Paper                                                        | Code                                                         |
@@ -155,38 +170,33 @@ TODO
 | Spatial deep learning for wireless scheduling                | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
 
 ### [5.Machine learning for network slicing, network virtualization, and software defined networking](#content)
-| [DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls](https://link.springer.com/chapter/10.1007/978-3-030-19945-6_10)| [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
-
-
-
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls](https://link.springer.com/chapter/10.1007/978-3-030-19945-6_10)| [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
+|[ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf)|[ns3-gym](https://github.com/tkn-tub/ns3-gym)|
+
+### [6. Machine learning for emerging communication systems and applications, such as drone systems, IoT, edge computing, caching, smart cities, localization, and vehicular networks](#content)
+| Paper                                                        | Code                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
+|[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
+|[CSI-based Positioning in Massive MIMO systems using Convolutional Neural Networks](https://arxiv.org/abs/1911.11523)|[MaMIMO_CSI_with_CNN_positioning](https://github.com/sibrendebast/MaMIMO_CSI_with_CNN_positioning)|
 |[BottleNet++: An End-to-End Approach for Feature Compression in Device-Edge Co-Inference Systems](https://ieeexplore.ieee.org/abstract/document/9145068)|[BottleNetPlusPlus](https://github.com/shaojiawei07/BottleNetPlusPlus)|
 |[Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks](https://ieeexplore.ieee.org/abstract/document/8771176/)|[DROO](https://github.com/revenol/DROO)|
-|[Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
-|[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
-|[No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks](https://github.com/zhiguo-ding/CRNOMA_DDPG/blob/main/paper.pdf)|[CRNOMA_DDPG](https://github.com/zhiguo-ding/CRNOMA_DDPG)|
-|[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
-|[Deep energy autoencoder for noncoherent multicarrier MU-SIMO systems](https://ieeexplore.ieee.org/document/9036067)|[energy_autoencoder](https://github.com/ThienVanLuong/energy_autoencoder)|
-|[Graph Neural Network for Large-Scale Network Localization](https://arxiv.org/abs/2010.11653)|[GNN-For-localization](https://github.com/Yanzongzi/GNN-For-localization)|
-|[Deep Channel Learning For Large Intelligent Surfaces Aided mm-Wave Massive MIMO Systems](https://arxiv.org/abs/2001.11085)|[deepChannelLearning4RIS](https://github.com/meuseabe/deepChannelLearning4RIS)|
-|[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136)|[LIS-DeepLearning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|
 |[MaMIMO CSI-based positioning using CNNs: Peeking inside the black box](https://arxiv.org/abs/2003.04581)|[inside-the-black-box](https://github.com/sibrendebast/inside-the-black-box)|
-|[Deep learning based end-to-end wireless communication systems with conditional GAN as unknown channel](https://arxiv.org/pdf/1903.02551.pdf)|[End2End_GAN](https://github.com/haoyye/End2End_GAN)|
-|[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
-|[Model-Aware Deep Architectures for One-Bit Compressive Variational Autoencoding](https://arxiv.org/abs/1911.12410)|[deep1bitVAE](https://github.com/skhobahi/deep1bitVAE) *Not Yet*|
-|[CSI-based Positioning in Massive MIMO systems using Convolutional Neural Networks](https://arxiv.org/abs/1911.11523)|[MaMIMO_CSI_with_CNN_positioning](https://github.com/sibrendebast/MaMIMO_CSI_with_CNN_positioning)|
+|[Graph Neural Network for Large-Scale Network Localization](https://arxiv.org/abs/2010.11653)|[GNN-For-localization](https://github.com/Yanzongzi/GNN-For-localization)|
+
+### [7. Secure machine learning over communication networks](#content)
+| Paper                                                        | Code                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems](https://arxiv.org/abs/1902.08391)| https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems |
 |[Deep Learning for the Gaussian Wiretap Channel](https://ieeexplore.ieee.org/abstract/document/8761681)|[NN_GWTC](https://github.com/Fritschek/NN_GWTC)|
-|[Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder)|
-|[Learning to Communicate in a Noisy Environment](https://arxiv.org/abs/1910.09630)|[echo](https://github.com/ml4wireless/echo)|
-|[ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf)|[ns3-gym](https://github.com/tkn-tub/ns3-gym)|
-| Communication Algorithms via Deep Learning  | [yihanjiang](https://github.com/yihanjiang)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
-|[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
-|[A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems](https://ieeexplore.ieee.org/document/8755977)|[Deepcom](https://github.com/ZhangKaiyao/Deepcom)|
-|[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
-|[Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)|[UL2DL](https://github.com/safarisadegh/UL2DL)|
-| Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems | https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems |
-| DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications | [The DeepMIMO Dataset](http://deepmimo.net/)                 |
+
+
+### [8. Dataset]
+| Paper                                                        | Code                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications] (https://arxiv.org/abs/1902.06435)| [The DeepMIMO Dataset](http://deepmimo.net/) |
 
 
 
