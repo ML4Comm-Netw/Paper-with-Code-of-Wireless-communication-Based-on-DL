@@ -22,7 +22,7 @@ TODO
 ## [Content](#content)
 | Item                                                         | Topic                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|1.|[[Topics](#content)](#-topics---content-)|
+|1.|[[Machine/deep learning for physical layer optimization](#content)]|
 
 <table>
 <tr><td colspan="2"><a href="#topics">2. Problems</a></td></tr> 
@@ -70,7 +70,7 @@ TODO
 
 ## [Topics](#content)
 
-### Machine/deep learning for physical layer optimization
+### [Machine/deep learning for physical layer optimization](#content)
 
 
 | Paper                                                        | Code                                                         |
