@@ -93,6 +93,8 @@ TODO
 
 
 ### [Resource, power and network optimization using machine learning techniques](#content)
+| Paper                                                        | Code                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
 | Learning to optimize: Training deep neural networks for wireless resource management | [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
 | Implications of Decentralized Q-learning Resource Allocation in Wireless Networks | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
