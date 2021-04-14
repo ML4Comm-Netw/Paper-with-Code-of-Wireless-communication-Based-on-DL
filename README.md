@@ -84,123 +84,106 @@ TODO
 |[Deep Learning for Beamspace Channel Estimation in Millimeter-Wave Massive MIMO Systems](https://ieeexplore.ieee.org/document/9207745)|[Simulation Codes](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|
 |[Deep Learning for Polar Codes over Flat Fading Channels](https://ieeexplore.ieee.org/document/8669025)|[polarOverFlatFading](https://github.com/ade-irawan/polarOverFlatFading)|
 |[Aggregated Network for Massive MIMO CSI Feedback](https://arxiv.org/abs/2101.06618)|[ACRNet](https://github.com/Kylin9511/ACRNet)|
+| Convolutional Radio Modulation Recognition Networks          | [chrisruk](https://github.com/chrisruk)/[cnn](https://github.com/chrisruk/cnn)<br />[qieaaa / Singal-CNN](https://github.com/qieaaa/Singal-CNN) |
+| Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
+|[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README* |
+|[Spatio-Temporal Representation with Deep Recurrent Network in MIMO CSI Feedback](https://ieeexplore.ieee.org/document/8951228)|[ConvlstmCsiNet](https://github.com/Aries-LXY/ConvlstmCsiNet)|
+|[Learn to Compress CSI and Allocate Resources in Vehicular Networks](https://arxiv.org/abs/1908.04685)|[Learn-CompressCSI-RA-V2X-Code](https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code)|
+|Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
 
 
-### [Resource and network optimization using machine learning techniques](#content)
+### [Resource, power and network optimization using machine learning techniques](#content)
+| Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
+| Learning to optimize: Training deep neural networks for wireless resource management | [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
+| Implications of Decentralized Q-learning Resource Allocation in Wireless Networks | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
+| Deep Q-Learning for Self-Organizing Networks Fault Management and Radio Performance Improvement | [farismismar / Deep-Q-Learning-SON-Perf-Improvement](https://github.com/farismismar/Deep-Q-Learning-SON-Perf-Improvement) |
+(https://github.com/helloMRDJ/autoencoder-for-the-Physical-Layer) |
+| Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells | [farismismar / Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control) |
+| Deep Learning for Optimal Energy-Efficient Power Control in Wireless Interference Networks | [bmatthiesen / deep-EE-opt](https://github.com/bmatthiesen/deep-EE-opt) |
+| Actor-Critic-Based Resource Allocation for Multi-modal Optical Networks | [BoyuanYan / Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks](https://github.com/BoyuanYan/Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks)|
+| Transmit Power Control Using Deep Neural Network for Underlay Device-to-Device Communication | [seotaijiya](https://github.com/seotaijiya)/[TPC_D2D](https://github.com/seotaijiya/TPC_D2D) |
+|[Power Allocation in Multi-Cell Networks Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8690757)|[qfnet](https://github.com/kangcp/qfnet)|
+|Deep Learning in Downlink Coordinated Multipoint in New Radio Heterogeneous Networks|[DL-CoMP-Machine-Learning](https://github.com/farismismar/DL-CoMP-Machine-Learning)|
+|Deep Reinforcement Learning for Resource Allocation in V2V Communications|https://github.com/haoyye/ResourceAllocationReinforcementLearning|
+|RF-based Direction Finding of UAVs Using DNN|https://github.com/LahiruJayasinghe/DeepDOA|
+| [AIF: An Artificial Intelligence Framework for Smart Wireless Network Management](http://ieeexplore.ieee.org/document/8119495/metrics) | [caogang](https://github.com/caogang)/[WlanDqn](https://github.com/caogang/WlanDqn) |
+| Deep-Learning-Power-Allocation-in-Massive-MIMO               | [lucasanguinetti / Deep-Learning-Power-Allocation-in-Massive-MIMO](https://github.com/lucasanguinetti/Deep-Learning-Power-Allocation-in-Massive-MIMO) |
+|Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks|[DPPL](https://github.com/stochastic-geometry/DPPL)|
+|Learning Based Power Control for mmWave Massive MIMO against Jamming|[Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming](https://github.com/xiaozhch5/Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming)|
+| Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells|[Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control)|
+|[Towards Optimal Power Control via Ensembling Deep Neural Networks](https://arxiv.org/abs/1807.10025)|[PCNet-ePCNet](https://github.com/ShenGroup/PCNet-ePCNet)|
+|[A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487.pdf)|[Globecom2019](https://github.com/yshenaw/Globecom2019)|
+|[Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets)|[UARA](https://github.com/LiuJieShane/UARA)|
+|[Intelligent Resource Allocation in Wireless Communications Systems](https://ieeexplore.ieee.org/document/8961912)|[IRAWCS](https://github.com/seotaijiya/IRAWCS)|
+|[Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665)|[graph_comb_opt](https://github.com/Hanjun-Dai/graph_comb_opt.git)|
+|[Extending the RISC-V ISA for Efficient RNN-based 5G Radio Resource Management](https://arxiv.org/abs/2002.12877)|[RNNASIP](https://github.com/andrire/RNNASIP)|
+|[Power Allocation in Multi-user Cellular Networks With Deep Q Learning Approach](https://arxiv.org/abs/1812.02979)|[PA_ICC](https://github.com/mengxiaomao/PA_ICC)|
+|[Power Allocation in Multi-User Cellular Networks: Deep Reinforcement Learning Approaches](https://arxiv.org/abs/1901.07159)|[PA_TWC](https://github.com/mengxiaomao/PA_TWC)|
+|[Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation](https://arxiv.org/abs/2009.10812)|[Unrolled-WMMSE](https://github.com/ArCho48/Unrolled-WMMSE)|
+|[Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks](https://arxiv.org/abs/2009.06681)|[Power-Control-asilomar](https://github.com/sinannasir/Power-Control-asilomar)|
+|[Graph Neural Networks for Scalable Radio Resource Management: Architecture Design and Theoretical Analysis](https://arxiv.org/abs/2007.07632)|[GNN-Resource-Management](https://github.com/yshenaw/GNN-Resource-Management)|
+|[Contrastive Self-Supervised Learning for Wireless Power Control](https://arxiv.org/abs/2010.11909)|[ContrastiveSSL_WirelessPowerControl](https://github.com/navid-naderi/ContrastiveSSL_WirelessPowerControl)|
+|[No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks](https://github.com/zhiguo-ding/CRNOMA_DDPG/blob/main/paper.pdf)|[CRNOMA_DDPG](https://github.com/zhiguo-ding/CRNOMA_DDPG)|
+|[Multicell Power Control under Rate Constraints with Deep Learning](https://arxiv.org/abs/2012.03655)|[SRnet-and-SRNet-Heu-for-power-control](https://github.com/Leeyyhh/SRnet-and-SRNet-Heu-for-power-control)|
+|[Deep Learning for mmWave Beam and Blockage Prediction Using Sub-6GHz Channels](https://arxiv.org/abs/1910.02900)|[Sub6-Preds-mmWave](https://github.com/malrabeiah/Sub6-Preds-mmWave)|
+|Wireless link adaptation - a hybrid data-driven and model-based approach|[LinkAdaptationCSI](https://github.com/lpkg/LinkAdaptationCSI)|
+|[Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment](https://arxiv.org/abs/2011.07782)|[ICASSP2021](https://github.com/Haoran-S/ICASSP2021)|
+| [DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning](http://network.ee.tsinghua.edu.cn/niulab/wp-content/uploads/2018/10/deepnap_CCN.pdf) | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) | 
+
+### [Distributed learning algorithms over communication networks](#conetnt)
+|[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
+|[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[Deep Reinforcement Learning for Distributed Dynamic MISO Downlink-Beamforming Coordination](https://ieeexplore.ieee.org/abstract/document/9123956)|[DRL_for_DDBC](https://github.com/JungangGe/DRL_for_DDBC)|
+| Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach | [swordest](https://github.com/swordest)/[mec_drl](https://github.com/swordest/mec_drl) |
+|[Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)|[FEDL](https://github.com/nhatminh/FEDL)|
+|[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464)|[OnDevAI](https://github.com/nhatminh/OnDevAI)|
+
+### [Multiple access, scheduling, and routing using machine learning techniques](#content)
+|[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
+| Deep multi-user reinforcement learning for dynamic spectrum access in multichannel wireless networks | [shkrwnd](https://github.com/shkrwnd)/[Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access](https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access) |
+|Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
+|[Reinforcement Learning Based Scheduling Algorithm for Optimizing Age of Information in Ultra Reliable Low Latency Networks](https://ieeexplore.ieee.org/document/8969641)|[AoI_RL](https://github.com/aelgabli/AoI_RL)|
+|Enhancing WiFi Multiple Access Performance with Federated Deep Reinforcement Learning|[FLDRL-in-Wireless-Communication](https://github.com/Mauriyin/FLDRL-in-Wireless-Communication)|
+|[A Clustering Approach to Wireless Scheduling](https://ieeexplore.ieee.org/abstract/document/9154271)|[A_Clustering_Approach_to_Wireless_Scheduling](https://github.com/willtop/A_Clustering_Approach_to_Wireless_Scheduling)|
+|[Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/document/8665952)|[DLMA](https://github.com/YidingYu/DLMA)|
+| A deep-reinforcement learning approach for software-defined networking routing optimization | [knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization) |
+| Spatial deep learning for wireless scheduling                | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
+
+### [Machine learning techniques for application/user behavior prediction and user experience modeling and optimization](#content)
+
 
 
 
 |[BottleNet++: An End-to-End Approach for Feature Compression in Device-Edge Co-Inference Systems](https://ieeexplore.ieee.org/abstract/document/9145068)|[BottleNetPlusPlus](https://github.com/shaojiawei07/BottleNetPlusPlus)|
 |[Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks](https://ieeexplore.ieee.org/abstract/document/8771176/)|[DROO](https://github.com/revenol/DROO)|
-|[Multicell Power Control under Rate Constraints with Deep Learning](https://arxiv.org/abs/2012.03655)|[SRnet-and-SRNet-Heu-for-power-control](https://github.com/Leeyyhh/SRnet-and-SRNet-Heu-for-power-control)|
 |[Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
-
-|[Deep Reinforcement Learning for Distributed Dynamic MISO Downlink-Beamforming Coordination](https://ieeexplore.ieee.org/abstract/document/9123956)|[DRL_for_DDBC](https://github.com/JungangGe/DRL_for_DDBC)|
 |[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
 |[No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks](https://github.com/zhiguo-ding/CRNOMA_DDPG/blob/main/paper.pdf)|[CRNOMA_DDPG](https://github.com/zhiguo-ding/CRNOMA_DDPG)|
 |[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
 |[Deep energy autoencoder for noncoherent multicarrier MU-SIMO systems](https://ieeexplore.ieee.org/document/9036067)|[energy_autoencoder](https://github.com/ThienVanLuong/energy_autoencoder)|
-|[Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment](https://arxiv.org/abs/2011.07782)|[ICASSP2021](https://github.com/Haoran-S/ICASSP2021)|
-|[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
-|[Contrastive Self-Supervised Learning for Wireless Power Control](https://arxiv.org/abs/2010.11909)|[ContrastiveSSL_WirelessPowerControl](https://github.com/navid-naderi/ContrastiveSSL_WirelessPowerControl)|
 |[Graph Neural Network for Large-Scale Network Localization](https://arxiv.org/abs/2010.11653)|[GNN-For-localization](https://github.com/Yanzongzi/GNN-For-localization)|
-|[A Clustering Approach to Wireless Scheduling](https://ieeexplore.ieee.org/abstract/document/9154271)|[A_Clustering_Approach_to_Wireless_Scheduling](https://github.com/willtop/A_Clustering_Approach_to_Wireless_Scheduling)|
 |[Deep Channel Learning For Large Intelligent Surfaces Aided mm-Wave Massive MIMO Systems](https://arxiv.org/abs/2001.11085)|[deepChannelLearning4RIS](https://github.com/meuseabe/deepChannelLearning4RIS)|
-
-|[Graph Neural Networks for Scalable Radio Resource Management: Architecture Design and Theoretical Analysis](https://arxiv.org/abs/2007.07632)|[GNN-Resource-Management](https://github.com/yshenaw/GNN-Resource-Management)|
-|Enhancing WiFi Multiple Access Performance with Federated Deep Reinforcement Learning|[FLDRL-in-Wireless-Communication](https://github.com/Mauriyin/FLDRL-in-Wireless-Communication)|
-|[Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation](https://arxiv.org/abs/2009.10812)|[Unrolled-WMMSE](https://github.com/ArCho48/Unrolled-WMMSE)|
-|[Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks](https://arxiv.org/abs/2009.06681)|[Power-Control-asilomar](https://github.com/sinannasir/Power-Control-asilomar)|
-
 |[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136)|[LIS-DeepLearning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|
-|Wireless link adaptation - a hybrid data-driven and model-based approach|[LinkAdaptationCSI](https://github.com/lpkg/LinkAdaptationCSI)|
-
-|[Learn to Compress CSI and Allocate Resources in Vehicular Networks](https://arxiv.org/abs/1908.04685)|[Learn-CompressCSI-RA-V2X-Code](https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code)|
-
-|[Reinforcement Learning Based Scheduling Algorithm for Optimizing Age of Information in Ultra Reliable Low Latency Networks](https://ieeexplore.ieee.org/document/8969641)|[AoI_RL](https://github.com/aelgabli/AoI_RL)|
-
 |[MaMIMO CSI-based positioning using CNNs: Peeking inside the black box](https://arxiv.org/abs/2003.04581)|[inside-the-black-box](https://github.com/sibrendebast/inside-the-black-box)|
-|[Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665)|[graph_comb_opt](https://github.com/Hanjun-Dai/graph_comb_opt.git)|
-|[Extending the RISC-V ISA for Efficient RNN-based 5G Radio Resource Management](https://arxiv.org/abs/2002.12877)|[RNNASIP](https://github.com/andrire/RNNASIP)|
-|[Power Allocation in Multi-user Cellular Networks With Deep Q Learning Approach](https://arxiv.org/abs/1812.02979)|[PA_ICC](https://github.com/mengxiaomao/PA_ICC)|
-|[Power Allocation in Multi-User Cellular Networks: Deep Reinforcement Learning Approaches](https://arxiv.org/abs/1901.07159)|[PA_TWC](https://github.com/mengxiaomao/PA_TWC)|
-|[Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)|[FEDL](https://github.com/nhatminh/FEDL)|
-|[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464)|[OnDevAI](https://github.com/nhatminh/OnDevAI)|
 |[Deep learning based end-to-end wireless communication systems with conditional GAN as unknown channel](https://arxiv.org/pdf/1903.02551.pdf)|[End2End_GAN](https://github.com/haoyye/End2End_GAN)|
-|[Intelligent Resource Allocation in Wireless Communications Systems](https://ieeexplore.ieee.org/document/8961912)|[IRAWCS](https://github.com/seotaijiya/IRAWCS)|
-|[Spatio-Temporal Representation with Deep Recurrent Network in MIMO CSI Feedback](https://ieeexplore.ieee.org/document/8951228)|[ConvlstmCsiNet](https://github.com/Aries-LXY/ConvlstmCsiNet)|
-
-
-
-
 |[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
 |[Model-Aware Deep Architectures for One-Bit Compressive Variational Autoencoding](https://arxiv.org/abs/1911.12410)|[deep1bitVAE](https://github.com/skhobahi/deep1bitVAE) *Not Yet*|
 |[CSI-based Positioning in Massive MIMO systems using Convolutional Neural Networks](https://arxiv.org/abs/1911.11523)|[MaMIMO_CSI_with_CNN_positioning](https://github.com/sibrendebast/MaMIMO_CSI_with_CNN_positioning)|
-|[Deep Learning for mmWave Beam and Blockage Prediction Using Sub-6GHz Channels](https://arxiv.org/abs/1910.02900)|[Sub6-Preds-mmWave](https://github.com/malrabeiah/Sub6-Preds-mmWave)|
-
 |[Deep Learning for the Gaussian Wiretap Channel](https://ieeexplore.ieee.org/abstract/document/8761681)|[NN_GWTC](https://github.com/Fritschek/NN_GWTC)|
-|[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README* |
-|[Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/document/8665952)|[DLMA](https://github.com/YidingYu/DLMA)|
-|[Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets](https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets)|[UARA](https://github.com/LiuJieShane/UARA)|
-
 |[Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder)|
 |[Learning to Communicate in a Noisy Environment](https://arxiv.org/abs/1910.09630)|[echo](https://github.com/ml4wireless/echo)|
-
 |[ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research](https://arxiv.org/pdf/1810.03943.pdf)|[ns3-gym](https://github.com/tkn-tub/ns3-gym)|
-| Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
 | Communication Algorithms via Deep Learning  | [yihanjiang](https://github.com/yihanjiang)/[commviadl](https://github.com/yihanjiang/Sequential-RNN-Decoder) |
-|[Towards Optimal Power Control via Ensembling Deep Neural Networks](https://arxiv.org/abs/1807.10025)|[PCNet-ePCNet](https://github.com/ShenGroup/PCNet-ePCNet)|
-
-|[A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487.pdf)|[Globecom2019](https://github.com/yshenaw/Globecom2019)|
-
 |[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
 |[A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems](https://ieeexplore.ieee.org/document/8755977)|[Deepcom](https://github.com/ZhangKaiyao/Deepcom)|
-
-|[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
-| Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells|[Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control)|
 |[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
-
-|[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
-|Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
-
 |[Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)|[UL2DL](https://github.com/safarisadegh/UL2DL)|
-|Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
-|Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks|[DPPL](https://github.com/stochastic-geometry/DPPL)|
-|Learning Based Power Control for mmWave Massive MIMO against Jamming|[Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming](https://github.com/xiaozhch5/Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming)|
 | Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems | https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems |
-
-|[Power Allocation in Multi-Cell Networks Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8690757)|[qfnet](https://github.com/kangcp/qfnet)|
-|Deep Learning in Downlink Coordinated Multipoint in New Radio Heterogeneous Networks|[DL-CoMP-Machine-Learning](https://github.com/farismismar/DL-CoMP-Machine-Learning)|
-|Deep Reinforcement Learning for Resource Allocation in V2V Communications|https://github.com/haoyye/ResourceAllocationReinforcementLearning|
-|RF-based Direction Finding of UAVs Using DNN|https://github.com/LahiruJayasinghe/DeepDOA|
-
-
-| [AIF: An Artificial Intelligence Framework for Smart Wireless Network Management](http://ieeexplore.ieee.org/document/8119495/metrics) | [caogang](https://github.com/caogang)/[WlanDqn](https://github.com/caogang/WlanDqn) |
-| Deep-Learning-Power-Allocation-in-Massive-MIMO               | [lucasanguinetti / Deep-Learning-Power-Allocation-in-Massive-MIMO](https://github.com/lucasanguinetti/Deep-Learning-Power-Allocation-in-Massive-MIMO) |
 | DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications | [The DeepMIMO Dataset](http://deepmimo.net/)                 |
-
-| Transmit Power Control Using Deep Neural Network for Underlay Device-to-Device Communication | [seotaijiya](https://github.com/seotaijiya)/[TPC_D2D](https://github.com/seotaijiya/TPC_D2D) |
-
-| Spatial deep learning for wireless scheduling                | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
-| Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach | [swordest](https://github.com/swordest)/[mec_drl](https://github.com/swordest/mec_drl) |
-| A deep-reinforcement learning approach for software-defined networking routing optimization | [knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization) |
-| Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells | [farismismar / Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control) |
-| Deep Learning for Optimal Energy-Efficient Power Control in Wireless Interference Networks | [bmatthiesen / deep-EE-opt](https://github.com/bmatthiesen/deep-EE-opt) |
-| Actor-Critic-Based Resource Allocation for Multi-modal Optical Networks | [BoyuanYan / Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks](https://github.com/BoyuanYan/Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks) |
-
 | DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls | [ruihuili / DELMU](https://github.com/ruihuili/DELMU)        |
-| Deep Q-Learning for Self-Organizing Networks Fault Management and Radio Performance Improvement | [farismismar / Deep-Q-Learning-SON-Perf-Improvement](https://github.com/farismismar/Deep-Q-Learning-SON-Perf-Improvement) |
-(https://github.com/helloMRDJ/autoencoder-for-the-Physical-Layer) |
-| Convolutional Radio Modulation Recognition Networks          | [chrisruk](https://github.com/chrisruk)/[cnn](https://github.com/chrisruk/cnn)<br />[qieaaa / Singal-CNN](https://github.com/qieaaa/Singal-CNN) |
 
 
 
-| Deep multi-user reinforcement learning for dynamic spectrum access in multichannel wireless networks | [shkrwnd](https://github.com/shkrwnd)/[Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access](https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access) |
-| [DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning](http://network.ee.tsinghua.edu.cn/niulab/wp-content/uploads/2018/10/deepnap_CCN.pdf) | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) |
-
-| Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
-| Learning to optimize: Training deep neural networks for wireless resource management | [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
-| Implications of Decentralized Q-learning Resource Allocation in Wireless Networks | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
 
 
 # "通信+DL"论文（无代码)/Paper List Without Code
