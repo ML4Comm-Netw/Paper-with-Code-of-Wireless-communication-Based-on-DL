@@ -86,8 +86,7 @@ TODO
 |[Aggregated Network for Massive MIMO CSI Feedback](https://arxiv.org/abs/2101.06618)|[ACRNet](https://github.com/Kylin9511/ACRNet)|
 | [Convolutional Radio Modulation Recognition Networks](https://arxiv.org/pdf/1602.04105.pdf)          | [chrisruk](https://github.com/chrisruk)/[cnn](https://github.com/chrisruk/cnn)<br />[qieaaa / Singal-CNN](https://github.com/qieaaa/Singal-CNN) |
 | [Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels](https://arxiv.org/pdf/1911.03038.pdf)  | [yihanjiang](https://github.com/yihanjiang)/[turboae](https://github.com/yihanjiang/turboae) |
-|[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) <span style="color:red;">*Recommend! very detailed README*</span>```diff
-+ this will be highlighted in green```|
+|[Multi-resolution CSI Feedback with deep learning in Massive MIMO System](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet) *Recommend! very detailed README*|
 |[Spatio-Temporal Representation with Deep Recurrent Network in MIMO CSI Feedback](https://ieeexplore.ieee.org/document/8951228)|[ConvlstmCsiNet](https://github.com/Aries-LXY/ConvlstmCsiNet)|
 |[Learn to Compress CSI and Allocate Resources in Vehicular Networks](https://arxiv.org/abs/1908.04685)|[Learn-CompressCSI-RA-V2X-Code](https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code)|
 |[Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency](https://arxiv.org/pdf/1905.03761.pdf)|[DL-Massive-MIMO](https://github.com/malrabeiah/DL-Massive-MIMO)|
