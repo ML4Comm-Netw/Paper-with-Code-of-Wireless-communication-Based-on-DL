@@ -142,7 +142,6 @@ TODO
 |Wireless link adaptation - a hybrid data-driven and model-based approach|[LinkAdaptationCSI](https://github.com/lpkg/LinkAdaptationCSI)|
 |[Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment](https://arxiv.org/abs/2011.07782)|[ICASSP2021](https://github.com/Haoran-S/ICASSP2021)|
 | [DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning](http://network.ee.tsinghua.edu.cn/niulab/wp-content/uploads/2018/10/deepnap_CCN.pdf) | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) | 
-
 |[No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks](https://arxiv.org/pdf/2104.06007.pdf)|[CRNOMA_DDPG](https://github.com/zhiguo-ding/CRNOMA_DDPG)|
 
 ### [3. Distributed learning algorithms over communication networks](#conetnt)
@@ -196,7 +195,7 @@ TODO
 ### [8. Dataset]
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications] (https://arxiv.org/abs/1902.06435)| [The DeepMIMO Dataset](http://deepmimo.net/) |
+| [DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications](https://arxiv.org/abs/1902.06435)| [The DeepMIMO Dataset](http://deepmimo.net/) |
 
 
 
