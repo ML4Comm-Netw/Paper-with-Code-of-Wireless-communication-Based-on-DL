@@ -185,6 +185,7 @@ TODO
 |[Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks](https://ieeexplore.ieee.org/abstract/document/8771176/)|[DROO](https://github.com/revenol/DROO)|
 |[MaMIMO CSI-based positioning using CNNs: Peeking inside the black box](https://arxiv.org/abs/2003.04581)|[inside-the-black-box](https://github.com/sibrendebast/inside-the-black-box)|
 |[Graph Neural Network for Large-Scale Network Localization](https://arxiv.org/abs/2010.11653)|[GNN-For-localization](https://github.com/Yanzongzi/GNN-For-localization)|
+|[Fast Adaptive Task Offloading in Edge Computing based on Meta Reinforcement Learning](https://arxiv.org/abs/2008.02033)|[metarl-offloading](https://github.com/linkpark/metarl-offloading)|
 
 ### [7. Secure machine learning over communication networks](#content)
 | Paper                                                        | Code                                                         |
@@ -229,6 +230,7 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
 * [Best Readings in Machine Learning in Communications](https://www.comsoc.org/publications/best-readings/machine-learning-communications)
 * [Communication Systems, Linköping University, LIU](https://www.youtube.com/channel/UCOrjRoYJPqGiR1SZvU3xcYQ/videos)
 * [Codes for Intelligent reflecting surface (IRS)](https://github.com/ken0225/RIS_Codes_Collection)
+* [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co):a list of papers that utilize machine learning technologies to solve combinatorial optimization problems.
 
 <br>贡献者/Contributors：
 
