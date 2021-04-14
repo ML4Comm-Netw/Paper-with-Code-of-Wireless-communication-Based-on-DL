@@ -19,7 +19,7 @@ TODO
 # 代码复现与交流群
 <img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/WeChatGroup.jpg" width="400" alt="交流群" align=center>
 
-## [Subtopic](#content)
+## [Topics](#content)
 
 ### [1. Machine/deep learning for physical layer optimization](#content)
 
