@@ -154,6 +154,7 @@ TODO
 |[Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)|[FEDL](https://github.com/nhatminh/FEDL)|
 |[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464)|[OnDevAI](https://github.com/nhatminh/OnDevAI)|
 |[Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications](https://ieeexplore.ieee.org/document/8731635)|[Energy-Harvesting-DDPG](https://github.com/CrQiu/Energy-Harvesting-DDPG-)|
+[[A joint learning and communications framework for federated learning over wireless networks](https://arxiv.org/pdf/1909.07972.pdf)|[Wireless-FL](https://github.com/mzchen0/Wireless-FL)|
 
 ### [4. Multiple access, scheduling, and routing using machine learning techniques](#content)
 | Paper                                                        | Code                                                         |
