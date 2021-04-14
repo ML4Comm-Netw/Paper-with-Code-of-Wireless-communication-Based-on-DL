@@ -23,7 +23,7 @@ TODO
 | Item                                                         | Topic                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |1.|[Machine/deep learning for physical layer optimization](#content)|
-|2.|[Resource, power and network optimization using machine learning techniques](#content)|
+|2.|- [[Resource, power and network optimization using machine learning techniques](#content)](#-resource--power-and-network-optimization-using-machine-learning-techniques---content-)|
 |3.|[Distributed learning algorithms over communication networks](#conetnt)|
 |4.|[Multiple access, scheduling, and routing using machine learning techniques](#content)|
 |5.|[Machine learning for network slicing, network virtualization, and software defined networking](#content)|
