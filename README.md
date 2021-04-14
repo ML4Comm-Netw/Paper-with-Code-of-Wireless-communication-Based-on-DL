@@ -26,6 +26,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[NOLD: A Neural-Network Optimized Low-Resolution Decoder for LDPC Codes](https://github.com/Leo-Chu/NOLD/blob/master/JCN20-DIV2-067.R2.pdf)|[NOLD](https://github.com/Leo-Chu/NOLD)|
 |[A MIMO detector with deep learning in the presence of correlated interference](https://ieeexplore.ieee.org/abstract/document/8990045)|[project_dcnnmld](https://github.com/skypitcher/project_dcnnmld)|
 |[Deep Learning Driven Non-Orthogonal Precoding for Millimeter Wave Communications](https://ieeexplore.ieee.org/document/9082619)|[Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications](https://github.com/JKLinUESTC/Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications)|
 |[Iterative Algorithm Induced Deep-Unfolding Neural Networks: Precoding Design for Multiuser MIMO Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9246287)|[DeepUnfolding_WMMSE](https://github.com/hqyyqh888/DeepUnfolding_WMMSE)|
