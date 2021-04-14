@@ -23,7 +23,7 @@ TODO
 <table>
 <tr><td colspan="2"><a href="#topics">2. Problems</a></td></tr> 
 <tr>
-	<td>&emsp;<a href=#1.-Machine/deep-learning-for-physical-layer-optimization>2.1 Graph Matching (GM)</a></td>
+	<td>&emsp;<a href=#machine/deep-learning-for-physical-layer-optimization>Machine/deep-learning-for-physical-layer-optimization</a></td>
 	<td>&emsp;<a href=#quadratic-assignment-problem>2.2 Quadratic Assignment Problem (QAP)</a></td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ TODO
 
 ## [Topics](#content)
 
-### [1. Machine/deep learning for physical layer optimization](#content)
+### [Machine/deep learning for physical layer optimization](#content)
 
 
 | Paper                                                        | Code                                                         |
