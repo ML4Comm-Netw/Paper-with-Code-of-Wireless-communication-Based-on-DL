@@ -20,23 +20,17 @@ TODO
 <img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/WeChatGroup.jpg" width="400" alt="交流群" align=center>
 
 ## [Content](#content)
-| Item                                                         | Topic                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|1.|[Machine/deep learning for physical layer optimization](#content)|
-|2.|- [[Resource, power and network optimization using machine learning techniques](#content)](#-resource--power-and-network-optimization-using-machine-learning-techniques---content-)|
-|3.|[Distributed learning algorithms over communication networks](#conetnt)|
-|4.|[Multiple access, scheduling, and routing using machine learning techniques](#content)|
-|5.|[Machine learning for network slicing, network virtualization, and software defined networking](#content)|
-|6.|[Machine learning for emerging communication systems and applications, e.g., edge computing, caching, smart cities, localization, and vehicular networks](#content)|
-|7.|[Secure machine learning over communication networks](#content)|
+
+- [Topics](#topics)
+  * [Machine/deep learning for physical layer optimization](#machine/deep-learning-for-physical-layer-optimization)
+  * [Resource, power and network optimization using machine learning techniques](#resource--power-and-network-optimization-using-machine-learning-techniques)
 
 
 
 
-## [Topics](#content)
+## Topics
 
-### [Machine/deep learning for physical layer optimization](#content)
-
+### Machine/deep learning for physical layer optimization
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -117,8 +111,7 @@ TODO
 |[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
 |[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
 
-
-### [Resource, power and network optimization using machine learning techniques](#content)
+### Resource, power and network optimization using machine learning techniques
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
