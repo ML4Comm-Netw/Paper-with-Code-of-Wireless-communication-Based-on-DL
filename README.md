@@ -22,15 +22,15 @@ TODO
 
 
 - [Topics](#topics)
-  + [Machine/deep learning for physical layer optimization](#machine/deep-learning-for-physical-layer-optimization)
-  + [Resource, power and network optimization using machine learning techniques](#resource--power-and-network-optimization-using-machine-learning-techniques)
+  + [Machine/deep learning for physical layer optimization](#physical-layer-optimization)
+  + [Resource, power and network optimization using machine learning techniques](#resource-power)
 
 <!-- toc -->
 
 
 ## Topics
 
-### Machine/deep learning for physical layer optimization
+### Physical layer optimization
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -111,7 +111,7 @@ TODO
 |[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
 |[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
 
-### Resource, power and network optimization using machine learning techniques
+### Resource power 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks | [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
