@@ -22,8 +22,8 @@ TODO
 
 
 - [Topics](#topics)
-  - [Machine/deep learning for physical layer optimization](#machine/deep-learning-for-physical-layer-optimization)
-  - [Resource, power and network optimization using machine learning techniques](#resource--power-and-network-optimization-using-machine-learning-techniques)
+  + [Machine/deep learning for physical layer optimization](#machine/deep-learning-for-physical-layer-optimization)
+  + [Resource, power and network optimization using machine learning techniques](#resource--power-and-network-optimization-using-machine-learning-techniques)
 
 <!-- toc -->
 
