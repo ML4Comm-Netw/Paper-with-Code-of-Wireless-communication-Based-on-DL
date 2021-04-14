@@ -21,10 +21,9 @@ TODO
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#problems">2. Problems</a></td></tr> 
+<tr><td colspan="2"><a href="#topics">2. Problems</a></td></tr> 
 <tr>
-	<td>&emsp;<a href=#graph-matching>2.1 Graph Matching (GM)</a></td>
+	<td>&emsp;<a href=#1.-Machine/deep-learning-for-physical-layer-optimization>2.1 Graph Matching (GM)</a></td>
 	<td>&emsp;<a href=#quadratic-assignment-problem>2.2 Quadratic Assignment Problem (QAP)</a></td>
 </tr>
 <tr>
