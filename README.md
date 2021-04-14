@@ -141,7 +141,7 @@ TODO
 |[Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)|[FEDL](https://github.com/nhatminh/FEDL)|
 |[Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464)|[OnDevAI](https://github.com/nhatminh/OnDevAI)|
 
-### [Multiple access, scheduling, and routing using machine learning techniques](#content)
+### [4. Multiple access, scheduling, and routing using machine learning techniques](#content)
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
@@ -154,7 +154,7 @@ TODO
 | A deep-reinforcement learning approach for software-defined networking routing optimization | [knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization) |
 | Spatial deep learning for wireless scheduling                | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
 
-### [4. Machine learning techniques for application/user behavior prediction and user experience modeling and optimization](#content)
+### [5. Machine learning techniques for application/user behavior prediction and user experience modeling and optimization](#content)
 
 
 
