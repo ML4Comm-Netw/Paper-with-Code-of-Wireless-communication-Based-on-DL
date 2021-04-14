@@ -27,7 +27,7 @@ TODO
   + [Distributed learning algorithms over communication networks](#distributed-learning-algorithms-over-communication-networks)
   + [Multiple access scheduling  and routing using machine learning techniques](#multiple-access-scheduling--and-routing-using-machine-learning-techniques)
   + [Machine learning for network slicing network virtualization and software defined networking](#machine-learning-for-network-slicing-network-virtualization-and-software-defined-networking)
-  + [Machine learning for emerging communication systems and applications](#machine-learning-for-emerging-communication-systems-and-applications)
+  + [Machine learning for emerging communication systems and applications (e.g., IoT, edge computing, caching, smart cities, vehicular networks, and localization](#machine-learning-for-emerging-communication-systems-and-applications)
   + [Secure machine learning over communication networks](#secure-machine-learning-over-communication-networks)
 
 
