@@ -10,14 +10,16 @@ For English reader,please refer to [English Version](https://github.com/IIT-Lab/
 <br>
 TODO 
 
-- [ ] 按不同小方向分类
-- [ ] 论文添加下载链接
+- [x] 按不同小方向分类
+- [x] 论文添加下载链接
 - [ ] 增加更多相关论文代码
 - [ ] 传统通信论文代码列表
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
 # 代码复现与交流群
-<img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/WeChatGroup.jpg" width="400" alt="交流群" align=center>
+[Wechat Bot](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/issues/24)
+
+<img src="https://user-images.githubusercontent.com/12268675/114894720-7650c600-9e41-11eb-8702-a2d95f1b1bee.jpg" width="400" alt="交流群" align=center>
 
 ## 目录 （Contents)
 
