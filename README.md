@@ -19,7 +19,7 @@ TODO
 # 代码复现与交流群
 [Wechat Bot](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/issues/24)
 
-<img src="https://user-images.githubusercontent.com/12268675/114894720-7650c600-9e41-11eb-8702-a2d95f1b1bee.jpg" width="400" alt="交流群" align=center>
+<img src="https://user-images.githubusercontent.com/12268675/114894720-7650c600-9e41-11eb-8702-a2d95f1b1bee.jpg" width="200" alt="交流群" align=center>
 
 ## 目录 （Contents)
 
