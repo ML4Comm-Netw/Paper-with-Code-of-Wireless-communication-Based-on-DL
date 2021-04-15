@@ -19,7 +19,7 @@ TODO
 # 代码复现与交流群
 <img src="https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/WeChatGroup.jpg" width="400" alt="交流群" align=center>
 
-
+## 目录 （Contents)
 
 - [Topics](#topics)
   + [Machine/deep learning for physical layer optimization](#physical-layer-optimization)
@@ -127,7 +127,7 @@ TODO
 | [Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells](https://arxiv.org/pdf/1707.03269.pdf) | [farismismar / Q-Learning-Power-Control](https://github.com/farismismar/Q-Learning-Power-Control) |
 | [Deep Learning for Optimal Energy-Efficient Power Control in Wireless Interference Networks](https://arxiv.org/pdf/1812.06920.pdf) | [bmatthiesen / deep-EE-opt](https://github.com/bmatthiesen/deep-EE-opt) |
 | [Actor-Critic-Based Resource Allocation for Multi-modal Optical Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8644190) | [BoyuanYan / Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks](https://github.com/BoyuanYan/Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks)|
-| Transmit Power Control Using Deep Neural Network for Underlay Device-to-Device Communication | [seotaijiya](https://github.com/seotaijiya)/[TPC_D2D](https://github.com/seotaijiya/TPC_D2D) |
+| [Transmit Power Control Using Deep Neural Network for Underlay Device-to-Device Communication](https://ieeexplore.ieee.org/document/8428396) | [seotaijiya](https://github.com/seotaijiya)/[TPC_D2D](https://github.com/seotaijiya/TPC_D2D) |
 |[Power Allocation in Multi-Cell Networks Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8690757)|[qfnet](https://github.com/kangcp/qfnet)|
 |[Deep Learning in Downlink Coordinated Multipoint in New Radio Heterogeneous Networks](https://arxiv.org/pdf/1812.03421.pdf)|[DL-CoMP-Machine-Learning](https://github.com/farismismar/DL-CoMP-Machine-Learning)|
 |[Deep Reinforcement Learning for Resource Allocation in V2V Communications](https://arxiv.org/abs/1711.00968)|https://github.com/haoyye/ResourceAllocationReinforcementLearning|
