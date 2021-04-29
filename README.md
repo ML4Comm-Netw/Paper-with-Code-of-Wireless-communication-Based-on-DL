@@ -41,6 +41,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Learning Predictive Band Switching in Wireless Networks](https://arxiv.org/abs/1910.05305)|[Bandswitch-DeepMIMO](https://github.com/farismismar/Bandswitch-DeepMIMO)|
+|[RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection](https://arxiv.org/abs/2007.00140)|[RE-MIMO](https://github.com/krpratik/RE-MIMO)|
 |[NOLD: A Neural-Network Optimized Low-Resolution Decoder for LDPC Codes](https://github.com/Leo-Chu/NOLD/blob/master/JCN20-DIV2-067.R2.pdf)|[NOLD](https://github.com/Leo-Chu/NOLD)|
 |[A MIMO detector with deep learning in the presence of correlated interference](https://ieeexplore.ieee.org/abstract/document/8990045)|[project_dcnnmld](https://github.com/skypitcher/project_dcnnmld)|
 |[Deep Learning Driven Non-Orthogonal Precoding for Millimeter Wave Communications](https://ieeexplore.ieee.org/document/9082619)|[Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications](https://github.com/JKLinUESTC/Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications)|
