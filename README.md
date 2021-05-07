@@ -233,6 +233,11 @@ Communications: Prototype Platform,
 Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8661606&tag=1)
 >The dataset is collected in real physical environment, and the channel suffers from many factors such as limited LED bandwidth, multi-reflection,spurious or continuous jamming, etc.
 # 学者个人主页/Researcher Homepage
+* [Dr. Zhen Gao ( 高 镇 )](https://gaozhen16.eu.org/):
+  - Wireless Communications
+  - Channel Estimation of mmWave/THz Hybrid Massive MIMO
+  - Sparse Signal Processing
+  - Deep Learning based Solutions in Wireless Systems
 * [Ahmed Alkhateeb](http://www.aalkhateeb.net/index.html):Research Interests
   - Millimeter Wave and Massive MIMO Communication
   - Vehicular and Drone Communication Systems
