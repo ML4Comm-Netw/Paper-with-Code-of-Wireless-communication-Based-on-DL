@@ -41,6 +41,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Data-Driven Deep Learning to Design Pilot and Channel Estimator for Massive MIMO](https://ieeexplore.ieee.org/document/9037126)|[Source-Code-X.Ma](https://github.com/gaozhen16/Source-Code-X.Ma)|
 |[Deep Learning Predictive Band Switching in Wireless Networks](https://arxiv.org/abs/1910.05305)|[Bandswitch-DeepMIMO](https://github.com/farismismar/Bandswitch-DeepMIMO)|
 |[RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection](https://arxiv.org/abs/2007.00140)|[RE-MIMO](https://github.com/krpratik/RE-MIMO)|
 |[NOLD: A Neural-Network Optimized Low-Resolution Decoder for LDPC Codes](https://github.com/Leo-Chu/NOLD/blob/master/JCN20-DIV2-067.R2.pdf)|[NOLD](https://github.com/Leo-Chu/NOLD)|
@@ -121,7 +122,7 @@ TODO
 |[RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/abs/1911.09002)|[RadioUNet](https://github.com/RonLevie/RadioUNet)|
 |[Deep learning aided multicarrier systems](https://ieeexplore.ieee.org/abstract/document/9271932)|[multicarrier_autoencoder](https://github.com/ThienVanLuong/multicarrier_autoencoder)|
 
-### Resource  and network optimization 
+### Resource and network optimization 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks](https://arxiv.org/pdf/1812.02538.pdf)| [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
