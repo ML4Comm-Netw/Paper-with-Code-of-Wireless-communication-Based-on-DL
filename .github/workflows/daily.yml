@@ -6,7 +6,7 @@ on:
     - cron: "00 02 * * *"
   push:
     branches:
-      - main
+      - master
 env:
 
   GITHUB_NAME: zhuwenxing
