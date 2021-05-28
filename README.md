@@ -12,7 +12,7 @@ TODO
 
 - [x] 按不同小方向分类
 - [x] 论文添加下载链接
-- [ ] 增加更多相关论文代码
+- [x] 增加更多相关论文代码:
 - [ ] 传统通信论文代码列表
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
@@ -254,8 +254,8 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
 * [Codes for Intelligent reflecting surface (IRS)](https://github.com/ken0225/RIS_Codes_Collection)
 * [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co):a list of papers that utilize machine learning technologies to solve combinatorial optimization problems.
 * [Simulation Code from comsoc](https://mlc.committees.comsoc.org/papers-with-code/)
-<br>贡献者/Contributors：
 
+<br>贡献者/Contributors：
 * WxZhu:
   - [Github](https://github.com/zhuwenxing)  
   - Email:wenxingzhu@shu.edu.cn
@@ -269,3 +269,4 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
 
 1. 第一版完成/First Version：2019-02-21
 2. 分类整理及链接补全/First Version: 2021-04-14 via [Yokoxue](https://github.com/yokoxue)
+3. 通过集成GitHub Action，能够爬取arxiv信号处理与信息论两个分类下每日更新的开源论文列表，位于[daily.md](./daily.md)。
