@@ -12,7 +12,9 @@ TODO
 
 - [x] 按不同小方向分类
 - [x] 论文添加下载链接
-- [ ] 增加更多相关论文代码
+- [x] 增加更多相关论文代码
+  * 在[daily_arxiv](https://github.com/zhuwenxing/daily_arxiv)这个repo下会以daily为尺度更新`eess.SP`和`cs.IT`分类下开源的代码论文
+  * 该Repo通过爬虫+Github Action实现每日自动更新
 - [ ] 传统通信论文代码列表
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
