@@ -41,6 +41,10 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Unsupervised Deep Learning for Massive MIMO Hybrid Beamforming](https://arxiv.org/abs/2007.00038)|[HBF-Net](https://github.com/HamedHojatian/HBF-Net)|
+|[CLNet: Complex Input Lightweight Neural Network designed for Massive MIMO CSI Feedback](https://arxiv.org/abs/2102.07507)|[CLNet](https://github.com/SIJIEJI/CLNet)|
+|[Block Deep Neural Network-Based Signal Detector for Generalized Spatial Modulation](https://arxiv.org/abs/2008.03612)|[B_DNN](https://github.com/hasanabs/B_DNN)|
+|[Deep Active Learning Approach to Adaptive Beamforming for mmWave Initial Alignment](https://arxiv.org/abs/2012.13607)|[DL-ActiveLearning-BeamAlignment](https://github.com/foadsohrabi/DL-ActiveLearning-BeamAlignment)|
 |[Data-Driven Deep Learning to Design Pilot and Channel Estimator for Massive MIMO](https://ieeexplore.ieee.org/document/9037126)|[Source-Code-X.Ma](https://github.com/gaozhen16/Source-Code-X.Ma)|
 |[Deep Learning Predictive Band Switching in Wireless Networks](https://arxiv.org/abs/1910.05305)|[Bandswitch-DeepMIMO](https://github.com/farismismar/Bandswitch-DeepMIMO)|
 |[RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection](https://arxiv.org/abs/2007.00140)|[RE-MIMO](https://github.com/krpratik/RE-MIMO)|
