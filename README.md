@@ -169,6 +169,7 @@ TODO
 ### Distributed learning algorithms over communication networks
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Reconfigurable Intelligent Surface Enabled Federated Learning: A Unified Communication-Learning Design Approach](https://arxiv.org/abs/2011.10282)|[RIS-FL](https://github.com/liuhang1994/RIS-FL)|
 |[Decentralized Statistical Inference with Unrolled Graph Neural Networks](https://arxiv.org/abs/2104.01555)|[Learning-based-DOP-Framework](https://github.com/IrisWangHe/Learning-based-DOP-Framework)|
 |[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
 |[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
@@ -201,6 +202,7 @@ TODO
 ### Machine learning for emerging communication systems and applications
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Multi-UAV Path Planning for Wireless Data Harvesting with Deep Reinforcement Learning](https://arxiv.org/abs/2010.12461)|[uav_data_harvesting](https://github.com/hbayerlein/uav_data_harvesting)|
 |[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
 |[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
 |[CSI-based Positioning in Massive MIMO systems using Convolutional Neural Networks](https://arxiv.org/abs/1911.11523)|[MaMIMO_CSI_with_CNN_positioning](https://github.com/sibrendebast/MaMIMO_CSI_with_CNN_positioning)|
