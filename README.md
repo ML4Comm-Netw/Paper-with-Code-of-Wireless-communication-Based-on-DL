@@ -43,6 +43,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Dilated Convolution based CSI Feedback Compression for Massive MIMO Systems](https://arxiv.org/abs/2106.04043)|[DCRNet](https://github.com/recusant7/DCRNet)|
 |[Unsupervised Deep Learning for Massive MIMO Hybrid Beamforming](https://arxiv.org/abs/2007.00038)|[HBF-Net](https://github.com/HamedHojatian/HBF-Net)|
 |[CLNet: Complex Input Lightweight Neural Network designed for Massive MIMO CSI Feedback](https://arxiv.org/abs/2102.07507)|[CLNet](https://github.com/SIJIEJI/CLNet)|
 |[Block Deep Neural Network-Based Signal Detector for Generalized Spatial Modulation](https://arxiv.org/abs/2008.03612)|[B_DNN](https://github.com/hasanabs/B_DNN)|
@@ -131,6 +132,7 @@ TODO
 ### Resource and network optimization 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[DeepBeam: Deep Waveform Learning for Coordination-Free Beam Management in mmWave Networks](https://arxiv.org/abs/2012.14350)|[deepbeam](https://github.com/wineslab/deepbeam)|
 | [Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks](https://arxiv.org/pdf/1812.02538.pdf)| [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
 | [Learning to optimize: Training deep neural networks for wireless resource management](https://arxiv.org/abs/1705.09412)| [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
 | [Implications of Decentralized Q-learning Resource Allocation in Wireless Networks](https://arxiv.org/pdf/1705.10508.pdf) | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
@@ -202,6 +204,7 @@ TODO
 ### Machine learning for emerging communication systems and applications
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Proactive and AoI-aware Failure Recovery for Stateful NFV-enabled Zero-Touch 6G Networks: Model-Free DRL Approach](https://arxiv.org/abs/2103.03817)|[ZT-PFR](https://github.com/wildsky95/ZT-PFR)|
 |[Multi-UAV Path Planning for Wireless Data Harvesting with Deep Reinforcement Learning](https://arxiv.org/abs/2010.12461)|[uav_data_harvesting](https://github.com/hbayerlein/uav_data_harvesting)|
 |[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
 |[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395.pdf)|[docwza/sumolights](https://github.com/docwza/sumolights)|
