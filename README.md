@@ -259,14 +259,15 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
   He performs research on multi-antenna communications, Massive MIMO, radio resource allocation, energy-efficient communications, and network design. 
 * [Leo-Chu](https://github.com/Leo-Chu):His research interests are in the theoretical and algorithmic studies in random matrix theory, nonconvex optimization, deep learning, as well as their applications in wireless communications, bioengineering, and smart grid.
 # 有用的网页和材料/Useful Websites and Materials
+* [Graph-based Deep Learning for Communication Networks: A Survey](https://arxiv.org/abs/2106.02533): [GNN-Communication-Networks](https://github.com/jwwthu/GNN-Communication-Networks)
 * [机器学习和通信结合论文列表/Research Library ](https://mlc.committees.comsoc.org/research-library/)
 * [Best Readings in Machine Learning in Communications](https://www.comsoc.org/publications/best-readings/machine-learning-communications)
 * [Communication Systems, Linköping University, LIU](https://www.youtube.com/channel/UCOrjRoYJPqGiR1SZvU3xcYQ/videos)
 * [Codes for Intelligent reflecting surface (IRS)](https://github.com/ken0225/RIS_Codes_Collection)
 * [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co):a list of papers that utilize machine learning technologies to solve combinatorial optimization problems.
 * [Simulation Code from comsoc](https://mlc.committees.comsoc.org/papers-with-code/)
-<br>贡献者/Contributors：
 
+<br>贡献者/Contributors：
 * WxZhu:
   - [Github](https://github.com/zhuwenxing)  
   - Email:wenxingzhu@shu.edu.cn
