@@ -204,6 +204,7 @@ TODO
 ### Machine learning for emerging communication systems and applications
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Lyapunov-guided Deep Reinforcement Learning for Stable Online Computation Offloading in Mobile-Edge Computing Networks](https://ieeexplore.ieee.org/document/9449944)|[LyDROO](https://github.com/revenol/LyDROO)|
 |[Proactive and AoI-aware Failure Recovery for Stateful NFV-enabled Zero-Touch 6G Networks: Model-Free DRL Approach](https://arxiv.org/abs/2103.03817)|[ZT-PFR](https://github.com/wildsky95/ZT-PFR)|
 |[Multi-UAV Path Planning for Wireless Data Harvesting with Deep Reinforcement Learning](https://arxiv.org/abs/2010.12461)|[uav_data_harvesting](https://github.com/hbayerlein/uav_data_harvesting)|
 |[Spectrum sharing in vehicular networks based on multi-agent reinforcement learning](https://arxiv.org/abs/1905.02910)|[MARLspectrumSharingV2X](https://github.com/AlexVic/MARLspectrumSharingV2X)|
