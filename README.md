@@ -43,6 +43,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Model-Driven Deep Learning for MIMO Detection](https://ieeexplore.ieee.org/document/9018199)|[OAMP-Net](https://github.com/hehengtao/OAMP-Net)|
 |[Dilated Convolution based CSI Feedback Compression for Massive MIMO Systems](https://arxiv.org/abs/2106.04043)|[DCRNet](https://github.com/recusant7/DCRNet)|
 |[Unsupervised Deep Learning for Massive MIMO Hybrid Beamforming](https://arxiv.org/abs/2007.00038)|[HBF-Net](https://github.com/HamedHojatian/HBF-Net)|
 |[CLNet: Complex Input Lightweight Neural Network designed for Massive MIMO CSI Feedback](https://arxiv.org/abs/2102.07507)|[CLNet](https://github.com/SIJIEJI/CLNet)|
