@@ -43,6 +43,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Residual Learning for Channel Estimation in Intelligent Reflecting Surface-Assisted Multi-User Communications](https://arxiv.org/abs/2009.01423)|[CDRN-channel-estimation-IRS](https://github.com/XML124/CDRN-channel-estimation-IRS)|
 |[Model-Driven Deep Learning for MIMO Detection](https://ieeexplore.ieee.org/document/9018199)|[OAMP-Net](https://github.com/hehengtao/OAMP-Net)|
 |[Dilated Convolution based CSI Feedback Compression for Massive MIMO Systems](https://arxiv.org/abs/2106.04043)|[DCRNet](https://github.com/recusant7/DCRNet)|
 |[Unsupervised Deep Learning for Massive MIMO Hybrid Beamforming](https://arxiv.org/abs/2007.00038)|[HBF-Net](https://github.com/HamedHojatian/HBF-Net)|
@@ -172,6 +173,7 @@ TODO
 ### Distributed learning algorithms over communication networks
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[A Scalable Federated Multi-agent Architecture for Networked Connected Communication Network](https://arxiv.org/abs/2108.00506)|[Fed-MF-MAL](https://github.com/paperflight/Fed-MF-MAL)|
 |[Reconfigurable Intelligent Surface Enabled Federated Learning: A Unified Communication-Learning Design Approach](https://arxiv.org/abs/2011.10282)|[RIS-FL](https://github.com/liuhang1994/RIS-FL)|
 |[Decentralized Statistical Inference with Unrolled Graph Neural Networks](https://arxiv.org/abs/2104.01555)|[Learning-based-DOP-Framework](https://github.com/IrisWangHe/Learning-based-DOP-Framework)|
 |[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
@@ -233,6 +235,7 @@ TODO
 * [Sum Spectral Efficiency Maximization in Massive MIMO Systems: Benefits from Deep Learning](https://arxiv.org/pdf/1903.08163.pdf)
 
 # 数据集/Database
+* [thymio-radio-map](https://github.com/arthurgassner/thymio-radio-map): [OpenCSI: An Open-Source Dataset for Indoor Localization Using CSI-Based Fingerprinting](https://arxiv.org/abs/2104.07963)
 * [The DeepMIMO Dataset](http://deepmimo.net/) and  the corresponding paper [DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications](https://arxiv.org/abs/1902.06435)
 * [RAYMOBTIME](https://www.lasse.ufpa.br/raymobtime/):Raymobtime is a methodology for collecting realistic datasets for simulating wireless communications. It uses ray-tracing and 3D scenarios with mobility and time evolution, for obtaining consistency over time, frequency and space. 
 * [MASSIVE MIMO CSI MEASUREMENTS](https://homes.esat.kuleuven.be/~sdebast/csi_measurements.html)
