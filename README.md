@@ -43,6 +43,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[iterative error decimation for syndrome-based neural network decoders](https://arxiv.org/abs/2012.00089)|[ied](https://github.com/kamassury/ied)|
+|[ko codes: inventing nonlinear encoding and decoding for reliable wireless communication via deep-learning](https://arxiv.org/abs/2108.12920)|[kocodes](https://github.com/deepcomm/kocodes)|
 |[Deep Residual Learning for Channel Estimation in Intelligent Reflecting Surface-Assisted Multi-User Communications](https://arxiv.org/abs/2009.01423)|[CDRN-channel-estimation-IRS](https://github.com/XML124/CDRN-channel-estimation-IRS)|
 |[Model-Driven Deep Learning for MIMO Detection](https://ieeexplore.ieee.org/document/9018199)|[OAMP-Net](https://github.com/hehengtao/OAMP-Net)|
 |[Dilated Convolution based CSI Feedback Compression for Massive MIMO Systems](https://arxiv.org/abs/2106.04043)|[DCRNet](https://github.com/recusant7/DCRNet)|
