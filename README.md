@@ -43,6 +43,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Robust Learning-Based ML Detection for Massive MIMO Systems with One-Bit Quantized Signals](https://ieeexplore.ieee.org/document/9013332)|[LearningML](https://github.com/Yunseong-Cho/LearningML)|
 |[iterative error decimation for syndrome-based neural network decoders](https://arxiv.org/abs/2012.00089)|[ied](https://github.com/kamassury/ied)|
 |[ko codes: inventing nonlinear encoding and decoding for reliable wireless communication via deep-learning](https://arxiv.org/abs/2108.12920)|[kocodes](https://github.com/deepcomm/kocodes)|
 |[Deep Residual Learning for Channel Estimation in Intelligent Reflecting Surface-Assisted Multi-User Communications](https://arxiv.org/abs/2009.01423)|[CDRN-channel-estimation-IRS](https://github.com/XML124/CDRN-channel-estimation-IRS)|
