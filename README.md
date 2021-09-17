@@ -43,6 +43,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[On the Feasibility of Modeling OFDM Communication Signals with Unsupervised Generative Adversarial Networks](https://arxiv.org/abs/2109.05107)|[OFDM-GAN](https://github.com/usnistgov/OFDM-GAN)|
 |[Robust Learning-Based ML Detection for Massive MIMO Systems with One-Bit Quantized Signals](https://ieeexplore.ieee.org/document/9013332)|[LearningML](https://github.com/Yunseong-Cho/LearningML)|
 |[iterative error decimation for syndrome-based neural network decoders](https://arxiv.org/abs/2012.00089)|[ied](https://github.com/kamassury/ied)|
 |[ko codes: inventing nonlinear encoding and decoding for reliable wireless communication via deep-learning](https://arxiv.org/abs/2108.12920)|[kocodes](https://github.com/deepcomm/kocodes)|
