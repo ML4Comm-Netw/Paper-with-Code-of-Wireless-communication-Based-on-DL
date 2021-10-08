@@ -64,7 +64,7 @@ TODO
 | [Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems](https://arxiv.org/pdf/1708.08514.pdf)| [haoyye/OFDM_DNN](https://github.com/haoyye/OFDM_DNN)        |
 | [Automatic Modulation Classification: A Deep Learning Enabled Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8454504) | [mengxiaomao](https://github.com/mengxiaomao)/[CNN_AMC](https://github.com/mengxiaomao/CNN_AMC) |
 | [Deep Architectures for Modulation Recognition](https://arxiv.org/pdf/1703.09197.pdf)              | [qieaaa / Deep-Architectures-for-Modulation-Recognition](https://github.com/qieaaa/Deep-Architectures-for-Modulation-Recognition) |
-| [Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks](https://arxiv.org/pdf/1810.07181.pdf) | [zhongyuanzhao / dl_ofdm](https://github.com/zhongyuanzhao/dl_ofdm) |
+| [Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex-Valued Convolutional Networkss](https://ieeexplore.ieee.org/document/9448141) | [zhongyuanzhao / dl_ofdm](https://github.com/zhongyuanzhao/dl_ofdm) |
 | [Joint Transceiver Optimization for Wireless Communication PHY with Convolutional NeuralNetwork](https://arxiv.org/abs/1808.03242) | [hlz1992/RadioCNN](https://github.com/hlz1992/RadioCNN)      |
 | [5G MIMO Data for Machine Learning: Application to Beam-Selection using Deep Learning](https://par.nsf.gov/servlets/purl/10112564)| [lasseufpa](https://github.com/lasseufpa)/[5gm-data](https://github.com/lasseufpa/5gm-data) |
 |[A Two-Fold Group Lasso Based Lightweight Deep Neural Network for Automatic Modulation Classification](https://ieeexplore.ieee.org/abstract/document/9145050)|[Group-Sparse-DNN-for-AMC](https://github.com/tjuxiaofeng/Group-Sparse-DNN-for-AMC)|
@@ -138,6 +138,8 @@ TODO
 ### Resource and network optimization 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[wireless link scheduling via graph representation learning: a comparative study of different supervision levels](https://arxiv.org/abs/2110.01722)|[LinkSchedulingGNNs_SupervisionStudy](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)|
+|[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
 |[DeepBeam: Deep Waveform Learning for Coordination-Free Beam Management in mmWave Networks](https://arxiv.org/abs/2012.14350)|[deepbeam](https://github.com/wineslab/deepbeam)|
 | [Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks](https://arxiv.org/pdf/1812.02538.pdf)| [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
 | [Learning to optimize: Training deep neural networks for wireless resource management](https://arxiv.org/abs/1705.09412)| [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
@@ -181,7 +183,6 @@ TODO
 |[Reconfigurable Intelligent Surface Enabled Federated Learning: A Unified Communication-Learning Design Approach](https://arxiv.org/abs/2011.10282)|[RIS-FL](https://github.com/liuhang1994/RIS-FL)|
 |[Decentralized Statistical Inference with Unrolled Graph Neural Networks](https://arxiv.org/abs/2104.01555)|[Learning-based-DOP-Framework](https://github.com/IrisWangHe/Learning-based-DOP-Framework)|
 |[Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8701533)|[DeepRLVehicularLocalization](https://github.com/henkwymeersch/DeepRLVehicularLocalization)|
-|[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
 |[Deep Reinforcement Learning for Distributed Dynamic MISO Downlink-Beamforming Coordination](https://ieeexplore.ieee.org/abstract/document/9123956)|[DRL_for_DDBC](https://github.com/JungangGe/DRL_for_DDBC)|
 | [Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1812.07394) | [swordest](https://github.com/swordest)/[mec_drl](https://github.com/swordest/mec_drl) |
 |[Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation](https://arxiv.org/pdf/1910.13067.pdf)|[FEDL](https://github.com/nhatminh/FEDL)|
