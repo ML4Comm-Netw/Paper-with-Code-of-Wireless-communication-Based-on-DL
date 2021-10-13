@@ -202,6 +202,7 @@ TODO
 |[Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks](https://ieeexplore.ieee.org/document/8665952)|[DLMA](https://github.com/YidingYu/DLMA)|
 | [A deep-reinforcement learning approach for software-defined networking routing optimization](https://arxiv.org/abs/1709.07080) | [knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization) |
 | [Spatial deep learning for wireless scheduling](https://arxiv.org/abs/1808.01486)               | [willtop](https://github.com/willtop)/[Spatial_DeepLearning_Wireless_Scheduling](https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling) |
+| [Transformer based Online Bayesian Neural Networks for Grant Free Uplink Access in CRAN with Streaming Variational Inference](https://ieeexplore.ieee.org/document/9540910)               | [CRAN_MIMO_VI](https://github.com/jhanilesh96/CRAN_MIMO_VI) |
 
 ### Machine learning for  software-defined networking
 | Paper                                                        | Code                                                         |
