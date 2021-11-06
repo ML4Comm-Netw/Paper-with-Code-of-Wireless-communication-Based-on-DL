@@ -43,6 +43,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[A Channel Coding Benchmark for Meta-Learning](https://openreview.net/forum?id=DjzPaX8AT0z)|[MetaCC](https://github.com/ruihuili/MetaCC)|
 |[On the Feasibility of Modeling OFDM Communication Signals with Unsupervised Generative Adversarial Networks](https://arxiv.org/abs/2109.05107)|[OFDM-GAN](https://github.com/usnistgov/OFDM-GAN)|
 |[Robust Learning-Based ML Detection for Massive MIMO Systems with One-Bit Quantized Signals](https://ieeexplore.ieee.org/document/9013332)|[LearningML](https://github.com/Yunseong-Cho/LearningML)|
 |[iterative error decimation for syndrome-based neural network decoders](https://arxiv.org/abs/2012.00089)|[ied](https://github.com/kamassury/ied)|
@@ -141,6 +142,7 @@ TODO
 |[wireless link scheduling via graph representation learning: a comparative study of different supervision levels](https://arxiv.org/abs/2110.01722)|[LinkSchedulingGNNs_SupervisionStudy](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)|
 |[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
 |[DeepBeam: Deep Waveform Learning for Coordination-Free Beam Management in mmWave Networks](https://arxiv.org/abs/2012.14350)|[deepbeam](https://github.com/wineslab/deepbeam)|
+|[Graph Embedding-Based Wireless Link Scheduling With Few Training Samples](https://arxiv.org/abs/1906.02871)|[graph_embedding_link_scheduling](https://github.com/mengyuan-lee/graph_embedding_link_scheduling)|
 | [Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks](https://arxiv.org/pdf/1812.02538.pdf)| [mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning) |
 | [Learning to optimize: Training deep neural networks for wireless resource management](https://arxiv.org/abs/1705.09412)| [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
 | [Implications of Decentralized Q-learning Resource Allocation in Wireless Networks](https://arxiv.org/pdf/1705.10508.pdf) | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
@@ -193,6 +195,7 @@ TODO
 ### Multiple access scheduling  and routing using machine learning techniques
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Distributive Dynamic Spectrum Access Through Deep Reinforcement Learning: A Reservoir Computing-Based Approach](https://ieeexplore.ieee.org/document/8474348)|[DQN_RC_DSA_IOT2019](https://github.com/haohsuan2918/DQN_RC_DSA_IOT2019)|
 |[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
 | [Deep multi-user reinforcement learning for dynamic spectrum access in multichannel wireless networks](https://ieeexplore.ieee.org/document/8254101)| [shkrwnd](https://github.com/shkrwnd)/[Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access](https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access) |
 |[Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks](https://ieeexplore.ieee.org/document/8303773)|[DynamicMultiChannelRL](https://github.com/GulatiAditya/DynamicMultiChannelRL)|
@@ -213,6 +216,7 @@ TODO
 ### Machine learning for emerging communication systems and applications
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Fast Adaptive Computation Offloading in Edge Computing based on Meta Reinforcement Learning](https://arxiv.org/abs/2008.02033)|[metarl-offloading](https://github.com/linkpark/metarl-offloading)|
 |[Lyapunov-guided Deep Reinforcement Learning for Stable Online Computation Offloading in Mobile-Edge Computing Networks](https://ieeexplore.ieee.org/document/9449944)|[LyDROO](https://github.com/revenol/LyDROO)|
 |[Proactive and AoI-aware Failure Recovery for Stateful NFV-enabled Zero-Touch 6G Networks: Model-Free DRL Approach](https://arxiv.org/abs/2103.03817)|[ZT-PFR](https://github.com/wildsky95/ZT-PFR)|
 |[Multi-UAV Path Planning for Wireless Data Harvesting with Deep Reinforcement Learning](https://arxiv.org/abs/2010.12461)|[uav_data_harvesting](https://github.com/hbayerlein/uav_data_harvesting)|
