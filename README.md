@@ -245,6 +245,7 @@ TODO
 * [Sum Spectral Efficiency Maximization in Massive MIMO Systems: Benefits from Deep Learning](https://arxiv.org/pdf/1903.08163.pdf)
 
 # 数据集/Database
+* [MetaCC](https://github.com/ruihuili/MetaCC):[A Channel Coding Benchmark for Meta-Learning](https://openreview.net/forum?id=DjzPaX8AT0z)
 * [thymio-radio-map](https://github.com/arthurgassner/thymio-radio-map): [OpenCSI: An Open-Source Dataset for Indoor Localization Using CSI-Based Fingerprinting](https://arxiv.org/abs/2104.07963)
 * [The DeepMIMO Dataset](http://deepmimo.net/) and  the corresponding paper [DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications](https://arxiv.org/abs/1902.06435)
 * [RAYMOBTIME](https://www.lasse.ufpa.br/raymobtime/):Raymobtime is a methodology for collecting realistic datasets for simulating wireless communications. It uses ray-tracing and 3D scenarios with mobility and time evolution, for obtaining consistency over time, frequency and space. 
