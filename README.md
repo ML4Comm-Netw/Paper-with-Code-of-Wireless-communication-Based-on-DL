@@ -216,6 +216,7 @@ TODO
 ### Machine learning for emerging communication systems and applications
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Dependent Task Offloading for Edge Computing based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9627763)|[RLTaskOffloading](https://github.com/linkpark/RLTaskOffloading)|
 |[Fast Adaptive Computation Offloading in Edge Computing based on Meta Reinforcement Learning](https://arxiv.org/abs/2008.02033)|[metarl-offloading](https://github.com/linkpark/metarl-offloading)|
 |[Lyapunov-guided Deep Reinforcement Learning for Stable Online Computation Offloading in Mobile-Edge Computing Networks](https://ieeexplore.ieee.org/document/9449944)|[LyDROO](https://github.com/revenol/LyDROO)|
 |[Proactive and AoI-aware Failure Recovery for Stateful NFV-enabled Zero-Touch 6G Networks: Model-Free DRL Approach](https://arxiv.org/abs/2103.03817)|[ZT-PFR](https://github.com/wildsky95/ZT-PFR)|
