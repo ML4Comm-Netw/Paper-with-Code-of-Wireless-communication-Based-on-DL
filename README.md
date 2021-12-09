@@ -43,6 +43,8 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[LoRD-Net: Unfolded Deep Detection Network with Low-Resolution Receivers](https://arxiv.org/abs/2102.02993)|[LoRD-Net](https://github.com/skhobahi/LoRD-Net)|
+|[Deep Diffusion Models for Robust Channel Estimation](https://arxiv.org/abs/2111.08177)|[diffusion-channels](https://github.com/utcsilab/diffusion-channels)|
 |[A Channel Coding Benchmark for Meta-Learning](https://openreview.net/forum?id=DjzPaX8AT0z)|[MetaCC](https://github.com/ruihuili/MetaCC)|
 |[On the Feasibility of Modeling OFDM Communication Signals with Unsupervised Generative Adversarial Networks](https://arxiv.org/abs/2109.05107)|[OFDM-GAN](https://github.com/usnistgov/OFDM-GAN)|
 |[Robust Learning-Based ML Detection for Massive MIMO Systems with One-Bit Quantized Signals](https://ieeexplore.ieee.org/document/9013332)|[LearningML](https://github.com/Yunseong-Cho/LearningML)|
@@ -139,6 +141,9 @@ TODO
 ### Resource and network optimization 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Power Allocation for Wireless Federated Learning using Graph Neural Networks](https://arxiv.org/abs/2111.07480)|[WirelessFL-PDGNet](https://github.com/bl166/wirelessfl-pdgnet)|
+|[Delay-Oriented Distributed Scheduling Using Graph Neural Networks](https://arxiv.org/abs/2111.07017)|[gcn-dql](https://github.com/zhongyuanzhao/gcn-dql)|
+|[Deep Learning Based MAC via Joint Channel Access and Rate Adaptation](https://arxiv.org/abs/2106.10307)|[Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset](https://github.com/postman511/Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset)|
 |[wireless link scheduling via graph representation learning: a comparative study of different supervision levels](https://arxiv.org/abs/2110.01722)|[LinkSchedulingGNNs_SupervisionStudy](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)|
 |[Distributed Scheduling using Graph Neural Networks](https://arxiv.org/abs/2011.09430)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
 |[DeepBeam: Deep Waveform Learning for Coordination-Free Beam Management in mmWave Networks](https://arxiv.org/abs/2012.14350)|[deepbeam](https://github.com/wineslab/deepbeam)|
@@ -246,6 +251,7 @@ TODO
 * [Sum Spectral Efficiency Maximization in Massive MIMO Systems: Benefits from Deep Learning](https://arxiv.org/pdf/1903.08163.pdf)
 
 # 数据集/Database
+* [Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset](https://github.com/postman511/Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset):A Dataset For RSSI Analysis
 * [MetaCC](https://github.com/ruihuili/MetaCC):[A Channel Coding Benchmark for Meta-Learning](https://openreview.net/forum?id=DjzPaX8AT0z)
 * [thymio-radio-map](https://github.com/arthurgassner/thymio-radio-map): [OpenCSI: An Open-Source Dataset for Indoor Localization Using CSI-Based Fingerprinting](https://arxiv.org/abs/2104.07963)
 * [The DeepMIMO Dataset](http://deepmimo.net/) and  the corresponding paper [DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications](https://arxiv.org/abs/1902.06435)
@@ -253,14 +259,14 @@ TODO
 * [MASSIVE MIMO CSI MEASUREMENTS](https://homes.esat.kuleuven.be/~sdebast/csi_measurements.html)
 * [SM-CsiNet+ and PM-CsiNet+](https://drive.google.com/drive/folders/1_lAMLk_5k1Z8zJQlTr5NRnSD6ACaNRtj?usp=sharing):来自论文[Convolutional Neural Network based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis](https://arxiv.org/pdf/1906.06007.pdf)
 * [An open online real modulated dataset](https://pan.baidu.com/s/1biDooH6E81Toxa2u4D3p2g):来自论文[Deep Learning for Signal Demodulation in Physical Layer Wireless Communications: Prototype Platform, Open Dataset, and Analytics](https://arxiv.org/pdf/1903.04297.pdf)。
-> To the best of our knowledge,this is the first open dataset of real modulated signals
-> for wireless communication systems.
+  > To the best of our knowledge,this is the first open dataset of real modulated signals
+  > for wireless communication systems.
 * [RF DATASETS FOR MACHINE LEARNING](https://www.deepsig.io/datasets)
 * [open datase](https://pan.baidu.com/s/1rS143bEDaOTEiCneXE67dg#list/path=%2F):来自论文[Signal Demodulation With Machine Learning
 Methods for Physical Layer Visible Light
 Communications: Prototype Platform,
 Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8661606&tag=1)
->The dataset is collected in real physical environment, and the channel suffers from many factors such as limited LED bandwidth, multi-reflection,spurious or continuous jamming, etc.
+  >The dataset is collected in real physical environment, and the channel suffers from many factors such as limited LED bandwidth, multi-reflection,spurious or continuous jamming, etc.
 # 学者个人主页/Researcher Homepage
 * [Dr. Zhen Gao ( 高 镇 )](https://gaozhen16.eu.org/):
   - Wireless Communications
