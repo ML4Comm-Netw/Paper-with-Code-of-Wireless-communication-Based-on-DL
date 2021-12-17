@@ -221,6 +221,7 @@ TODO
 ### Machine learning for emerging communication systems and applications
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Reinforcement Learning with Communication Transformer for Adaptive Live Streaming in Wireless Edge Networks](https://ieeexplore.ieee.org/document/9605672)|[SACCT](https://github.com/wsyCUHK/SACCT)|
 |[Dependent Task Offloading for Edge Computing based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9627763)|[RLTaskOffloading](https://github.com/linkpark/RLTaskOffloading)|
 |[Fast Adaptive Computation Offloading in Edge Computing based on Meta Reinforcement Learning](https://arxiv.org/abs/2008.02033)|[metarl-offloading](https://github.com/linkpark/metarl-offloading)|
 |[Lyapunov-guided Deep Reinforcement Learning for Stable Online Computation Offloading in Mobile-Edge Computing Networks](https://ieeexplore.ieee.org/document/9449944)|[LyDROO](https://github.com/revenol/LyDROO)|
