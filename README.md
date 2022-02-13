@@ -141,6 +141,7 @@ TODO
 ### Resource and network optimization 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[An Unsupervised Deep Unrolling Framework for Constrained Optimization Problems in Wireless Networks](https://arxiv.org/abs/2201.08994)|[USRMNet-HWGCN](https://github.com/soulven/usrmnet-hwgcn)|
 |[Power Allocation for Wireless Federated Learning using Graph Neural Networks](https://arxiv.org/abs/2111.07480)|[WirelessFL-PDGNet](https://github.com/bl166/wirelessfl-pdgnet)|
 |[Delay-Oriented Distributed Scheduling Using Graph Neural Networks](https://arxiv.org/abs/2111.07017)|[gcn-dql](https://github.com/zhongyuanzhao/gcn-dql)|
 |[Deep Learning Based MAC via Joint Channel Access and Rate Adaptation](https://arxiv.org/abs/2106.10307)|[Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset](https://github.com/postman511/Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset)|
