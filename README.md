@@ -19,9 +19,11 @@ TODO
 - [ ] “通信+DL”论文列表（引用较高，可以没有代码）
 
 # 代码复现与交流群
-[Wechat Bot](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/issues/24)
+<!-- [Wechat Bot](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/issues/24)
+![middle_img_v2_b0dba0c9-e83b-461b-a498-2bb21a2373cg](https://user-images.githubusercontent.com/12268675/156929226-5ad8c8ae-e23c-40a0-8b5c-8f147f24b0fe.jpg)
+ -->
 
-<img src="https://user-images.githubusercontent.com/12268675/114894720-7650c600-9e41-11eb-8702-a2d95f1b1bee.jpg" width="200" alt="交流群" align=center>
+<img src="https://user-images.githubusercontent.com/12268675/156929226-5ad8c8ae-e23c-40a0-8b5c-8f147f24b0fe.jpg" width="200" alt="交流群" align=center>
 
 ## 目录 （Contents)
 
