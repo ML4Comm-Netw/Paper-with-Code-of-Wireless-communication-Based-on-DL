@@ -23,7 +23,8 @@ TODO
 ![middle_img_v2_b0dba0c9-e83b-461b-a498-2bb21a2373cg](https://user-images.githubusercontent.com/12268675/156929226-5ad8c8ae-e23c-40a0-8b5c-8f147f24b0fe.jpg)
  -->
 
-<img src="https://user-images.githubusercontent.com/12268675/156929226-5ad8c8ae-e23c-40a0-8b5c-8f147f24b0fe.jpg" width="200" alt="交流群" align=center>
+
+<img src="https://user-images.githubusercontent.com/12268675/158064810-0b6f4e26-32d2-4c1d-91e8-28b48a47e9f5.jpg" width="200" alt="交流群" align=center>
 
 ## 目录 （Contents)
 
