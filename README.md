@@ -47,6 +47,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Deep Learning Aided Robust Joint Channel Classification, Channel Estimation, and Signal Detection for Underwater Optical Communication](https://ieeexplore.ieee.org/document/9302692)|[UWOC-JCCESD](https://github.com/Huaiyin-Lu/UWOC-JCCESD)|
 |[LoRD-Net: Unfolded Deep Detection Network with Low-Resolution Receivers](https://arxiv.org/abs/2102.02993)|[LoRD-Net](https://github.com/skhobahi/LoRD-Net)|
 |[Deep Diffusion Models for Robust Channel Estimation](https://arxiv.org/abs/2111.08177)|[diffusion-channels](https://github.com/utcsilab/diffusion-channels)|
 |[A Channel Coding Benchmark for Meta-Learning](https://openreview.net/forum?id=DjzPaX8AT0z)|[MetaCC](https://github.com/ruihuili/MetaCC)|
