@@ -47,6 +47,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[sionna: an open-source library for next-generation physical layer research](https://arxiv.org/abs/2203.11854)|[sionna](https://github.com/nvlabs/sionna)|
 |[Deep Learning Aided Robust Joint Channel Classification, Channel Estimation, and Signal Detection for Underwater Optical Communication](https://ieeexplore.ieee.org/document/9302692)|[UWOC-JCCESD](https://github.com/Huaiyin-Lu/UWOC-JCCESD)|
 |[LoRD-Net: Unfolded Deep Detection Network with Low-Resolution Receivers](https://arxiv.org/abs/2102.02993)|[LoRD-Net](https://github.com/skhobahi/LoRD-Net)|
 |[Deep Diffusion Models for Robust Channel Estimation](https://arxiv.org/abs/2111.08177)|[diffusion-channels](https://github.com/utcsilab/diffusion-channels)|
