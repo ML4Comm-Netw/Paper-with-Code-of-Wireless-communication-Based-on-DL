@@ -24,7 +24,8 @@ TODO
 ![middle_img_v2_b0dba0c9-e83b-461b-a498-2bb21a2373cg](https://user-images.githubusercontent.com/12268675/159145989-6453c8c0-09da-493c-a6e4-f5c7bfec143d.png)
  -->
 
-<img src="https://user-images.githubusercontent.com/12268675/160428231-8733bc52-182e-44fc-82e9-8c3b8446a444.png" width="200" alt="交流群" align=center>
+
+<img src="https://user-images.githubusercontent.com/12268675/161728996-804b2a7a-67f2-4837-9c0e-01f95899140e.png" width="200" alt="交流群" align=center>
 
 ## 目录 （Contents)
 
