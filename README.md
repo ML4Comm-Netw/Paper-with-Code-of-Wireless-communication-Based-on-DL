@@ -25,7 +25,7 @@ TODO
  -->
 
 
-<img src="https://user-images.githubusercontent.com/12268675/161728996-804b2a7a-67f2-4837-9c0e-01f95899140e.png" width="200" alt="交流群" align=center>
+<img src="https://user-images.githubusercontent.com/12268675/162611492-85f8d23b-6b65-4cc3-aa17-1e7efe4d46cb.jpg" width="200" alt="交流群" align=center>
 
 ## 目录 （Contents)
 
@@ -47,6 +47,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Gan-Based Joint Activity Detection and Channel Estimation For Grant-free Random Access](https://arxiv.org/abs/2204.01731)|[jadce](https://github.com/deeeeeeplearning/jadce)|
 |[sionna: an open-source library for next-generation physical layer research](https://arxiv.org/abs/2203.11854)|[sionna](https://github.com/nvlabs/sionna)|
 |[Deep Learning Aided Robust Joint Channel Classification, Channel Estimation, and Signal Detection for Underwater Optical Communication](https://ieeexplore.ieee.org/document/9302692)|[UWOC-JCCESD](https://github.com/Huaiyin-Lu/UWOC-JCCESD)|
 |[LoRD-Net: Unfolded Deep Detection Network with Low-Resolution Receivers](https://arxiv.org/abs/2102.02993)|[LoRD-Net](https://github.com/skhobahi/LoRD-Net)|
@@ -147,6 +148,7 @@ TODO
 ### Resource and network optimization 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Resource Allocation based on Graph Neural Networks in Vehicular Communications](https://ieeexplore.ieee.org/document/9322537)|[Globecom2020-ResourceAllocationGNN](https://github.com/Coolzyh/Globecom2020-ResourceAllocationGNN)|
 |[An Unsupervised Deep Unrolling Framework for Constrained Optimization Problems in Wireless Networks](https://arxiv.org/abs/2201.08994)|[USRMNet-HWGCN](https://github.com/soulven/usrmnet-hwgcn)|
 |[Power Allocation for Wireless Federated Learning using Graph Neural Networks](https://arxiv.org/abs/2111.07480)|[WirelessFL-PDGNet](https://github.com/bl166/wirelessfl-pdgnet)|
 |[Delay-Oriented Distributed Scheduling Using Graph Neural Networks](https://arxiv.org/abs/2111.07017)|[gcn-dql](https://github.com/zhongyuanzhao/gcn-dql)|
