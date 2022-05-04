@@ -25,7 +25,7 @@ TODO
  -->
 
 
-<img src="https://user-images.githubusercontent.com/12268675/162611492-85f8d23b-6b65-4cc3-aa17-1e7efe4d46cb.jpg" width="200" alt="交流群" align=center>
+<img src="https://user-images.githubusercontent.com/12268675/166640896-9dd97419-6f68-4122-ab12-8673272f677f.jpg" width="200" alt="交流群" align=center>
 
 ## 目录 （Contents)
 
