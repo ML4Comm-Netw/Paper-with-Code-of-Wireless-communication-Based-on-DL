@@ -20,12 +20,8 @@ TODO
 
 # 代码复现与交流群
 
-<!-- [Wechat Bot](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/issues/24)
-![middle_img_v2_b0dba0c9-e83b-461b-a498-2bb21a2373cg](https://user-images.githubusercontent.com/12268675/159145989-6453c8c0-09da-493c-a6e4-f5c7bfec143d.png)
- -->
 
-
-<img src="https://user-images.githubusercontent.com/12268675/166640896-9dd97419-6f68-4122-ab12-8673272f677f.jpg" width="200" alt="交流群" align=center>
+<img src="https://user-images.githubusercontent.com/12268675/114894720-7650c600-9e41-11eb-8702-a2d95f1b1bee.jpg" width="200" alt="交流群" align=center>
 
 ## 目录 （Contents)
 
