@@ -39,6 +39,7 @@ TODO
 
 | Paper                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|[Online Meta-Learning For Hybrid Model-Based Deep Receivers](https://arxiv.org/abs/2203.14359)|[meta-deepsic](https://github.com/tomerraviv95/meta-deepsic)|
 |[Gan-Based Joint Activity Detection and Channel Estimation For Grant-free Random Access](https://arxiv.org/abs/2204.01731)|[jadce](https://github.com/deeeeeeplearning/jadce)|
 |[sionna: an open-source library for next-generation physical layer research](https://arxiv.org/abs/2203.11854)|[sionna](https://github.com/nvlabs/sionna)|
 |[Deep Learning Aided Robust Joint Channel Classification, Channel Estimation, and Signal Detection for Underwater Optical Communication](https://ieeexplore.ieee.org/document/9302692)|[UWOC-JCCESD](https://github.com/Huaiyin-Lu/UWOC-JCCESD)|
